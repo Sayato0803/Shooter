@@ -548,7 +548,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &530672581
 RectTransform:
   m_ObjectHideFlags: 0
@@ -563,10 +563,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1744055085}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 1, y: 0.5}
-  m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: -100, y: 0}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 100, y: -100}
+  m_SizeDelta: {x: 600, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &530672582
 MonoBehaviour:
@@ -588,7 +588,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Press L to upgrade
+  m_text: "B\u1EA5m L \u0111\u1EC3 n\xE2ng c\u1EA5p m\xE1y bay"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -597,8 +597,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278255615
+  m_fontColor: {r: 1, g: 1, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -615,8 +615,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 75
+  m_fontSizeBase: 75
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1229,6 +1229,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyPrefab: {fileID: 8760517662948897039, guid: 759b284c404b5334b87aef217c9b1346, type: 3}
+  enemyPrefabWave3_Spread: {fileID: 0}
+  enemyPrefabWave3_Homing: {fileID: 0}
   minSpawnTime: 3
   maxSpawnTime: 6
   minX: -2.5
@@ -1236,7 +1238,8 @@ MonoBehaviour:
   spawnY: 5.5
   currentWave: 1
   enemiesKilled: 0
-  enemiesNeededForNextWave: 5
+  enemiesSpawnedThisWave: 0
+  totalEnemiesToSpawn: 5
   WaveLabel: {fileID: 1605268069}
   WaveAnnouncement: {fileID: 1687740479}
 --- !u!4 &1198141648
@@ -2105,6 +2108,10 @@ PrefabInstance:
       propertyPath: explosionPrefab
       value: 
       objectReference: {fileID: 7303084692546158243, guid: 4162b4cb1a4c592478d52967ca92042d, type: 3}
+    - target: {fileID: 7876554356086043138, guid: 005bb17c425130240af7243f3981cb76, type: 3}
+      propertyPath: upgradePromptText
+      value: 
+      objectReference: {fileID: 530672582}
     - target: {fileID: 8391504302053852582, guid: 005bb17c425130240af7243f3981cb76, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.03

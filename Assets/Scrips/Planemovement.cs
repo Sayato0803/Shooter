@@ -21,44 +21,20 @@ public class Planemovement : MonoBehaviour
     // --- GIAO DIỆN MÀN HÌNH ---
     public TextMeshProUGUI healthText; 
     public TextMeshProUGUI coinText;
-    public TextMeshProUGUI upgradePromptText; // Kéo Text thông báo "Bấm L để nâng cấp máy bay" vào đây
+    public TextMeshProUGUI upgradePromptText; 
     public GameObject gameOverUI; 
     
-    private float minX, maxX, minY, maxY;
     [Header("Khoảng lề để máy bay không bị lẹm ra ngoài")]
     public float paddingX = 0.5f; 
     public float paddingY = 0.5f;
+    private float minX, maxX, minY, maxY;
+
+    [Header("Hiệu ứng nhấp nháy chữ")]
+    public float blinkSpeed = 3f; // Tốc độ nhấp nháy của chữ Upgrade
 
     void Awake()
     {
         Instance = this; 
-
-        // Tự động tìm kiếm nếu chưa kéo thả vào Inspector
-        FindUpgradePromptText();
-    }
-
-    void FindUpgradePromptText()
-    {
-        if (upgradePromptText != null) return;
-
-        // 1. Tìm GameObject đang active tên "Upgrade"
-        GameObject upgradeObj = GameObject.Find("Upgrade");
-        if (upgradeObj != null)
-        {
-            upgradePromptText = upgradeObj.GetComponent<TextMeshProUGUI>();
-            return;
-        }
-
-        // 2. Tìm toàn bộ TextMeshProUGUI kể cả đang bị inactive
-        TextMeshProUGUI[] allTexts = Resources.FindObjectsOfTypeAll<TextMeshProUGUI>();
-        foreach (TextMeshProUGUI t in allTexts)
-        {
-            if (t != null && t.gameObject.name.Equals("Upgrade", System.StringComparison.OrdinalIgnoreCase))
-            {
-                upgradePromptText = t;
-                return;
-            }
-        }
     }
 
     void Start()
@@ -71,16 +47,13 @@ public class Planemovement : MonoBehaviour
         currentCoins = 0; 
         UpdateCoinUI();
 
-        // Ẩn dòng thông báo nâng cấp lúc đầu game
-        FindUpgradePromptText();
         if (upgradePromptText != null)
         {
             upgradePromptText.gameObject.SetActive(false);
         }
         else
         {
-            GameObject fallbackObj = GameObject.Find("Upgrade");
-            if (fallbackObj != null) fallbackObj.SetActive(false);
+            Debug.LogWarning("Chưa gán UI UpgradePromptText vào máy bay!");
         }
         
         Time.timeScale = 1f; 
@@ -105,7 +78,16 @@ public class Planemovement : MonoBehaviour
         movement.y = Input.GetAxis("Vertical");
         movement = movement.normalized;
 
-        // Kiểm tra nếu đủ 5 xu, chưa nâng cấp và người chơi bấm phím L
+        // XỬ LÝ NHẤP NHÁY CHỮ UPGRADE KHI ĐANG HIỆN
+        if (upgradePromptText != null && upgradePromptText.gameObject.activeInHierarchy)
+        {
+            Color textColor = upgradePromptText.color;
+            // Mathf.PingPong chạy qua lại giữa 0 và 1, giúp Alpha (độ trong suốt) thay đổi liên tục
+            textColor.a = Mathf.PingPong(Time.time * blinkSpeed, 1f); 
+            upgradePromptText.color = textColor;
+        }
+
+        // Kiểm tra nâng cấp
         if (!isUpgraded && currentCoins >= 5 && Input.GetKeyDown(KeyCode.L))
         {
             TriggerUpgrade();
@@ -115,20 +97,16 @@ public class Planemovement : MonoBehaviour
     void FixedUpdate()
     {
         Vector2 nextPosition = rb.position + movement * speed * Time.fixedDeltaTime;
-
         nextPosition.x = Mathf.Clamp(nextPosition.x, minX, maxX);
         nextPosition.y = Mathf.Clamp(nextPosition.y, minY, maxY);    
-
         rb.MovePosition(nextPosition);
     }
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        // 1. Va chạm với ĐẠN CỦA ĐỊCH
-        if (other.GetComponent<EnemyBullet>() != null)
+        if (other.GetComponent<EnemyBullet>() != null || other.GetComponent<HomingBullet>() != null)
         {
             Destroy(other.gameObject); 
-            
             currentHealth -= 1; 
             UpdateHealthUI();
             
@@ -141,27 +119,21 @@ public class Planemovement : MonoBehaviour
                 Destroy(gameObject); 
             }
         }
-        
-        // 2. Va chạm với ĐỒNG XU
         else if (other.GetComponent<CoinDrop>() != null)
         {
             Destroy(other.gameObject); 
             currentCoins += 1; 
             UpdateCoinUI(); 
 
-            // Khi đạt đủ 5 xu và chưa nâng cấp, hiện thông báo bấm L
             if (currentCoins >= 5 && !isUpgraded)
             {
-                FindUpgradePromptText();
                 if (upgradePromptText != null)
                 {
-                    upgradePromptText.text = "Bấm L để nâng cấp máy bay";
+                    upgradePromptText.text = "Bấm L để Nâng Cấp!";
                     upgradePromptText.gameObject.SetActive(true);
                 }
             }
         }
-
-        // 3. Va chạm với TRÁI TIM (Hồi máu)
         else if (other.GetComponent<HeartDrop>() != null)
         {
             Destroy(other.gameObject); 
@@ -177,53 +149,38 @@ public class Planemovement : MonoBehaviour
     void TriggerUpgrade()
     {
         isUpgraded = true;
-
-        // Trừ 5 xu của người chơi khi nâng cấp
         currentCoins -= 5;
         UpdateCoinUI();
 
-        // Ẩn dòng thông báo sau khi đã bấm L nâng cấp
-        FindUpgradePromptText();
         if (upgradePromptText != null)
         {
+            // Trả lại độ trong suốt 100% trước khi tắt để đảm bảo lỗi hiển thị cho các lần sau (nếu dùng lại)
+            Color textColor = upgradePromptText.color;
+            textColor.a = 1f;
+            upgradePromptText.color = textColor;
+            
             upgradePromptText.gameObject.SetActive(false);
         }
-        else
-        {
-            GameObject fallbackObj = GameObject.Find("Upgrade");
-            if (fallbackObj != null) fallbackObj.SetActive(false);
-        }
 
-        // Tăng max máu lên 7 và hồi thêm +2 máu hiện tại
         maxHealth = 7;
         currentHealth += 2;
         if (currentHealth > maxHealth) currentHealth = maxHealth;
-        
         UpdateHealthUI();
 
-        // Đổi màu máy bay thành màu Xanh ngọc (Cyan) báo hiệu cường hóa
         SpriteRenderer sprite = GetComponent<SpriteRenderer>();
         if (sprite != null)
         {
             sprite.color = Color.cyan;
         }
-
-        Debug.Log("Đã nâng cấp thành công qua phím L!");
     }
 
     void UpdateHealthUI()
     {
-        if (healthText != null)
-        {
-            healthText.text = currentHealth + "/" + maxHealth;
-        }
+        if (healthText != null) healthText.text = currentHealth + "/" + maxHealth;
     }
 
     void UpdateCoinUI()
     {
-        if (coinText != null)
-        {
-            coinText.text = "Coins: " + currentCoins;
-        }
+        if (coinText != null) coinText.text = "Coins: " + currentCoins;
     }
 }

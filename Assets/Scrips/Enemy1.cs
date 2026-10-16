@@ -35,6 +35,9 @@ public class Enemy1 : MonoBehaviour
     public SpriteRenderer healthBarSprite; 
     public GameObject explosionPrefab; 
 
+    // --- CHỐT CHẶN CHỐNG LỖI ĐẾM KÉP ---
+    private bool isDead = false;
+
     void Start()
     {
         currentHealth = maxHealth;
@@ -95,7 +98,9 @@ public class Enemy1 : MonoBehaviour
     void OnTriggerEnter2D(Collider2D other)
     {
         Bullet bullet = other.GetComponent<Bullet>();
-        if (bullet != null) 
+        
+        // Thêm điều kiện !isDead để đảm bảo quái chỉ nhận sát thương khi còn sống
+        if (bullet != null && !isDead) 
         {
             Destroy(other.gameObject); 
             currentHealth -= bullet.damage; 
@@ -104,6 +109,9 @@ public class Enemy1 : MonoBehaviour
 
             if (currentHealth <= 0)
             {
+                // KHÓA LẠI NGAY LẬP TỨC: Tránh việc viên đạn thứ 2 bay vào cùng lúc gọi hàm này thêm lần nữa
+                isDead = true; 
+                
                 if (explosionPrefab != null) 
                     Instantiate(explosionPrefab, transform.position, transform.rotation);
                 
@@ -118,7 +126,7 @@ public class Enemy1 : MonoBehaviour
                     if (heartPrefab != null) Instantiate(heartPrefab, transform.position, Quaternion.identity);
                 }
                 
-                // Báo về Spawner để tính số lượng tiêu diệt
+                // Báo về Spawner để tính số lượng tiêu diệt an toàn
                 if (EnemySpawner.Instance != null)
                 {
                     EnemySpawner.Instance.EnemyKilled();
