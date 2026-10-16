@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 907d74d74bf4cd244957e9c90a0d9aea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3196222198244305169
+    second: img_plane_main_advrobot_03_0
+  - first:
+      213: -1457828415920906362
+    second: img_plane_main_advrobot_03_1
+  - first:
+      213: -8995097371976064390
+    second: img_plane_main_advrobot_03_2
+  - first:
+      213: -709232012847166654
+    second: img_plane_main_advrobot_03_3
+  - first:
+      213: 7556865297789873110
+    second: img_plane_main_advrobot_03_4
+  - first:
+      213: -4263612986659414963
+    second: img_plane_main_advrobot_03_5
+  - first:
+      213: 7617774438076047348
+    second: img_plane_main_advrobot_03_6
+  - first:
+      213: 976834522678244407
+    second: img_plane_main_advrobot_03_7
+  - first:
+      213: -6713660820668912095
+    second: img_plane_main_advrobot_03_8
+  - first:
+      213: 6754231366114459804
+    second: img_plane_main_advrobot_03_9
+  - first:
+      213: -7042248903265746432
+    second: img_plane_main_advrobot_03_10
+  - first:
+      213: -2308390103252695560
+    second: img_plane_main_advrobot_03_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_plane_main_advrobot_03_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 826
+        width: 191
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe61e6258dcb4a3d0800000000000000
+      internalID: -3196222198244305169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advrobot_03_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 834
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f509597c0c4cbe0800000000000000
+      internalID: -1457828415920906362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advrobot_03_2
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 833
+        width: 191
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a722157299efa2380800000000000000
+      internalID: -8995097371976064390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advrobot_03_3
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 835
+        width: 191
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bc8e2fd3d4826f0800000000000000
+      internalID: -709232012847166654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advrobot_03_4
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 837
+        width: 191
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbed3a43f06fd860800000000000000
+      internalID: 7556865297789873110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advrobot_03_5
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 653
+        width: 191
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c5c66049a94d4c0800000000000000
+      internalID: -4263612986659414963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advrobot_03_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 191
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffd290ad75c7b960800000000000000
+      internalID: 7617774438076047348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advrobot_03_7
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 651
+        width: 190
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7343398a2d96e8d00800000000000000
+      internalID: 976834522678244407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advrobot_03_8
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 469
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e6299dd0944d2a0800000000000000
+      internalID: -6713660820668912095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advrobot_03_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 191
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90cd0c54a9dbbd50800000000000000
+      internalID: 6754231366114459804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advrobot_03_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 191
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00206f41fe7e44e90800000000000000
+      internalID: -7042248903265746432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advrobot_03_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 191
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f588947e63f6ffd0800000000000000
+      internalID: -2308390103252695560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_plane_main_advrobot_03_0: -3196222198244305169
+      img_plane_main_advrobot_03_1: -1457828415920906362
+      img_plane_main_advrobot_03_10: -7042248903265746432
+      img_plane_main_advrobot_03_11: -2308390103252695560
+      img_plane_main_advrobot_03_2: -8995097371976064390
+      img_plane_main_advrobot_03_3: -709232012847166654
+      img_plane_main_advrobot_03_4: 7556865297789873110
+      img_plane_main_advrobot_03_5: -4263612986659414963
+      img_plane_main_advrobot_03_6: 7617774438076047348
+      img_plane_main_advrobot_03_7: 976834522678244407
+      img_plane_main_advrobot_03_8: -6713660820668912095
+      img_plane_main_advrobot_03_9: 6754231366114459804
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

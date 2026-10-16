@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 404c5acd2ef256147bc9db79009dbddc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4178400001903561996
+    second: img_plane_main_advcupid_01_0
+  - first:
+      213: 1639862540858749417
+    second: img_plane_main_advcupid_01_1
+  - first:
+      213: 6134944012188124136
+    second: img_plane_main_advcupid_01_2
+  - first:
+      213: 4155787340655607566
+    second: img_plane_main_advcupid_01_3
+  - first:
+      213: 1383734758186395347
+    second: img_plane_main_advcupid_01_4
+  - first:
+      213: 6285467807550859777
+    second: img_plane_main_advcupid_01_5
+  - first:
+      213: 4649095793170524385
+    second: img_plane_main_advcupid_01_6
+  - first:
+      213: -8826114395687274474
+    second: img_plane_main_advcupid_01_7
+  - first:
+      213: -5971710405228116755
+    second: img_plane_main_advcupid_01_8
+  - first:
+      213: -768320336648573033
+    second: img_plane_main_advcupid_01_9
+  - first:
+      213: -5618138224940362307
+    second: img_plane_main_advcupid_01_10
+  - first:
+      213: 8200912634536239347
+    second: img_plane_main_advcupid_01_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_plane_main_advcupid_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 382
+        width: 139
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d04f2e9a8acf930800000000000000
+      internalID: 4178400001903561996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advcupid_01_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 252
+        width: 115
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1fa54ea46f1c610800000000000000
+      internalID: 1639862540858749417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advcupid_01_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 382
+        width: 127
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e302632313b32550800000000000000
+      internalID: 6134944012188124136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advcupid_01_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 382
+        width: 117
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fb7d961925ca930800000000000000
+      internalID: 4155787340655607566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advcupid_01_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 382
+        width: 115
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6af056e63043310800000000000000
+      internalID: 1383734758186395347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advcupid_01_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 254
+        width: 113
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ae83c4ba77a3750800000000000000
+      internalID: 6285467807550859777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advcupid_01_6
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 256
+        width: 113
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e821beedf7e48040800000000000000
+      internalID: 4649095793170524385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advcupid_01_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 124
+        width: 115
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618391a48b7538580800000000000000
+      internalID: -8826114395687274474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advcupid_01_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 128
+        width: 114
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4cfd2a609302da0800000000000000
+      internalID: -5971710405228116755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advcupid_01_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 113
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f6a5c79b06655f0800000000000000
+      internalID: -768320336648573033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advcupid_01_10
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2
+        width: 112
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5d263fc0d5802b0800000000000000
+      internalID: -5618138224940362307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advcupid_01_11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2
+        width: 115
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0ab8f379e7fc170800000000000000
+      internalID: 8200912634536239347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_plane_main_advcupid_01_0: 4178400001903561996
+      img_plane_main_advcupid_01_1: 1639862540858749417
+      img_plane_main_advcupid_01_10: -5618138224940362307
+      img_plane_main_advcupid_01_11: 8200912634536239347
+      img_plane_main_advcupid_01_2: 6134944012188124136
+      img_plane_main_advcupid_01_3: 4155787340655607566
+      img_plane_main_advcupid_01_4: 1383734758186395347
+      img_plane_main_advcupid_01_5: 6285467807550859777
+      img_plane_main_advcupid_01_6: 4649095793170524385
+      img_plane_main_advcupid_01_7: -8826114395687274474
+      img_plane_main_advcupid_01_8: -5971710405228116755
+      img_plane_main_advcupid_01_9: -768320336648573033
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

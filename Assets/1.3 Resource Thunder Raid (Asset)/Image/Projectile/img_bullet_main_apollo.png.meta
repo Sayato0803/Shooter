@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: ca4dbc40ca49e4845bb537a4a2fc407b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2690726193292798034
+    second: img_bullet_main_apollo_0
+  - first:
+      213: -3372932901470239874
+    second: img_bullet_main_apollo_1
+  - first:
+      213: -310937008622835945
+    second: img_bullet_main_apollo_2
+  - first:
+      213: -6436215870015100264
+    second: img_bullet_main_apollo_3
+  - first:
+      213: 1834235717459156619
+    second: img_bullet_main_apollo_4
+  - first:
+      213: 1385520214944733316
+    second: img_bullet_main_apollo_5
+  - first:
+      213: -3015221750144911585
+    second: img_bullet_main_apollo_6
+  - first:
+      213: 2412733810609009672
+    second: img_bullet_main_apollo_7
+  - first:
+      213: -7376334381220989316
+    second: img_bullet_main_apollo_8
+  - first:
+      213: -4409546175867950642
+    second: img_bullet_main_apollo_9
+  - first:
+      213: 7722039296806941787
+    second: img_bullet_main_apollo_10
+  - first:
+      213: -8986025314014745735
+    second: img_bullet_main_apollo_11
+  - first:
+      213: 7756144553991386159
+    second: img_bullet_main_apollo_12
+  - first:
+      213: 3477568648714834961
+    second: img_bullet_main_apollo_13
+  - first:
+      213: -2127750859692410034
+    second: img_bullet_main_apollo_14
+  - first:
+      213: 6014759745840434767
+    second: img_bullet_main_apollo_15
+  - first:
+      213: -2281323420374221878
+    second: img_bullet_main_apollo_16
+  - first:
+      213: -291305021244341516
+    second: img_bullet_main_apollo_17
+  - first:
+      213: 2710377807169613978
+    second: img_bullet_main_apollo_18
+  - first:
+      213: -7714155931733610057
+    second: img_bullet_main_apollo_19
+  - first:
+      213: 6698982640819002374
+    second: img_bullet_main_apollo_20
+  - first:
+      213: -8675123555003291684
+    second: img_bullet_main_apollo_21
+  - first:
+      213: 5505929706595531422
+    second: img_bullet_main_apollo_22
+  - first:
+      213: 3017130064820969947
+    second: img_bullet_main_apollo_23
+  - first:
+      213: 2881176126776471017
+    second: img_bullet_main_apollo_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_bullet_main_apollo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 113
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea791f488ce98aad0800000000000000
+      internalID: -2690726193292798034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_apollo_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 687
+        width: 97
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7383ac856fe031d0800000000000000
+      internalID: -3372932901470239874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_apollo_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 688
+        width: 58
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717638520745fabf0800000000000000
+      internalID: -310937008622835945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_apollo_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 943
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89aa40a44c7fda6a0800000000000000
+      internalID: -6436215870015100264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_apollo_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 688
+        width: 58
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e9c75baa3847910800000000000000
+      internalID: 1834235717459156619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_apollo_5
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 943
+        width: 85
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48857e07b4b5a3310800000000000000
+      internalID: 1385520214944733316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_apollo_6
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 860
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17b4972bc7c726d0800000000000000
+      internalID: -3015221750144911585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_apollo_7
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 769
+        width: 58
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804bce61e90cb7120800000000000000
+      internalID: 2412733810609009672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_apollo_8
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 777
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7672d636fef1a990800000000000000
+      internalID: -7376334381220989316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_apollo_9
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 694
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec965b6ad152ec2c0800000000000000
+      internalID: -4409546175867950642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_apollo_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 113
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54f8cbc3d13a2b60800000000000000
+      internalID: 7722039296806941787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_apollo_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 350
+        width: 97
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bab7f36993b4380800000000000000
+      internalID: -8986025314014745735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_apollo_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 408
+        width: 80
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24bc37c06c53ab60800000000000000
+      internalID: 7756144553991386159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_apollo_13
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 433
+        width: 58
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114dea4d24ec24030800000000000000
+      internalID: 3477568648714834961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_apollo_14
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 613
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b708dcdd5b872e0800000000000000
+      internalID: -2127750859692410034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_apollo_15
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 514
+        width: 58
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e432c0f18b87350800000000000000
+      internalID: 6014759745840434767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_apollo_16
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 267
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbb0d6af6c1750e0800000000000000
+      internalID: -2281323420374221878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_apollo_17
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 267
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2817760a315fbf0800000000000000
+      internalID: -291305021244341516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_apollo_18
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 325
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90727361423d9520800000000000000
+      internalID: 2710377807169613978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_apollo_19
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 46
+        width: 80
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1bb0b2d00d1f490800000000000000
+      internalID: -7714155931733610057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_apollo_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 59
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c5686183197fc50800000000000000
+      internalID: 6698982640819002374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_apollo_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 22
+        width: 60
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7a769e615cb9780800000000000000
+      internalID: -8675123555003291684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_apollo_22
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 12
+        width: 58
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ab5ef75edf86c40800000000000000
+      internalID: 5505929706595531422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_apollo_23
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 12
+        width: 58
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd12ecafecffed920800000000000000
+      internalID: 3017130064820969947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_apollo_24
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 12
+        width: 58
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ede8d31c6efbf720800000000000000
+      internalID: 2881176126776471017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_bullet_main_apollo_0: -2690726193292798034
+      img_bullet_main_apollo_1: -3372932901470239874
+      img_bullet_main_apollo_10: 7722039296806941787
+      img_bullet_main_apollo_11: -8986025314014745735
+      img_bullet_main_apollo_12: 7756144553991386159
+      img_bullet_main_apollo_13: 3477568648714834961
+      img_bullet_main_apollo_14: -2127750859692410034
+      img_bullet_main_apollo_15: 6014759745840434767
+      img_bullet_main_apollo_16: -2281323420374221878
+      img_bullet_main_apollo_17: -291305021244341516
+      img_bullet_main_apollo_18: 2710377807169613978
+      img_bullet_main_apollo_19: -7714155931733610057
+      img_bullet_main_apollo_2: -310937008622835945
+      img_bullet_main_apollo_20: 6698982640819002374
+      img_bullet_main_apollo_21: -8675123555003291684
+      img_bullet_main_apollo_22: 5505929706595531422
+      img_bullet_main_apollo_23: 3017130064820969947
+      img_bullet_main_apollo_24: 2881176126776471017
+      img_bullet_main_apollo_3: -6436215870015100264
+      img_bullet_main_apollo_4: 1834235717459156619
+      img_bullet_main_apollo_5: 1385520214944733316
+      img_bullet_main_apollo_6: -3015221750144911585
+      img_bullet_main_apollo_7: 2412733810609009672
+      img_bullet_main_apollo_8: -7376334381220989316
+      img_bullet_main_apollo_9: -4409546175867950642
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

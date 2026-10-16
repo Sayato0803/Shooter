@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 7ad55dabef52a5342aba3b1892e5d9b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6865336720725132328
+    second: img_bullet_main_venus_0
+  - first:
+      213: 6515053277567363436
+    second: img_bullet_main_venus_1
+  - first:
+      213: -8686543927000513486
+    second: img_bullet_main_venus_2
+  - first:
+      213: 3788661589499533954
+    second: img_bullet_main_venus_3
+  - first:
+      213: 3186462638024887332
+    second: img_bullet_main_venus_4
+  - first:
+      213: 6830884071029234577
+    second: img_bullet_main_venus_5
+  - first:
+      213: 4031483512116924421
+    second: img_bullet_main_venus_6
+  - first:
+      213: -4684324141574386306
+    second: img_bullet_main_venus_7
+  - first:
+      213: -8317672909741961327
+    second: img_bullet_main_venus_8
+  - first:
+      213: 1766119147350890803
+    second: img_bullet_main_venus_9
+  - first:
+      213: -7235438002000649420
+    second: img_bullet_main_venus_10
+  - first:
+      213: 2878606220301205681
+    second: img_bullet_main_venus_11
+  - first:
+      213: 5739732916947653786
+    second: img_bullet_main_venus_12
+  - first:
+      213: -250075153581488228
+    second: img_bullet_main_venus_13
+  - first:
+      213: 6395978147076538848
+    second: img_bullet_main_venus_14
+  - first:
+      213: 14658263069595423
+    second: img_bullet_main_venus_15
+  - first:
+      213: -7210085955403764252
+    second: img_bullet_main_venus_16
+  - first:
+      213: -6675522129485369162
+    second: img_bullet_main_venus_17
+  - first:
+      213: -3954349164080776156
+    second: img_bullet_main_venus_18
+  - first:
+      213: 6682308938173119172
+    second: img_bullet_main_venus_19
+  - first:
+      213: -8101667839518814790
+    second: img_bullet_main_venus_20
+  - first:
+      213: -5361134811538160616
+    second: img_bullet_main_venus_21
+  - first:
+      213: 4814675559533064803
+    second: img_bullet_main_venus_22
+  - first:
+      213: -5851671133114453696
+    second: img_bullet_main_venus_23
+  - first:
+      213: -4917360503167162073
+    second: img_bullet_main_venus_24
+  - first:
+      213: -7849425883199347695
+    second: img_bullet_main_venus_25
+  - first:
+      213: -3139250016617318073
+    second: img_bullet_main_venus_26
+  - first:
+      213: -883712713756524167
+    second: img_bullet_main_venus_27
+  - first:
+      213: -769966011685745676
+    second: img_bullet_main_venus_28
+  - first:
+      213: 5783417957969278332
+    second: img_bullet_main_venus_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_bullet_main_venus_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 765
+        width: 101
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82444469f53964f50800000000000000
+      internalID: 6865336720725132328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 765
+        width: 102
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69a52e007e1a6a50800000000000000
+      internalID: 6515053277567363436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 765
+        width: 102
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234ce495252337780800000000000000
+      internalID: -8686543927000513486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_3
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 765
+        width: 102
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a594874a7049430800000000000000
+      internalID: 3788661589499533954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_4
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 827
+        width: 72
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c078df2e6983c20800000000000000
+      internalID: 3186462638024887332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_5
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 835
+        width: 34
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b529bfedc2cce50800000000000000
+      internalID: 6830884071029234577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_6
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 646
+        width: 34
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500d29105e4b2f730800000000000000
+      internalID: 4031483512116924421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 71
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d0ca80300fdfeb0800000000000000
+      internalID: -4684324141574386306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 568
+        width: 72
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fc0f8be80b19c80800000000000000
+      internalID: -8317672909741961327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 617
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3399dd8d104828810800000000000000
+      internalID: 1766119147350890803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 691
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433a360e87f869b90800000000000000
+      internalID: -7235438002000649420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_11
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 617
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b088491b1dd2f720800000000000000
+      internalID: 2878606220301205681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_12
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 691
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9418447da0a7af40800000000000000
+      internalID: 5739732916947653786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_13
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 617
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97cf9709fd878cf0800000000000000
+      internalID: -250075153581488228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_14
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 691
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e188a7cc3413c850800000000000000
+      internalID: 6395978147076538848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_15
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 691
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f179943dc93143000800000000000000
+      internalID: 14658263069595423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_16
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 671
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed20243601a0fb90800000000000000
+      internalID: -7210085955403764252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_17
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 691
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0f3cdddf7cb53a0800000000000000
+      internalID: -6675522129485369162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_18
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 671
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c3a15e2645f19c0800000000000000
+      internalID: -3954349164080776156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_19
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 630
+        width: 72
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4caf93b23945cbc50800000000000000
+      internalID: 6682308938173119172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_20
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 519
+        width: 46
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd46414608119f80800000000000000
+      internalID: -8101667839518814790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_21
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 651
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814894d1b4c6995b0800000000000000
+      internalID: -5361134811538160616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_22
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 519
+        width: 46
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36239b289e921d240800000000000000
+      internalID: 4814675559533064803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_23
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 651
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0413e40ab10bacea0800000000000000
+      internalID: -5851671133114453696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_24
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 512
+        width: 30
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7296f28fca602cbb0800000000000000
+      internalID: -4917360503167162073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 512
+        width: 30
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114652d4fbc311390800000000000000
+      internalID: -7849425883199347695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_26
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 499
+        width: 45
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749b26a0eb42f64d0800000000000000
+      internalID: -3139250016617318073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_27
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 499
+        width: 45
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971cb0d08fb6cb3f0800000000000000
+      internalID: -883712713756524167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_28
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 541
+        width: 30
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbc858edf78055f0800000000000000
+      internalID: -769966011685745676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_venus_29
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 434
+        width: 30
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75bf5cadf3d24050800000000000000
+      internalID: 5783417957969278332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_bullet_main_venus_0: 6865336720725132328
+      img_bullet_main_venus_1: 6515053277567363436
+      img_bullet_main_venus_10: -7235438002000649420
+      img_bullet_main_venus_11: 2878606220301205681
+      img_bullet_main_venus_12: 5739732916947653786
+      img_bullet_main_venus_13: -250075153581488228
+      img_bullet_main_venus_14: 6395978147076538848
+      img_bullet_main_venus_15: 14658263069595423
+      img_bullet_main_venus_16: -7210085955403764252
+      img_bullet_main_venus_17: -6675522129485369162
+      img_bullet_main_venus_18: -3954349164080776156
+      img_bullet_main_venus_19: 6682308938173119172
+      img_bullet_main_venus_2: -8686543927000513486
+      img_bullet_main_venus_20: -8101667839518814790
+      img_bullet_main_venus_21: -5361134811538160616
+      img_bullet_main_venus_22: 4814675559533064803
+      img_bullet_main_venus_23: -5851671133114453696
+      img_bullet_main_venus_24: -4917360503167162073
+      img_bullet_main_venus_25: -7849425883199347695
+      img_bullet_main_venus_26: -3139250016617318073
+      img_bullet_main_venus_27: -883712713756524167
+      img_bullet_main_venus_28: -769966011685745676
+      img_bullet_main_venus_29: 5783417957969278332
+      img_bullet_main_venus_3: 3788661589499533954
+      img_bullet_main_venus_4: 3186462638024887332
+      img_bullet_main_venus_5: 6830884071029234577
+      img_bullet_main_venus_6: 4031483512116924421
+      img_bullet_main_venus_7: -4684324141574386306
+      img_bullet_main_venus_8: -8317672909741961327
+      img_bullet_main_venus_9: 1766119147350890803
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

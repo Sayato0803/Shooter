@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: d6c0d208516e7964b84c275e87de12fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3282388755724178494
+    second: img_plane_main_phoebe_01_0
+  - first:
+      213: 5076770048304407698
+    second: img_plane_main_phoebe_01_1
+  - first:
+      213: -7590625911151337345
+    second: img_plane_main_phoebe_01_2
+  - first:
+      213: -7766478310692090842
+    second: img_plane_main_phoebe_01_3
+  - first:
+      213: -3242144702769037158
+    second: img_plane_main_phoebe_01_4
+  - first:
+      213: -5374732760593853150
+    second: img_plane_main_phoebe_01_5
+  - first:
+      213: 1091524600757910394
+    second: img_plane_main_phoebe_01_6
+  - first:
+      213: -3415069810540512301
+    second: img_plane_main_phoebe_01_7
+  - first:
+      213: -6991391075484687499
+    second: img_plane_main_phoebe_01_8
+  - first:
+      213: 6299858440247790486
+    second: img_plane_main_phoebe_01_9
+  - first:
+      213: -276634507065901403
+    second: img_plane_main_phoebe_01_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_plane_main_phoebe_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 863
+        width: 135
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbe25841dc9272d0800000000000000
+      internalID: -3282388755724178494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_phoebe_01_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 865
+        width: 135
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294e687067f447640800000000000000
+      internalID: 5076770048304407698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_phoebe_01_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 706
+        width: 135
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70e2fe53fda8a690800000000000000
+      internalID: -7590625911151337345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_phoebe_01_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 865
+        width: 135
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c0c6fff1de73490800000000000000
+      internalID: -7766478310692090842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_phoebe_01_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 706
+        width: 135
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90890902969103d0800000000000000
+      internalID: -3242144702769037158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_phoebe_01_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 135
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2251622e70d1965b0800000000000000
+      internalID: -5374732760593853150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_phoebe_01_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 547
+        width: 135
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b76cb57dfd52f00800000000000000
+      internalID: 1091524600757910394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_phoebe_01_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 549
+        width: 135
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db7293e91c3b90d0800000000000000
+      internalID: -3415069810540512301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_phoebe_01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 545
+        width: 135
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57326ebdbd699fe90800000000000000
+      internalID: -6991391075484687499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_phoebe_01_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 390
+        width: 135
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b47329fd79d6750800000000000000
+      internalID: 6299858440247790486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_phoebe_01_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 392
+        width: 135
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aeb8b9a162392cf0800000000000000
+      internalID: -276634507065901403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_plane_main_phoebe_01_0: -3282388755724178494
+      img_plane_main_phoebe_01_1: 5076770048304407698
+      img_plane_main_phoebe_01_10: -276634507065901403
+      img_plane_main_phoebe_01_2: -7590625911151337345
+      img_plane_main_phoebe_01_3: -7766478310692090842
+      img_plane_main_phoebe_01_4: -3242144702769037158
+      img_plane_main_phoebe_01_5: -5374732760593853150
+      img_plane_main_phoebe_01_6: 1091524600757910394
+      img_plane_main_phoebe_01_7: -3415069810540512301
+      img_plane_main_phoebe_01_8: -6991391075484687499
+      img_plane_main_phoebe_01_9: 6299858440247790486
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: d96ef96ad4ff2fc4f84f8b65960fd0d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8135513843921869718
+    second: wsparticle_egg_0
+  - first:
+      213: -2067790958380227281
+    second: wsparticle_egg_1
+  - first:
+      213: -8014298477563381791
+    second: wsparticle_egg_2
+  - first:
+      213: -641882102874340016
+    second: wsparticle_egg_3
+  - first:
+      213: 3349236603917166550
+    second: wsparticle_egg_4
+  - first:
+      213: 5394433069515706627
+    second: wsparticle_egg_5
+  - first:
+      213: 2303218988777378699
+    second: wsparticle_egg_6
+  - first:
+      213: -1969134012595732712
+    second: wsparticle_egg_7
+  - first:
+      213: -6218148676211173826
+    second: wsparticle_egg_8
+  - first:
+      213: 380459041245183041
+    second: wsparticle_egg_9
+  - first:
+      213: 8278903120049838686
+    second: wsparticle_egg_10
+  - first:
+      213: 4039807078481851940
+    second: wsparticle_egg_11
+  - first:
+      213: -8960629090074369438
+    second: wsparticle_egg_12
+  - first:
+      213: -6406996545966852765
+    second: wsparticle_egg_13
+  - first:
+      213: -2362143876606504066
+    second: wsparticle_egg_14
+  - first:
+      213: -9220634004238087490
+    second: wsparticle_egg_15
+  - first:
+      213: 3405166625617786453
+    second: wsparticle_egg_16
+  - first:
+      213: 6612720390858427506
+    second: wsparticle_egg_17
+  - first:
+      213: 6101282704153016795
+    second: wsparticle_egg_18
+  - first:
+      213: -3972928630252352587
+    second: wsparticle_egg_19
+  - first:
+      213: -1582657702454873419
+    second: wsparticle_egg_20
+  - first:
+      213: 2221511825242526462
+    second: wsparticle_egg_21
+  - first:
+      213: 9138611669920012176
+    second: wsparticle_egg_22
+  - first:
+      213: 6326664852954512999
+    second: wsparticle_egg_23
+  - first:
+      213: 7541621553842355991
+    second: wsparticle_egg_24
+  - first:
+      213: -2367956489151223329
+    second: wsparticle_egg_25
+  - first:
+      213: -1858061894054538085
+    second: wsparticle_egg_26
+  - first:
+      213: 7646318352629952124
+    second: wsparticle_egg_27
+  - first:
+      213: 2416561672821005691
+    second: wsparticle_egg_28
+  - first:
+      213: 8863038445904174383
+    second: wsparticle_egg_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wsparticle_egg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 478
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64a3c34349d81f80800000000000000
+      internalID: -8135513843921869718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 425
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f256bf7341bbd43e0800000000000000
+      internalID: -2067790958380227281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_2
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 484
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e771e80ffd77c090800000000000000
+      internalID: -8014298477563381791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_3
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 423
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0558e76d0a39717f0800000000000000
+      internalID: -641882102874340016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 477
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7e73d32f0ea7e20800000000000000
+      internalID: 3349236603917166550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_5
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 363
+        width: 135
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3019a19bb40ecda40800000000000000
+      internalID: 5394433069515706627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 425
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b839202a77da6ff10800000000000000
+      internalID: 2303218988777378699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 378
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f77186c0b3ca4e0800000000000000
+      internalID: -1969134012595732712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_8
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 382
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e361ed169b2b4b9a0800000000000000
+      internalID: -6218148676211173826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_9
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 297
+        width: 99
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c31057b79a74500800000000000000
+      internalID: 380459041245183041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_10
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 353
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a9170368294e270800000000000000
+      internalID: 8278903120049838686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_11
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 318
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426f4025227401830800000000000000
+      internalID: 4039807078481851940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_12
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 313
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262e51a615375a380800000000000000
+      internalID: -8960629090074369438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 261
+        width: 86
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365bd705696c517a0800000000000000
+      internalID: -6406996545966852765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_14
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 169
+        width: 77
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73518ec8aaf73fd0800000000000000
+      internalID: -2362143876606504066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_15
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 257
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba4085e93ab90080800000000000000
+      internalID: -9220634004238087490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_16
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 210
+        width: 30
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556b6f03105914f20800000000000000
+      internalID: 3405166625617786453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_17
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 171
+        width: 61
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c4918e82a15cb50800000000000000
+      internalID: 6612720390858427506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_18
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 262
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9764f1b4c1ca450800000000000000
+      internalID: 6101282704153016795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_19
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 220
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb44d3d5725dd8c0800000000000000
+      internalID: -3972928630252352587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b234247435490ae0800000000000000
+      internalID: -1582657702454873419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 226
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef219e72c3564de10800000000000000
+      internalID: 2221511825242526462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 152
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09752d535eed2de70800000000000000
+      internalID: 9138611669920012176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_23
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 191
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e7d45e924dcc750800000000000000
+      internalID: 6326664852954512999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_24
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 189
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ff33398d839a860800000000000000
+      internalID: 7541621553842355991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 26
+        width: 99
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd96f8c7e14532fd0800000000000000
+      internalID: -2367956489151223329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_26
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 82
+        width: 217
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9490324d86d636e0800000000000000
+      internalID: -1858061894054538085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_27
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 92
+        width: 180
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7eee00a70e2d1a60800000000000000
+      internalID: 7646318352629952124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 43
+        width: 81
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dd156b90a598120800000000000000
+      internalID: 2416561672821005691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_egg_29
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 36
+        width: 85
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d9fb61286dffa70800000000000000
+      internalID: 8863038445904174383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wsparticle_egg_0: -8135513843921869718
+      wsparticle_egg_1: -2067790958380227281
+      wsparticle_egg_10: 8278903120049838686
+      wsparticle_egg_11: 4039807078481851940
+      wsparticle_egg_12: -8960629090074369438
+      wsparticle_egg_13: -6406996545966852765
+      wsparticle_egg_14: -2362143876606504066
+      wsparticle_egg_15: -9220634004238087490
+      wsparticle_egg_16: 3405166625617786453
+      wsparticle_egg_17: 6612720390858427506
+      wsparticle_egg_18: 6101282704153016795
+      wsparticle_egg_19: -3972928630252352587
+      wsparticle_egg_2: -8014298477563381791
+      wsparticle_egg_20: -1582657702454873419
+      wsparticle_egg_21: 2221511825242526462
+      wsparticle_egg_22: 9138611669920012176
+      wsparticle_egg_23: 6326664852954512999
+      wsparticle_egg_24: 7541621553842355991
+      wsparticle_egg_25: -2367956489151223329
+      wsparticle_egg_26: -1858061894054538085
+      wsparticle_egg_27: 7646318352629952124
+      wsparticle_egg_28: 2416561672821005691
+      wsparticle_egg_29: 8863038445904174383
+      wsparticle_egg_3: -641882102874340016
+      wsparticle_egg_4: 3349236603917166550
+      wsparticle_egg_5: 5394433069515706627
+      wsparticle_egg_6: 2303218988777378699
+      wsparticle_egg_7: -1969134012595732712
+      wsparticle_egg_8: -6218148676211173826
+      wsparticle_egg_9: 380459041245183041
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

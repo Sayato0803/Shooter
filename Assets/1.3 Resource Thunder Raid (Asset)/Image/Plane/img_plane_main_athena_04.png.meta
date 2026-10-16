@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 4be42a50b1d167a4a8d41df29cd465ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8332512089342993395
+    second: img_plane_main_athena_04_0
+  - first:
+      213: -1900097321964492705
+    second: img_plane_main_athena_04_1
+  - first:
+      213: 4786041971525419643
+    second: img_plane_main_athena_04_2
+  - first:
+      213: 1587244059141455514
+    second: img_plane_main_athena_04_3
+  - first:
+      213: -4270504348067481971
+    second: img_plane_main_athena_04_4
+  - first:
+      213: -6302718248442758851
+    second: img_plane_main_athena_04_5
+  - first:
+      213: -4328072538102998969
+    second: img_plane_main_athena_04_6
+  - first:
+      213: 3008134291580401811
+    second: img_plane_main_athena_04_7
+  - first:
+      213: -7201121806159801003
+    second: img_plane_main_athena_04_8
+  - first:
+      213: 148788874677946206
+    second: img_plane_main_athena_04_9
+  - first:
+      213: 475916148241138689
+    second: img_plane_main_athena_04_10
+  - first:
+      213: 798572938592809319
+    second: img_plane_main_athena_04_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_plane_main_athena_04_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 903
+        width: 172
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3efe3099703a370800000000000000
+      internalID: 8332512089342993395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_athena_04_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 786
+        width: 158
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58a2a58d8f71a5e0800000000000000
+      internalID: -1900097321964492705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_athena_04_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 897
+        width: 168
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7202e8c0df6b6240800000000000000
+      internalID: 4786041971525419643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_athena_04_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 903
+        width: 154
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9eb9fcef06070610800000000000000
+      internalID: 1587244059141455514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_athena_04_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 782
+        width: 144
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d863da9ebee1cb4c0800000000000000
+      internalID: -4270504348067481971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_athena_04_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 669
+        width: 136
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d397232752f3888a0800000000000000
+      internalID: -6302718248442758851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_athena_04_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 631
+        width: 131
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7485f3c25f89fe3c0800000000000000
+      internalID: -4328072538102998969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_athena_04_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 752
+        width: 143
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398325e433a0fb920800000000000000
+      internalID: 3008134291580401811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_athena_04_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 623
+        width: 132
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5559687ded9701c90800000000000000
+      internalID: -7201121806159801003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_athena_04_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 128
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5785b571ba901200800000000000000
+      internalID: 148788874677946206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_athena_04_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 393
+        width: 116
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10409ce173bca9600800000000000000
+      internalID: 475916148241138689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_athena_04_11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 510
+        width: 129
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761701c4bd9151b00800000000000000
+      internalID: 798572938592809319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_plane_main_athena_04_0: 8332512089342993395
+      img_plane_main_athena_04_1: -1900097321964492705
+      img_plane_main_athena_04_10: 475916148241138689
+      img_plane_main_athena_04_11: 798572938592809319
+      img_plane_main_athena_04_2: 4786041971525419643
+      img_plane_main_athena_04_3: 1587244059141455514
+      img_plane_main_athena_04_4: -4270504348067481971
+      img_plane_main_athena_04_5: -6302718248442758851
+      img_plane_main_athena_04_6: -4328072538102998969
+      img_plane_main_athena_04_7: 3008134291580401811
+      img_plane_main_athena_04_8: -7201121806159801003
+      img_plane_main_athena_04_9: 148788874677946206
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

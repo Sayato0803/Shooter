@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 13f6d622c329f1c45a33aca949259a39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6759539251197614866
+    second: img_bullet_main_dragon_0
+  - first:
+      213: 6353023250090963618
+    second: img_bullet_main_dragon_1
+  - first:
+      213: -805353414180377591
+    second: img_bullet_main_dragon_2
+  - first:
+      213: 4337583245896892579
+    second: img_bullet_main_dragon_3
+  - first:
+      213: -1009293688057470786
+    second: img_bullet_main_dragon_4
+  - first:
+      213: 7096199352976277267
+    second: img_bullet_main_dragon_5
+  - first:
+      213: 1204265637421833307
+    second: img_bullet_main_dragon_6
+  - first:
+      213: -4898886333100815826
+    second: img_bullet_main_dragon_7
+  - first:
+      213: 8853274085300615683
+    second: img_bullet_main_dragon_8
+  - first:
+      213: 4353786589625628815
+    second: img_bullet_main_dragon_9
+  - first:
+      213: -1778970150912321645
+    second: img_bullet_main_dragon_10
+  - first:
+      213: -1960762536401018065
+    second: img_bullet_main_dragon_11
+  - first:
+      213: -9190673466828617485
+    second: img_bullet_main_dragon_12
+  - first:
+      213: 8475472173968936489
+    second: img_bullet_main_dragon_13
+  - first:
+      213: -6241313786828697100
+    second: img_bullet_main_dragon_14
+  - first:
+      213: 1617210250598773308
+    second: img_bullet_main_dragon_15
+  - first:
+      213: 5189422649039111758
+    second: img_bullet_main_dragon_16
+  - first:
+      213: -7546751795928820857
+    second: img_bullet_main_dragon_17
+  - first:
+      213: 3199339699416032354
+    second: img_bullet_main_dragon_18
+  - first:
+      213: 6312759090292622491
+    second: img_bullet_main_dragon_19
+  - first:
+      213: 1807013054087424687
+    second: img_bullet_main_dragon_20
+  - first:
+      213: 4211604337653878357
+    second: img_bullet_main_dragon_21
+  - first:
+      213: 7111963543696998079
+    second: img_bullet_main_dragon_22
+  - first:
+      213: 8822207057264986177
+    second: img_bullet_main_dragon_23
+  - first:
+      213: -2099262220198438104
+    second: img_bullet_main_dragon_24
+  - first:
+      213: 4345050902690380404
+    second: img_bullet_main_dragon_25
+  - first:
+      213: -7468198282758956629
+    second: img_bullet_main_dragon_26
+  - first:
+      213: -6535266745900002650
+    second: img_bullet_main_dragon_27
+  - first:
+      213: 3303524233681181887
+    second: img_bullet_main_dragon_28
+  - first:
+      213: -5568888309478080766
+    second: img_bullet_main_dragon_29
+  - first:
+      213: 7374391977121704552
+    second: img_bullet_main_dragon_30
+  - first:
+      213: 6143373688829804891
+    second: img_bullet_main_dragon_31
+  - first:
+      213: 1282266232450214263
+    second: img_bullet_main_dragon_32
+  - first:
+      213: 4144952041341377340
+    second: img_bullet_main_dragon_33
+  - first:
+      213: -2105594697210547393
+    second: img_bullet_main_dragon_34
+  - first:
+      213: 4357547995316754664
+    second: img_bullet_main_dragon_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 394
+        width: 69
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b91f8a225becd50800000000000000
+      internalID: 6759539251197614866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 394
+        width: 68
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a238777cf87a2850800000000000000
+      internalID: 6353023250090963618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 399
+        width: 68
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c6125365fc2d4f0800000000000000
+      internalID: -805353414180377591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 411
+        width: 56
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0ce5b0bf0323c30800000000000000
+      internalID: 4337583245896892579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 416
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb06a49fcb44ef1f0800000000000000
+      internalID: -1009293688057470786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_5
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 414
+        width: 54
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ff189d6b3ca7260800000000000000
+      internalID: 7096199352976277267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_6
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 414
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cdcbd773966b010800000000000000
+      internalID: 1204265637421833307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_7
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 427
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a8280e5d8a30cb0800000000000000
+      internalID: -4898886333100815826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_8
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 427
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ab389bfd52dda70800000000000000
+      internalID: 8853274085300615683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 69
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88be7ef5d1cb6c30800000000000000
+      internalID: 4353786589625628815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 281
+        width: 68
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39719d8b214df47e0800000000000000
+      internalID: -1778970150912321645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_11
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 286
+        width: 66
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f236ce89cd8f9c4e0800000000000000
+      internalID: -1960762536401018065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 298
+        width: 56
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8821b1d2b247080800000000000000
+      internalID: -9190673466828617485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_13
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 310
+        width: 56
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e4029890dee9570800000000000000
+      internalID: 8475472173968936489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_14
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 316
+        width: 48
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1d354cd266269a0800000000000000
+      internalID: -6241313786828697100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 316
+        width: 47
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c327f02972c717610800000000000000
+      internalID: 1617210250598773308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_16
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 329
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46c7519768840840800000000000000
+      internalID: 5189422649039111758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 69
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7831f9bd93d844790800000000000000
+      internalID: -7546751795928820857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 168
+        width: 68
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2646f7b7186566c20800000000000000
+      internalID: 3199339699416032354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 176
+        width: 65
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94828932fc6b9750800000000000000
+      internalID: 6312759090292622491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 185
+        width: 56
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faaef597cccc31910800000000000000
+      internalID: 1807013054087424687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_21
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 197
+        width: 56
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e8a50c4df927a30800000000000000
+      internalID: 4211604337653878357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_22
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 212
+        width: 48
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe76958925c2b260800000000000000
+      internalID: 7111963543696998079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_23
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 218
+        width: 48
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14849379396ce6a70800000000000000
+      internalID: 8822207057264986177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_24
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 231
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b9ca2122cedd2e0800000000000000
+      internalID: -2099262220198438104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 67
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ab9d166c8bc4c30800000000000000
+      internalID: 4345050902690380404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_26
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 40
+        width: 67
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba958f3ea31ab5890800000000000000
+      internalID: -7468198282758956629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_27
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 55
+        width: 67
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2153a15811e45a0800000000000000
+      internalID: -6535266745900002650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_28
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 84
+        width: 56
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc1677a9c978dd20800000000000000
+      internalID: 3303524233681181887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 99
+        width: 54
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fbbb7769557b2b0800000000000000
+      internalID: -5568888309478080766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_30
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 99
+        width: 53
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a64d69e6a175660800000000000000
+      internalID: 7374391977121704552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_31
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 120
+        width: 45
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b518e2d22d5a14550800000000000000
+      internalID: 6143373688829804891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_32
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7796cac38568bc110800000000000000
+      internalID: 1282266232450214263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_33
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bde23bbe3d58930800000000000000
+      internalID: 4144952041341377340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_34
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1
+        width: 54
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33b1df57cc67c2e0800000000000000
+      internalID: -2105594697210547393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_dragon_35
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1
+        width: 54
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8129080de197c30800000000000000
+      internalID: 4357547995316754664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_bullet_main_dragon_0: 6759539251197614866
+      img_bullet_main_dragon_1: 6353023250090963618
+      img_bullet_main_dragon_10: -1778970150912321645
+      img_bullet_main_dragon_11: -1960762536401018065
+      img_bullet_main_dragon_12: -9190673466828617485
+      img_bullet_main_dragon_13: 8475472173968936489
+      img_bullet_main_dragon_14: -6241313786828697100
+      img_bullet_main_dragon_15: 1617210250598773308
+      img_bullet_main_dragon_16: 5189422649039111758
+      img_bullet_main_dragon_17: -7546751795928820857
+      img_bullet_main_dragon_18: 3199339699416032354
+      img_bullet_main_dragon_19: 6312759090292622491
+      img_bullet_main_dragon_2: -805353414180377591
+      img_bullet_main_dragon_20: 1807013054087424687
+      img_bullet_main_dragon_21: 4211604337653878357
+      img_bullet_main_dragon_22: 7111963543696998079
+      img_bullet_main_dragon_23: 8822207057264986177
+      img_bullet_main_dragon_24: -2099262220198438104
+      img_bullet_main_dragon_25: 4345050902690380404
+      img_bullet_main_dragon_26: -7468198282758956629
+      img_bullet_main_dragon_27: -6535266745900002650
+      img_bullet_main_dragon_28: 3303524233681181887
+      img_bullet_main_dragon_29: -5568888309478080766
+      img_bullet_main_dragon_3: 4337583245896892579
+      img_bullet_main_dragon_30: 7374391977121704552
+      img_bullet_main_dragon_31: 6143373688829804891
+      img_bullet_main_dragon_32: 1282266232450214263
+      img_bullet_main_dragon_33: 4144952041341377340
+      img_bullet_main_dragon_34: -2105594697210547393
+      img_bullet_main_dragon_35: 4357547995316754664
+      img_bullet_main_dragon_4: -1009293688057470786
+      img_bullet_main_dragon_5: 7096199352976277267
+      img_bullet_main_dragon_6: 1204265637421833307
+      img_bullet_main_dragon_7: -4898886333100815826
+      img_bullet_main_dragon_8: 8853274085300615683
+      img_bullet_main_dragon_9: 4353786589625628815
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

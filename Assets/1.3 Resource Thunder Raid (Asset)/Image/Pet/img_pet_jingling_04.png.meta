@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 92f4474cefbc1c7438969bbb351fb6d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8729330749515808150
+    second: img_pet_jingling_04_0
+  - first:
+      213: 9084145827641859993
+    second: img_pet_jingling_04_1
+  - first:
+      213: 624065055397409718
+    second: img_pet_jingling_04_2
+  - first:
+      213: 8310702245163870109
+    second: img_pet_jingling_04_3
+  - first:
+      213: -654814724581507147
+    second: img_pet_jingling_04_4
+  - first:
+      213: 5719895181787498032
+    second: img_pet_jingling_04_5
+  - first:
+      213: 265983783430325189
+    second: img_pet_jingling_04_6
+  - first:
+      213: -338198973891413163
+    second: img_pet_jingling_04_7
+  - first:
+      213: -7507363566305507091
+    second: img_pet_jingling_04_8
+  - first:
+      213: -2827090833623623634
+    second: img_pet_jingling_04_9
+  - first:
+      213: 1956844140271984382
+    second: img_pet_jingling_04_10
+  - first:
+      213: 2949763803916349125
+    second: img_pet_jingling_04_11
+  - first:
+      213: -5272730708656133390
+    second: img_pet_jingling_04_12
+  - first:
+      213: -6785507528914806624
+    second: img_pet_jingling_04_13
+  - first:
+      213: 7545697359475384988
+    second: img_pet_jingling_04_14
+  - first:
+      213: 6301333559229255864
+    second: img_pet_jingling_04_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_pet_jingling_04_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 109
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69db8c31110d42970800000000000000
+      internalID: 8729330749515808150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_jingling_04_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 416
+        width: 99
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f9078108e511e70800000000000000
+      internalID: 9084145827641859993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_jingling_04_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 99
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b372b78cdf19a800800000000000000
+      internalID: 624065055397409718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_jingling_04_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 395
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97a805f8ab855370800000000000000
+      internalID: 8310702245163870109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_jingling_04_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 389
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfbf933a71a9e6f0800000000000000
+      internalID: -654814724581507147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_jingling_04_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 293
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03689eecc56216f40800000000000000
+      internalID: 5719895181787498032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_jingling_04_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 282
+        width: 57
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3016f77d6f0b300800000000000000
+      internalID: 265983783430325189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_jingling_04_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 93
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bfcc933d97e4bf0800000000000000
+      internalID: -338198973891413163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_jingling_04_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 161
+        width: 86
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de886a6bc9c70d790800000000000000
+      internalID: -7507363566305507091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_jingling_04_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 276
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28d91a8dd724c8d0800000000000000
+      internalID: -2827090833623623634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_jingling_04_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 177
+        width: 51
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe57b5b06b182b10800000000000000
+      internalID: 1956844140271984382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_jingling_04_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 161
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce2db71d8aafe820800000000000000
+      internalID: 2949763803916349125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_jingling_04_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 153
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fae14a4b5f73d6b0800000000000000
+      internalID: -5272730708656133390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_jingling_04_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 48
+        width: 71
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a85b468ad805d1a0800000000000000
+      internalID: -6785507528914806624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_jingling_04_14
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 66
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92222605c3b7b860800000000000000
+      internalID: 7545697359475384988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_jingling_04_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 71
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b09b197c75d27750800000000000000
+      internalID: 6301333559229255864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_pet_jingling_04_0: 8729330749515808150
+      img_pet_jingling_04_1: 9084145827641859993
+      img_pet_jingling_04_10: 1956844140271984382
+      img_pet_jingling_04_11: 2949763803916349125
+      img_pet_jingling_04_12: -5272730708656133390
+      img_pet_jingling_04_13: -6785507528914806624
+      img_pet_jingling_04_14: 7545697359475384988
+      img_pet_jingling_04_15: 6301333559229255864
+      img_pet_jingling_04_2: 624065055397409718
+      img_pet_jingling_04_3: 8310702245163870109
+      img_pet_jingling_04_4: -654814724581507147
+      img_pet_jingling_04_5: 5719895181787498032
+      img_pet_jingling_04_6: 265983783430325189
+      img_pet_jingling_04_7: -338198973891413163
+      img_pet_jingling_04_8: -7507363566305507091
+      img_pet_jingling_04_9: -2827090833623623634
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 2853bb026fb9f224ebd332a32a57d614
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5688625368741996087
+    second: img_plane_main_pegasus_02_0
+  - first:
+      213: 2857352785636156893
+    second: img_plane_main_pegasus_02_1
+  - first:
+      213: 6239071536401786098
+    second: img_plane_main_pegasus_02_2
+  - first:
+      213: -1930623640732885350
+    second: img_plane_main_pegasus_02_3
+  - first:
+      213: 8977399660911486774
+    second: img_plane_main_pegasus_02_4
+  - first:
+      213: -6571359811337310173
+    second: img_plane_main_pegasus_02_5
+  - first:
+      213: -7152678545067529711
+    second: img_plane_main_pegasus_02_6
+  - first:
+      213: -4308881104231965860
+    second: img_plane_main_pegasus_02_7
+  - first:
+      213: -9077346761883607597
+    second: img_plane_main_pegasus_02_8
+  - first:
+      213: 6754651932267870554
+    second: img_plane_main_pegasus_02_9
+  - first:
+      213: -1989142057774237109
+    second: img_plane_main_pegasus_02_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_plane_main_pegasus_02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 161
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c99bd3ed51fd01b0800000000000000
+      internalID: -5688625368741996087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_pegasus_02_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 402
+        width: 158
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5e0d9383b57a720800000000000000
+      internalID: 2857352785636156893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_pegasus_02_2
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 270
+        width: 142
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4aa7f9182a59650800000000000000
+      internalID: 6239071536401786098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_pegasus_02_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 404
+        width: 155
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e1523170c0535e0800000000000000
+      internalID: -1930623640732885350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_pegasus_02_4
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 298
+        width: 45
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63767536d61269c70800000000000000
+      internalID: 8977399660911486774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_pegasus_02_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 106
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32036f17117ddc4a0800000000000000
+      internalID: -6571359811337310173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_pegasus_02_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 188
+        width: 100
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a21b082c49cbc90800000000000000
+      internalID: -7152678545067529711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_pegasus_02_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 292
+        width: 138
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b5cd21777c334c0800000000000000
+      internalID: -4308881104231965860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_pegasus_02_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 91
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd92e2c639c60280800000000000000
+      internalID: -9077346761883607597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_pegasus_02_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 73
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a597b3c05285dbd50800000000000000
+      internalID: 6754651932267870554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_pegasus_02_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 44
+        width: 57
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ab39e56d52564e0800000000000000
+      internalID: -1989142057774237109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_plane_main_pegasus_02_0: -5688625368741996087
+      img_plane_main_pegasus_02_1: 2857352785636156893
+      img_plane_main_pegasus_02_10: -1989142057774237109
+      img_plane_main_pegasus_02_2: 6239071536401786098
+      img_plane_main_pegasus_02_3: -1930623640732885350
+      img_plane_main_pegasus_02_4: 8977399660911486774
+      img_plane_main_pegasus_02_5: -6571359811337310173
+      img_plane_main_pegasus_02_6: -7152678545067529711
+      img_plane_main_pegasus_02_7: -4308881104231965860
+      img_plane_main_pegasus_02_8: -9077346761883607597
+      img_plane_main_pegasus_02_9: 6754651932267870554
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 82e5346460df42e48aad7d11bf1e4edd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1062988210902993756
+    second: wsparticle_jiabailie01_0
+  - first:
+      213: 6264196422231700696
+    second: wsparticle_jiabailie01_1
+  - first:
+      213: -6132671539620105475
+    second: wsparticle_jiabailie01_2
+  - first:
+      213: 5510248782851136845
+    second: wsparticle_jiabailie01_3
+  - first:
+      213: -7234362086583340669
+    second: wsparticle_jiabailie01_4
+  - first:
+      213: 435189113892310265
+    second: wsparticle_jiabailie01_5
+  - first:
+      213: -1724829063332779092
+    second: wsparticle_jiabailie01_6
+  - first:
+      213: -6815104547251690801
+    second: wsparticle_jiabailie01_7
+  - first:
+      213: 5876853598036972660
+    second: wsparticle_jiabailie01_8
+  - first:
+      213: -5941703041450864797
+    second: wsparticle_jiabailie01_9
+  - first:
+      213: -6045438889986176966
+    second: wsparticle_jiabailie01_10
+  - first:
+      213: -8250178518018134287
+    second: wsparticle_jiabailie01_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wsparticle_jiabailie01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 103
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b0d47552e70ce00800000000000000
+      internalID: 1062988210902993756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jiabailie01_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 135
+        width: 87
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4b466f475eee650800000000000000
+      internalID: 6264196422231700696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jiabailie01_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 135
+        width: 71
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2bbcc1abf54eaa0800000000000000
+      internalID: -6132671539620105475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jiabailie01_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 139
+        width: 58
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ddeddc216587c40800000000000000
+      internalID: 5510248782851136845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jiabailie01_4
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 139
+        width: 58
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38175a4f2026a9b90800000000000000
+      internalID: -7234362086583340669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jiabailie01_5
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 187
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc0baf713a1a0600800000000000000
+      internalID: 435189113892310265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jiabailie01_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 101
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caba7cdfa1d2018e0800000000000000
+      internalID: -1724829063332779092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jiabailie01_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 14
+        width: 89
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2e9e1b582eb61a0800000000000000
+      internalID: -6815104547251690801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jiabailie01_8
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 14
+        width: 68
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47458f3e537ce8150800000000000000
+      internalID: 5876853598036972660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jiabailie01_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 62
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f86757094da8da0800000000000000
+      internalID: -5941703041450864797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jiabailie01_10
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 30
+        width: 54
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38ca031c594a1ca0800000000000000
+      internalID: -6045438889986176966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jiabailie01_11
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 44
+        width: 51
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe68f3695a718d80800000000000000
+      internalID: -8250178518018134287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wsparticle_jiabailie01_0: 1062988210902993756
+      wsparticle_jiabailie01_1: 6264196422231700696
+      wsparticle_jiabailie01_10: -6045438889986176966
+      wsparticle_jiabailie01_11: -8250178518018134287
+      wsparticle_jiabailie01_2: -6132671539620105475
+      wsparticle_jiabailie01_3: 5510248782851136845
+      wsparticle_jiabailie01_4: -7234362086583340669
+      wsparticle_jiabailie01_5: 435189113892310265
+      wsparticle_jiabailie01_6: -1724829063332779092
+      wsparticle_jiabailie01_7: -6815104547251690801
+      wsparticle_jiabailie01_8: 5876853598036972660
+      wsparticle_jiabailie01_9: -5941703041450864797
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

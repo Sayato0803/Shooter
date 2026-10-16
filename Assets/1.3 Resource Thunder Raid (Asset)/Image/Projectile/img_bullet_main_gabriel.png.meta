@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 44ce3862f348f364a90b1572e40d9036
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1257294885379807458
+    second: img_bullet_main_gabriel_0
+  - first:
+      213: -9114364228948123968
+    second: img_bullet_main_gabriel_1
+  - first:
+      213: 2308797904360541870
+    second: img_bullet_main_gabriel_2
+  - first:
+      213: 685442540501542940
+    second: img_bullet_main_gabriel_3
+  - first:
+      213: 3899655271565252880
+    second: img_bullet_main_gabriel_4
+  - first:
+      213: 5388103815851927357
+    second: img_bullet_main_gabriel_5
+  - first:
+      213: -1684067267188680744
+    second: img_bullet_main_gabriel_6
+  - first:
+      213: 1861955336988343701
+    second: img_bullet_main_gabriel_7
+  - first:
+      213: 6979178704999935563
+    second: img_bullet_main_gabriel_8
+  - first:
+      213: -1825131789828142200
+    second: img_bullet_main_gabriel_9
+  - first:
+      213: 1292928136735759630
+    second: img_bullet_main_gabriel_10
+  - first:
+      213: -7048875714488887695
+    second: img_bullet_main_gabriel_11
+  - first:
+      213: 8844611947220268035
+    second: img_bullet_main_gabriel_12
+  - first:
+      213: 137954017463457892
+    second: img_bullet_main_gabriel_13
+  - first:
+      213: -8165651686182290622
+    second: img_bullet_main_gabriel_14
+  - first:
+      213: 5013244127964855914
+    second: img_bullet_main_gabriel_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_bullet_main_gabriel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 86
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e89afc690fc27110800000000000000
+      internalID: 1257294885379807458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gabriel_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 324
+        width: 88
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce15041606438180800000000000000
+      internalID: -9114364228948123968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gabriel_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 346
+        width: 75
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae8393267f7a0020800000000000000
+      internalID: 2308797904360541870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gabriel_3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 346
+        width: 75
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c182984eb5e238900800000000000000
+      internalID: 685442540501542940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gabriel_4
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 364
+        width: 56
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0195028eecb5e1630800000000000000
+      internalID: 3899655271565252880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gabriel_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 216
+        width: 56
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37e7c48fd366ca40800000000000000
+      internalID: 5388103815851927357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gabriel_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 364
+        width: 56
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d71b593ebdf0a8e0800000000000000
+      internalID: -1684067267188680744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gabriel_7
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 364
+        width: 56
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d35d0938ef6d910800000000000000
+      internalID: 1861955336988343701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gabriel_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 86
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4eed7f0e060bd060800000000000000
+      internalID: 6979178704999935563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gabriel_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 136
+        width: 88
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b450f9e44dba6e0800000000000000
+      internalID: -1825131789828142200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gabriel_10
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 180
+        width: 75
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d1e364a4761f110800000000000000
+      internalID: 1292928136735759630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gabriel_11
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 14
+        width: 75
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176130c52ec5d2e90800000000000000
+      internalID: -7048875714488887695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gabriel_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3047d3a84bf5eba70800000000000000
+      internalID: 8844611947220268035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gabriel_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 41
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4685f3ea27c1ae100800000000000000
+      internalID: 137954017463457892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gabriel_14
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 41
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bf88d0e07cdae80800000000000000
+      internalID: -8165651686182290622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gabriel_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 41
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e78ab19fe929540800000000000000
+      internalID: 5013244127964855914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_bullet_main_gabriel_0: 1257294885379807458
+      img_bullet_main_gabriel_1: -9114364228948123968
+      img_bullet_main_gabriel_10: 1292928136735759630
+      img_bullet_main_gabriel_11: -7048875714488887695
+      img_bullet_main_gabriel_12: 8844611947220268035
+      img_bullet_main_gabriel_13: 137954017463457892
+      img_bullet_main_gabriel_14: -8165651686182290622
+      img_bullet_main_gabriel_15: 5013244127964855914
+      img_bullet_main_gabriel_2: 2308797904360541870
+      img_bullet_main_gabriel_3: 685442540501542940
+      img_bullet_main_gabriel_4: 3899655271565252880
+      img_bullet_main_gabriel_5: 5388103815851927357
+      img_bullet_main_gabriel_6: -1684067267188680744
+      img_bullet_main_gabriel_7: 1861955336988343701
+      img_bullet_main_gabriel_8: 6979178704999935563
+      img_bullet_main_gabriel_9: -1825131789828142200
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

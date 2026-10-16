@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: f5011b7b5ee2ea54f840539f35ea7f67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4379736900690403495
+    second: img_plane_main_sds_03_0
+  - first:
+      213: 2788861945849407344
+    second: img_plane_main_sds_03_1
+  - first:
+      213: -6060287997909128125
+    second: img_plane_main_sds_03_2
+  - first:
+      213: -8939874046097254144
+    second: img_plane_main_sds_03_3
+  - first:
+      213: 7592318560302978020
+    second: img_plane_main_sds_03_4
+  - first:
+      213: 3741938521709054170
+    second: img_plane_main_sds_03_5
+  - first:
+      213: 8584160722282700327
+    second: img_plane_main_sds_03_6
+  - first:
+      213: -7091877395629090421
+    second: img_plane_main_sds_03_7
+  - first:
+      213: 6038324366718822058
+    second: img_plane_main_sds_03_8
+  - first:
+      213: 2633719490587242365
+    second: img_plane_main_sds_03_9
+  - first:
+      213: 756490265969705833
+    second: img_plane_main_sds_03_10
+  - first:
+      213: 8257534071947405740
+    second: img_plane_main_sds_03_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_plane_main_sds_03_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 925
+        width: 201
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f9da06e7c0833c0800000000000000
+      internalID: -4379736900690403495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_sds_03_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 826
+        width: 201
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07765f9e92704b620800000000000000
+      internalID: 2788861945849407344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_sds_03_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 925
+        width: 202
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c2018bc2885eba0800000000000000
+      internalID: -6060287997909128125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_sds_03_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 826
+        width: 202
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00993a9abef2fe380800000000000000
+      internalID: -8939874046097254144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_sds_03_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 726
+        width: 201
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3d67831855d5960800000000000000
+      internalID: 7592318560302978020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_sds_03_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 627
+        width: 201
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad881d582490ee330800000000000000
+      internalID: 3741938521709054170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_sds_03_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 727
+        width: 202
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e558232b0112770800000000000000
+      internalID: 8584160722282700327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_sds_03_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 628
+        width: 202
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89d7e24517949d90800000000000000
+      internalID: -7091877395629090421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_sds_03_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 201
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa66cd4e4007cc350800000000000000
+      internalID: 6038324366718822058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_sds_03_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429
+        width: 201
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fa9723ce9dc8420800000000000000
+      internalID: 2633719490587242365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_sds_03_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 528
+        width: 202
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9634a2b83e79f7a00800000000000000
+      internalID: 756490265969705833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_sds_03_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 430
+        width: 202
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca92c17fc77a89270800000000000000
+      internalID: 8257534071947405740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_plane_main_sds_03_0: -4379736900690403495
+      img_plane_main_sds_03_1: 2788861945849407344
+      img_plane_main_sds_03_10: 756490265969705833
+      img_plane_main_sds_03_11: 8257534071947405740
+      img_plane_main_sds_03_2: -6060287997909128125
+      img_plane_main_sds_03_3: -8939874046097254144
+      img_plane_main_sds_03_4: 7592318560302978020
+      img_plane_main_sds_03_5: 3741938521709054170
+      img_plane_main_sds_03_6: 8584160722282700327
+      img_plane_main_sds_03_7: -7091877395629090421
+      img_plane_main_sds_03_8: 6038324366718822058
+      img_plane_main_sds_03_9: 2633719490587242365
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

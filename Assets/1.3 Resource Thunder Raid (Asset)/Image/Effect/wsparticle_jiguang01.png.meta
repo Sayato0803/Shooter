@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 6258838ce8b75e940808e4136a1d1019
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1753023804180746224
+    second: wsparticle_jiguang01_0
+  - first:
+      213: 4128921322023035518
+    second: wsparticle_jiguang01_1
+  - first:
+      213: -4628428205766739497
+    second: wsparticle_jiguang01_2
+  - first:
+      213: 5779326400153698323
+    second: wsparticle_jiguang01_3
+  - first:
+      213: -3308895180828163244
+    second: wsparticle_jiguang01_4
+  - first:
+      213: -7838733690113694317
+    second: wsparticle_jiguang01_5
+  - first:
+      213: 1228966163204957840
+    second: wsparticle_jiguang01_6
+  - first:
+      213: 281441804185697045
+    second: wsparticle_jiguang01_7
+  - first:
+      213: 7558111857863707165
+    second: wsparticle_jiguang01_8
+  - first:
+      213: -476220380663187153
+    second: wsparticle_jiguang01_9
+  - first:
+      213: -1430398452805087041
+    second: wsparticle_jiguang01_10
+  - first:
+      213: -1022711774676650943
+    second: wsparticle_jiguang01_11
+  - first:
+      213: 8592930195959387351
+    second: wsparticle_jiguang01_12
+  - first:
+      213: -5780027388754129106
+    second: wsparticle_jiguang01_13
+  - first:
+      213: 7857374423813207273
+    second: wsparticle_jiguang01_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wsparticle_jiguang01_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 449
+        width: 102
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff4ffaacddf35810800000000000000
+      internalID: 1753023804180746224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jiguang01_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 451
+        width: 102
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7228b00110ec4930800000000000000
+      internalID: 4128921322023035518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jiguang01_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 391
+        width: 102
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9ffdeb11584cfb0800000000000000
+      internalID: -4628428205766739497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jiguang01_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 389
+        width: 102
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310c232adba443050800000000000000
+      internalID: 5779326400153698323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jiguang01_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 329
+        width: 102
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4534cb34d517412d0800000000000000
+      internalID: -3308895180828163244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jiguang01_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 331
+        width: 102
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395e2ef7d39373390800000000000000
+      internalID: -7838733690113694317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jiguang01_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 271
+        width: 102
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0966ecec63a2e0110800000000000000
+      internalID: 1228966163204957840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jiguang01_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 213
+        width: 102
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bfe6b64d1e7e300800000000000000
+      internalID: 281441804185697045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jiguang01_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 271
+        width: 102
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a42aca0bec3e860800000000000000
+      internalID: 7558111857863707165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jiguang01_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 215
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29f4cf36102469f0800000000000000
+      internalID: -476220380663187153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jiguang01_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 159
+        width: 102
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0d84d8f24362ce0800000000000000
+      internalID: -1430398452805087041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jiguang01_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 157
+        width: 102
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144f9ca3f099ec1f0800000000000000
+      internalID: -1022711774676650943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jiguang01_12
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 103
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d413e56c78304770800000000000000
+      internalID: 8592930195959387351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jiguang01_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 101
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f084db6b739cfa0800000000000000
+      internalID: -5780027388754129106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jiguang01_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1
+        width: 54
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e430a688600b0d60800000000000000
+      internalID: 7857374423813207273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wsparticle_jiguang01_0: 1753023804180746224
+      wsparticle_jiguang01_1: 4128921322023035518
+      wsparticle_jiguang01_10: -1430398452805087041
+      wsparticle_jiguang01_11: -1022711774676650943
+      wsparticle_jiguang01_12: 8592930195959387351
+      wsparticle_jiguang01_13: -5780027388754129106
+      wsparticle_jiguang01_14: 7857374423813207273
+      wsparticle_jiguang01_2: -4628428205766739497
+      wsparticle_jiguang01_3: 5779326400153698323
+      wsparticle_jiguang01_4: -3308895180828163244
+      wsparticle_jiguang01_5: -7838733690113694317
+      wsparticle_jiguang01_6: 1228966163204957840
+      wsparticle_jiguang01_7: 281441804185697045
+      wsparticle_jiguang01_8: 7558111857863707165
+      wsparticle_jiguang01_9: -476220380663187153
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

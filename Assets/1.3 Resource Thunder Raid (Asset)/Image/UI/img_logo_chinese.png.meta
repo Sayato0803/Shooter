@@ -1,0 +1,3393 @@
+fileFormatVersion: 2
+guid: 56ef609ea439d8948839cdc40fe78962
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6398029225577330420
+    second: img_logo_chinese_0
+  - first:
+      213: -9151999908146183562
+    second: img_logo_chinese_1
+  - first:
+      213: -1752445781753163188
+    second: img_logo_chinese_2
+  - first:
+      213: -7569550397498802253
+    second: img_logo_chinese_3
+  - first:
+      213: 4611233575784104075
+    second: img_logo_chinese_4
+  - first:
+      213: -9124097666374028265
+    second: img_logo_chinese_5
+  - first:
+      213: 8866755598846068325
+    second: img_logo_chinese_6
+  - first:
+      213: -922765944115268090
+    second: img_logo_chinese_7
+  - first:
+      213: 5034773376801248734
+    second: img_logo_chinese_8
+  - first:
+      213: -1811204799464275668
+    second: img_logo_chinese_9
+  - first:
+      213: -1126672115812263013
+    second: img_logo_chinese_10
+  - first:
+      213: 2138541134749805442
+    second: img_logo_chinese_11
+  - first:
+      213: 1698867438811887298
+    second: img_logo_chinese_12
+  - first:
+      213: -2172419026279046201
+    second: img_logo_chinese_13
+  - first:
+      213: -252692463076508659
+    second: img_logo_chinese_14
+  - first:
+      213: 7771776028576415819
+    second: img_logo_chinese_15
+  - first:
+      213: 8414825138823522610
+    second: img_logo_chinese_16
+  - first:
+      213: -4124249519581388117
+    second: img_logo_chinese_17
+  - first:
+      213: 6377527660395373919
+    second: img_logo_chinese_18
+  - first:
+      213: 8988797018253203716
+    second: img_logo_chinese_19
+  - first:
+      213: 3729816364614766148
+    second: img_logo_chinese_20
+  - first:
+      213: 5726807083953939080
+    second: img_logo_chinese_21
+  - first:
+      213: 3179726122566206991
+    second: img_logo_chinese_22
+  - first:
+      213: -6626532486669164163
+    second: img_logo_chinese_23
+  - first:
+      213: 2932865534231182764
+    second: img_logo_chinese_24
+  - first:
+      213: 8464281691249546734
+    second: img_logo_chinese_25
+  - first:
+      213: -3977521047359090349
+    second: img_logo_chinese_26
+  - first:
+      213: 1079026925847063237
+    second: img_logo_chinese_27
+  - first:
+      213: 6883524490492497335
+    second: img_logo_chinese_28
+  - first:
+      213: -1804773113994355737
+    second: img_logo_chinese_29
+  - first:
+      213: -294791673766745041
+    second: img_logo_chinese_30
+  - first:
+      213: 8267365855230638082
+    second: img_logo_chinese_31
+  - first:
+      213: 4787868113913941919
+    second: img_logo_chinese_32
+  - first:
+      213: 7024930974782139150
+    second: img_logo_chinese_33
+  - first:
+      213: -8903773913667138427
+    second: img_logo_chinese_34
+  - first:
+      213: 5459712972773300875
+    second: img_logo_chinese_35
+  - first:
+      213: -5654441528783168961
+    second: img_logo_chinese_36
+  - first:
+      213: -2292137638721606772
+    second: img_logo_chinese_37
+  - first:
+      213: -5332421488493519099
+    second: img_logo_chinese_38
+  - first:
+      213: 7213421483795051304
+    second: img_logo_chinese_39
+  - first:
+      213: 1263766153917501052
+    second: img_logo_chinese_40
+  - first:
+      213: -2838309204694596457
+    second: img_logo_chinese_41
+  - first:
+      213: 1054774819381397571
+    second: img_logo_chinese_42
+  - first:
+      213: -5545945860934654605
+    second: img_logo_chinese_43
+  - first:
+      213: 3613861815809652191
+    second: img_logo_chinese_44
+  - first:
+      213: 8981429218900380207
+    second: img_logo_chinese_45
+  - first:
+      213: -4330064810534144462
+    second: img_logo_chinese_46
+  - first:
+      213: -3605332016804537834
+    second: img_logo_chinese_47
+  - first:
+      213: 4260187520450856559
+    second: img_logo_chinese_48
+  - first:
+      213: -2645259096902755851
+    second: img_logo_chinese_49
+  - first:
+      213: -2009555963898880468
+    second: img_logo_chinese_50
+  - first:
+      213: 8949553252022955332
+    second: img_logo_chinese_51
+  - first:
+      213: 8729866955484818611
+    second: img_logo_chinese_52
+  - first:
+      213: -3129299273104585591
+    second: img_logo_chinese_53
+  - first:
+      213: -8092585499511577745
+    second: img_logo_chinese_54
+  - first:
+      213: -2266442938076826717
+    second: img_logo_chinese_55
+  - first:
+      213: 5409374619081539311
+    second: img_logo_chinese_56
+  - first:
+      213: -7856204295855429895
+    second: img_logo_chinese_57
+  - first:
+      213: -8460588873137839775
+    second: img_logo_chinese_58
+  - first:
+      213: 1187434458037753413
+    second: img_logo_chinese_59
+  - first:
+      213: 8812275343753877663
+    second: img_logo_chinese_60
+  - first:
+      213: -5763426020178792032
+    second: img_logo_chinese_61
+  - first:
+      213: 8019632460172035326
+    second: img_logo_chinese_62
+  - first:
+      213: -4647356694844318707
+    second: img_logo_chinese_63
+  - first:
+      213: -5916423647626445159
+    second: img_logo_chinese_64
+  - first:
+      213: 7695184256558765399
+    second: img_logo_chinese_65
+  - first:
+      213: 2635119818374872876
+    second: img_logo_chinese_66
+  - first:
+      213: 4062113728820751700
+    second: img_logo_chinese_67
+  - first:
+      213: -8127366947719641652
+    second: img_logo_chinese_68
+  - first:
+      213: 6898823329256138742
+    second: img_logo_chinese_69
+  - first:
+      213: -6114412383779897347
+    second: img_logo_chinese_70
+  - first:
+      213: -2496566823511773823
+    second: img_logo_chinese_71
+  - first:
+      213: -3195048168225242795
+    second: img_logo_chinese_72
+  - first:
+      213: -2787005712532261892
+    second: img_logo_chinese_73
+  - first:
+      213: 6217177561575778822
+    second: img_logo_chinese_74
+  - first:
+      213: -229437638454357168
+    second: img_logo_chinese_75
+  - first:
+      213: 3737214095497619947
+    second: img_logo_chinese_76
+  - first:
+      213: -677627249478916673
+    second: img_logo_chinese_77
+  - first:
+      213: 236406101791930952
+    second: img_logo_chinese_78
+  - first:
+      213: -733990096155823936
+    second: img_logo_chinese_79
+  - first:
+      213: 3853616774916120100
+    second: img_logo_chinese_80
+  - first:
+      213: -8246489188216985861
+    second: img_logo_chinese_81
+  - first:
+      213: -1307892485099602711
+    second: img_logo_chinese_82
+  - first:
+      213: -6336562519611600241
+    second: img_logo_chinese_83
+  - first:
+      213: 325453219843072283
+    second: img_logo_chinese_84
+  - first:
+      213: 2659604631873738902
+    second: img_logo_chinese_85
+  - first:
+      213: -217199038614564756
+    second: img_logo_chinese_86
+  - first:
+      213: 2280295621732854182
+    second: img_logo_chinese_87
+  - first:
+      213: 8601240429692785365
+    second: img_logo_chinese_88
+  - first:
+      213: 1813321127825889330
+    second: img_logo_chinese_89
+  - first:
+      213: -7719869751905878651
+    second: img_logo_chinese_90
+  - first:
+      213: 2792313602706152886
+    second: img_logo_chinese_91
+  - first:
+      213: 337300993024711131
+    second: img_logo_chinese_92
+  - first:
+      213: -3413983217584310966
+    second: img_logo_chinese_93
+  - first:
+      213: -2000933675338804890
+    second: img_logo_chinese_94
+  - first:
+      213: -7051367183688374801
+    second: img_logo_chinese_95
+  - first:
+      213: 2016729259991167576
+    second: img_logo_chinese_96
+  - first:
+      213: 7094364480377145243
+    second: img_logo_chinese_97
+  - first:
+      213: 6237689778514709711
+    second: img_logo_chinese_98
+  - first:
+      213: -7780731436907542072
+    second: img_logo_chinese_99
+  - first:
+      213: 6000869915352259711
+    second: img_logo_chinese_100
+  - first:
+      213: 472980981169448379
+    second: img_logo_chinese_101
+  - first:
+      213: 269364879331066111
+    second: img_logo_chinese_102
+  - first:
+      213: 2611399008318302183
+    second: img_logo_chinese_103
+  - first:
+      213: -1286070987803249794
+    second: img_logo_chinese_104
+  - first:
+      213: 2671153598721417300
+    second: img_logo_chinese_105
+  - first:
+      213: -7817329101183464011
+    second: img_logo_chinese_106
+  - first:
+      213: -473950363194709676
+    second: img_logo_chinese_107
+  - first:
+      213: 6247185373358098284
+    second: img_logo_chinese_108
+  - first:
+      213: 7711466767236931467
+    second: img_logo_chinese_109
+  - first:
+      213: 6861844370893358944
+    second: img_logo_chinese_110
+  - first:
+      213: 4357900517531844812
+    second: img_logo_chinese_111
+  - first:
+      213: 5975617846087894233
+    second: img_logo_chinese_112
+  - first:
+      213: -2781427865684893827
+    second: img_logo_chinese_113
+  - first:
+      213: -7208189635025065825
+    second: img_logo_chinese_114
+  - first:
+      213: -8872088984446905379
+    second: img_logo_chinese_115
+  - first:
+      213: 5195719715223038707
+    second: img_logo_chinese_116
+  - first:
+      213: 3099191257652507165
+    second: img_logo_chinese_117
+  - first:
+      213: 6087828974614287165
+    second: img_logo_chinese_118
+  - first:
+      213: 986034724222159114
+    second: img_logo_chinese_119
+  - first:
+      213: -2922896739180524128
+    second: img_logo_chinese_120
+  - first:
+      213: 6910489523356641454
+    second: img_logo_chinese_121
+  - first:
+      213: 2695646975615288236
+    second: img_logo_chinese_122
+  - first:
+      213: -8077147566388366723
+    second: img_logo_chinese_123
+  - first:
+      213: -2413039048078319241
+    second: img_logo_chinese_124
+  - first:
+      213: -3212516584123718200
+    second: img_logo_chinese_125
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_logo_chinese_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 465
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6ba15bead5ac850800000000000000
+      internalID: 6398029225577330420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 465
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6720a8aa2909df080800000000000000
+      internalID: -9151999908146183562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 466
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42987aa8df0ea7e0800000000000000
+      internalID: -1752445781753163188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 466
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfbaa7c40e83f690800000000000000
+      internalID: -7569550397498802253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_4
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 463
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8047fc71846eff30800000000000000
+      internalID: 4611233575784104075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_5
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 465
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7143ec39381b06180800000000000000
+      internalID: -9124097666374028265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 465
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5660d633d3b0d0b70800000000000000
+      internalID: 8866755598846068325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 466
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6067e2a434da133f0800000000000000
+      internalID: -922765944115268090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 464
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed515d8f5bb1fd540800000000000000
+      internalID: 5034773376801248734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_9
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 463
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c210370c4de4dd6e0800000000000000
+      internalID: -1811204799464275668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 464
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b1ca61ea14d50f0800000000000000
+      internalID: -1126672115812263013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_11
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 457
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ba252e4df9dad10800000000000000
+      internalID: 2138541134749805442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 457
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c63cd24fe6939710800000000000000
+      internalID: 1698867438811887298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_13
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 458
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c36653d7640ad1e0800000000000000
+      internalID: -2172419026279046201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_14
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 461
+        width: 9
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cf7ec2b814e7cf0800000000000000
+      internalID: -252692463076508659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 460
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4081311f15eadb60800000000000000
+      internalID: 7771776028576415819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 427
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2396a9e41e677c470800000000000000
+      internalID: 8414825138823522610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 427
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2a644c9e8b3c6c0800000000000000
+      internalID: -4124249519581388117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 428
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5528171e97818850800000000000000
+      internalID: 6377527660395373919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 426
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409921f634f9ebc70800000000000000
+      internalID: 8988797018253203716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_20
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 425
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e4d42e838f2c330800000000000000
+      internalID: 3729816364614766148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_21
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 426
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882e34073b4b97f40800000000000000
+      internalID: 5726807083953939080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_22
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 427
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06c692cf08a02c20800000000000000
+      internalID: 3179726122566206991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_23
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 427
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71af7fefc3d904a0800000000000000
+      internalID: -6626532486669164163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_24
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 428
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadf5d51aa1a3b820800000000000000
+      internalID: 2932865534231182764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_25
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 426
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee595cd3a5b277570800000000000000
+      internalID: 8464281691249546734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 425
+        width: 65
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35195856ea10dc8c0800000000000000
+      internalID: -3977521047359090349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_27
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 421
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca223aa54979fe00800000000000000
+      internalID: 1079026925847063237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_28
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 421
+        width: 74
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdc18abd01378f50800000000000000
+      internalID: 6883524490492497335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_29
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 422
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebd0383a6824f6e0800000000000000
+      internalID: -1804773113994355737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_30
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 421
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ce36ad880b8ebf0800000000000000
+      internalID: -294791673766745041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 389
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208373561759bb270800000000000000
+      internalID: 8267365855230638082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_32
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 389
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f8241beace17240800000000000000
+      internalID: 4787868113913941919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_33
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 390
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b278b70819d7160800000000000000
+      internalID: 7024930974782139150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_34
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 388
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c0b7bbcc07f6480800000000000000
+      internalID: -8903773913667138427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_35
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 387
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a9ebd950cc4cb40800000000000000
+      internalID: 5459712972773300875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_36
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 387
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a99a953636781b0800000000000000
+      internalID: -5654441528783168961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_37
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 387
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b22bb36f0b030e0800000000000000
+      internalID: -2292137638721606772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_38
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 388
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f1fa998ee6ff5b0800000000000000
+      internalID: -5332421488493519099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_39
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 386
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82376c40f983b1460800000000000000
+      internalID: 7213421483795051304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_40
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 385
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e0a6b0f9cc98110800000000000000
+      internalID: 1263766153917501052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_41
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 386
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794057bf0dc4c98d0800000000000000
+      internalID: -2838309204694596457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_42
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 381
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348414b1c1053ae00800000000000000
+      internalID: 1054774819381397571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_43
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 381
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37521778f97d803b0800000000000000
+      internalID: -5545945860934654605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_44
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 382
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5bea6ac24072230800000000000000
+      internalID: 3613861815809652191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_45
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 383
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a0fd7f94274ac70800000000000000
+      internalID: 8981429218900380207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_46
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 382
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23671b91ff488e3c0800000000000000
+      internalID: -4330064810534144462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 351
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ad501f1a947fdc0800000000000000
+      internalID: -3605332016804537834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_48
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 351
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6686097af93f1b30800000000000000
+      internalID: 4260187520450856559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_49
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 352
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f99d36ddd62a4bd0800000000000000
+      internalID: -2645259096902755851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_50
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 350
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e1a877f7f9c14e0800000000000000
+      internalID: -2009555963898880468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_51
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 349
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d25451443333c70800000000000000
+      internalID: 8949553252022955332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_52
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 350
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bce7124eb7b62970800000000000000
+      internalID: 8729866955484818611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_53
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 343
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c86be04ee7294d0800000000000000
+      internalID: -3129299273104585591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_54
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 343
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63a2235d5c51bf80800000000000000
+      internalID: -8092585499511577745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_55
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 344
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3fc3ce72afb80e0800000000000000
+      internalID: -2266442938076826717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_56
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 342
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee7e535e85f11b40800000000000000
+      internalID: 5409374619081539311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_57
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 341
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6a3ae11d729f290800000000000000
+      internalID: -7856204295855429895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_58
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 345
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1612ff9fe33f59a80800000000000000
+      internalID: -8460588873137839775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_59
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 345
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5461669295d9a7010800000000000000
+      internalID: 1187434458037753413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_60
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 345
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9812675cbd7b4a70800000000000000
+      internalID: 8812275343753877663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_61
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 343
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1fff112923400b0800000000000000
+      internalID: -5763426020178792032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_62
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 343
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef40fb19b357b4f60800000000000000
+      internalID: 8019632460172035326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 309
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c554375b5418fb0800000000000000
+      internalID: -4647356694844318707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_64
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 309
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e318ef904a4eda0800000000000000
+      internalID: -5916423647626445159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_65
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 310
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7551d5d7f49caca60800000000000000
+      internalID: 7695184256558765399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_66
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 308
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f73da6383d19420800000000000000
+      internalID: 2635119818374872876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_67
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 307
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d29931ae68f5830800000000000000
+      internalID: 4062113728820751700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_68
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 312
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc58be952dac53f80800000000000000
+      internalID: -8127366947719641652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_69
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 295
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f76d74344b8dbf50800000000000000
+      internalID: 6898823329256138742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_70
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 295
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffbc8e155e352ba0800000000000000
+      internalID: -6114412383779897347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_71
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 296
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d2e8e83b96a5dd0800000000000000
+      internalID: -2496566823511773823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_72
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 294
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5510cac7e98e8a3d0800000000000000
+      internalID: -3195048168225242795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_73
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 293
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3b78512119259d0800000000000000
+      internalID: -2787005712532261892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_74
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 297
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ae04f5d0ad74650800000000000000
+      internalID: 6217177561575778822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_75
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 305
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053d2d5feafd0dcf0800000000000000
+      internalID: -229437638454357168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_76
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 305
+        width: 75
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9e7b35b604dd330800000000000000
+      internalID: 3737214095497619947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_77
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 308
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb52fa85b959896f0800000000000000
+      internalID: -677627249478916673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_78
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 307
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84afa08d812e74300800000000000000
+      internalID: 236406101791930952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_79
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 257
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c03af975e750d5f0800000000000000
+      internalID: -733990096155823936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_80
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 257
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e9c591a0cca7530800000000000000
+      internalID: 3853616774916120100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_81
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 258
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf62a3c66c59e8d80800000000000000
+      internalID: -8246489188216985861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_82
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 256
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec3c3dd6be69dde0800000000000000
+      internalID: -1307892485099602711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_83
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 255
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f821f7106f10018a0800000000000000
+      internalID: -6336562519611600241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_84
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 262
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11e0c7aafd348400800000000000000
+      internalID: 325453219843072283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_85
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 257
+        width: 113
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69851dd4250d8e420800000000000000
+      internalID: 2659604631873738902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_86
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 243
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6092d900aa5cfcf0800000000000000
+      internalID: -217199038614564756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_87
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 250
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9e34459cc35af10800000000000000
+      internalID: 2280295621732854182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_88
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 255
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d21197799ebd5770800000000000000
+      internalID: 8601240429692785365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_89
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 255
+        width: 72
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238d5c755f53a2910800000000000000
+      internalID: 1813321127825889330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_90
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 260
+        width: 8
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58dfd5dbc538dd490800000000000000
+      internalID: -7719869751905878651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_91
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 259
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd9ac66d6a40c620800000000000000
+      internalID: 2792313602706152886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_92
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 257
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9df9f47755ea400800000000000000
+      internalID: 337300993024711131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_93
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 223
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45fdb60a581f90d0800000000000000
+      internalID: -3413983217584310966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_94
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 223
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66150567c614b34e0800000000000000
+      internalID: -2000933675338804890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_95
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 217
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5686bf7e2842e90800000000000000
+      internalID: -7051367183688374801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_96
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 221
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852f8eda39cdcfb10800000000000000
+      internalID: 2016729259991167576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_97
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 223
+        width: 111
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97470848ee347260800000000000000
+      internalID: 7094364480377145243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_98
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 199
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc447b0ec9b09650800000000000000
+      internalID: 6237689778514709711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_99
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 204
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c949627bf9450490800000000000000
+      internalID: -7780731436907542072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_100
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 219
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c56efd46f574350800000000000000
+      internalID: 6000869915352259711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_101
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 219
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5ee1842bd509600800000000000000
+      internalID: 472980981169448379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_102
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 224
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff08e7b3ee9fcb300800000000000000
+      internalID: 269364879331066111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_103
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 218
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7ae91ff8d8d3420800000000000000
+      internalID: 2611399008318302183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 186
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e733d002045f62ee0800000000000000
+      internalID: -1286070987803249794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_105
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 186
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450eb40bb08d11520800000000000000
+      internalID: 2671153598721417300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_106
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 161
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdc2a7b994438390800000000000000
+      internalID: -7817329101183464011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_107
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 177
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459ac90e7a03c69f0800000000000000
+      internalID: -473950363194709676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_108
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 177
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6786018ff572b650800000000000000
+      internalID: 6247185373358098284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_109
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 183
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f136eea22a40b60800000000000000
+      internalID: 7711466767236931467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_110
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 181
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067cc17891b2a3f50800000000000000
+      internalID: 6861844370893358944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_111
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 115
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc00af97e6f5a7c30800000000000000
+      internalID: 4357900517531844812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_112
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 151
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4cd8555c8ade250800000000000000
+      internalID: 5975617846087894233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_113
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 73
+        width: 35
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f9a71c7126669d0800000000000000
+      internalID: -2781427865684893827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_114
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 151
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98ada2b7bd57fb90800000000000000
+      internalID: -7208189635025065825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_115
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 117
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3d262331200e480800000000000000
+      internalID: -8872088984446905379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_116
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 151
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3faec5a8d87ea1840800000000000000
+      internalID: 5195719715223038707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_117
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 78
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12bf53570a820b20800000000000000
+      internalID: 3099191257652507165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_118
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 114
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33173d92305c7450800000000000000
+      internalID: 6087828974614287165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_119
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 77
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0946718b591fad00800000000000000
+      internalID: 986034724222159114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_120
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 45
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad4ff1e6e8cf67d0800000000000000
+      internalID: -2922896739180524128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_121
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 47
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea82bbfab9df6ef50800000000000000
+      internalID: 6910489523356641454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_122
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 41
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3c76564acd86520800000000000000
+      internalID: 2695646975615288236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_123
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72b20b351538ef80800000000000000
+      internalID: -8077147566388366723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_124
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 3
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771252645c9238ed0800000000000000
+      internalID: -2413039048078319241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_chinese_125
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 3
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c52148ff29da63d0800000000000000
+      internalID: -3212516584123718200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_logo_chinese_0: 6398029225577330420
+      img_logo_chinese_1: -9151999908146183562
+      img_logo_chinese_10: -1126672115812263013
+      img_logo_chinese_100: 6000869915352259711
+      img_logo_chinese_101: 472980981169448379
+      img_logo_chinese_102: 269364879331066111
+      img_logo_chinese_103: 2611399008318302183
+      img_logo_chinese_104: -1286070987803249794
+      img_logo_chinese_105: 2671153598721417300
+      img_logo_chinese_106: -7817329101183464011
+      img_logo_chinese_107: -473950363194709676
+      img_logo_chinese_108: 6247185373358098284
+      img_logo_chinese_109: 7711466767236931467
+      img_logo_chinese_11: 2138541134749805442
+      img_logo_chinese_110: 6861844370893358944
+      img_logo_chinese_111: 4357900517531844812
+      img_logo_chinese_112: 5975617846087894233
+      img_logo_chinese_113: -2781427865684893827
+      img_logo_chinese_114: -7208189635025065825
+      img_logo_chinese_115: -8872088984446905379
+      img_logo_chinese_116: 5195719715223038707
+      img_logo_chinese_117: 3099191257652507165
+      img_logo_chinese_118: 6087828974614287165
+      img_logo_chinese_119: 986034724222159114
+      img_logo_chinese_12: 1698867438811887298
+      img_logo_chinese_120: -2922896739180524128
+      img_logo_chinese_121: 6910489523356641454
+      img_logo_chinese_122: 2695646975615288236
+      img_logo_chinese_123: -8077147566388366723
+      img_logo_chinese_124: -2413039048078319241
+      img_logo_chinese_125: -3212516584123718200
+      img_logo_chinese_13: -2172419026279046201
+      img_logo_chinese_14: -252692463076508659
+      img_logo_chinese_15: 7771776028576415819
+      img_logo_chinese_16: 8414825138823522610
+      img_logo_chinese_17: -4124249519581388117
+      img_logo_chinese_18: 6377527660395373919
+      img_logo_chinese_19: 8988797018253203716
+      img_logo_chinese_2: -1752445781753163188
+      img_logo_chinese_20: 3729816364614766148
+      img_logo_chinese_21: 5726807083953939080
+      img_logo_chinese_22: 3179726122566206991
+      img_logo_chinese_23: -6626532486669164163
+      img_logo_chinese_24: 2932865534231182764
+      img_logo_chinese_25: 8464281691249546734
+      img_logo_chinese_26: -3977521047359090349
+      img_logo_chinese_27: 1079026925847063237
+      img_logo_chinese_28: 6883524490492497335
+      img_logo_chinese_29: -1804773113994355737
+      img_logo_chinese_3: -7569550397498802253
+      img_logo_chinese_30: -294791673766745041
+      img_logo_chinese_31: 8267365855230638082
+      img_logo_chinese_32: 4787868113913941919
+      img_logo_chinese_33: 7024930974782139150
+      img_logo_chinese_34: -8903773913667138427
+      img_logo_chinese_35: 5459712972773300875
+      img_logo_chinese_36: -5654441528783168961
+      img_logo_chinese_37: -2292137638721606772
+      img_logo_chinese_38: -5332421488493519099
+      img_logo_chinese_39: 7213421483795051304
+      img_logo_chinese_4: 4611233575784104075
+      img_logo_chinese_40: 1263766153917501052
+      img_logo_chinese_41: -2838309204694596457
+      img_logo_chinese_42: 1054774819381397571
+      img_logo_chinese_43: -5545945860934654605
+      img_logo_chinese_44: 3613861815809652191
+      img_logo_chinese_45: 8981429218900380207
+      img_logo_chinese_46: -4330064810534144462
+      img_logo_chinese_47: -3605332016804537834
+      img_logo_chinese_48: 4260187520450856559
+      img_logo_chinese_49: -2645259096902755851
+      img_logo_chinese_5: -9124097666374028265
+      img_logo_chinese_50: -2009555963898880468
+      img_logo_chinese_51: 8949553252022955332
+      img_logo_chinese_52: 8729866955484818611
+      img_logo_chinese_53: -3129299273104585591
+      img_logo_chinese_54: -8092585499511577745
+      img_logo_chinese_55: -2266442938076826717
+      img_logo_chinese_56: 5409374619081539311
+      img_logo_chinese_57: -7856204295855429895
+      img_logo_chinese_58: -8460588873137839775
+      img_logo_chinese_59: 1187434458037753413
+      img_logo_chinese_6: 8866755598846068325
+      img_logo_chinese_60: 8812275343753877663
+      img_logo_chinese_61: -5763426020178792032
+      img_logo_chinese_62: 8019632460172035326
+      img_logo_chinese_63: -4647356694844318707
+      img_logo_chinese_64: -5916423647626445159
+      img_logo_chinese_65: 7695184256558765399
+      img_logo_chinese_66: 2635119818374872876
+      img_logo_chinese_67: 4062113728820751700
+      img_logo_chinese_68: -8127366947719641652
+      img_logo_chinese_69: 6898823329256138742
+      img_logo_chinese_7: -922765944115268090
+      img_logo_chinese_70: -6114412383779897347
+      img_logo_chinese_71: -2496566823511773823
+      img_logo_chinese_72: -3195048168225242795
+      img_logo_chinese_73: -2787005712532261892
+      img_logo_chinese_74: 6217177561575778822
+      img_logo_chinese_75: -229437638454357168
+      img_logo_chinese_76: 3737214095497619947
+      img_logo_chinese_77: -677627249478916673
+      img_logo_chinese_78: 236406101791930952
+      img_logo_chinese_79: -733990096155823936
+      img_logo_chinese_8: 5034773376801248734
+      img_logo_chinese_80: 3853616774916120100
+      img_logo_chinese_81: -8246489188216985861
+      img_logo_chinese_82: -1307892485099602711
+      img_logo_chinese_83: -6336562519611600241
+      img_logo_chinese_84: 325453219843072283
+      img_logo_chinese_85: 2659604631873738902
+      img_logo_chinese_86: -217199038614564756
+      img_logo_chinese_87: 2280295621732854182
+      img_logo_chinese_88: 8601240429692785365
+      img_logo_chinese_89: 1813321127825889330
+      img_logo_chinese_9: -1811204799464275668
+      img_logo_chinese_90: -7719869751905878651
+      img_logo_chinese_91: 2792313602706152886
+      img_logo_chinese_92: 337300993024711131
+      img_logo_chinese_93: -3413983217584310966
+      img_logo_chinese_94: -2000933675338804890
+      img_logo_chinese_95: -7051367183688374801
+      img_logo_chinese_96: 2016729259991167576
+      img_logo_chinese_97: 7094364480377145243
+      img_logo_chinese_98: 6237689778514709711
+      img_logo_chinese_99: -7780731436907542072
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 9dcfe6a501739064c96ff0f78b81f1e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1813451415958549305
+    second: img_plane_boss_47_0
+  - first:
+      213: 6089207161432410160
+    second: img_plane_boss_47_1
+  - first:
+      213: -4469589819053907780
+    second: img_plane_boss_47_2
+  - first:
+      213: 943267477447595533
+    second: img_plane_boss_47_3
+  - first:
+      213: -2535282280569772574
+    second: img_plane_boss_47_4
+  - first:
+      213: 620762838146494912
+    second: img_plane_boss_47_5
+  - first:
+      213: -8853871095457715337
+    second: img_plane_boss_47_6
+  - first:
+      213: -5692225084827771097
+    second: img_plane_boss_47_7
+  - first:
+      213: -7186682057497020399
+    second: img_plane_boss_47_8
+  - first:
+      213: 7383582863777704361
+    second: img_plane_boss_47_9
+  - first:
+      213: -8742822792279611469
+    second: img_plane_boss_47_10
+  - first:
+      213: 4858405463310793066
+    second: img_plane_boss_47_11
+  - first:
+      213: 1483149110232326334
+    second: img_plane_boss_47_12
+  - first:
+      213: 7358808987484749773
+    second: img_plane_boss_47_13
+  - first:
+      213: 5008575532924715998
+    second: img_plane_boss_47_14
+  - first:
+      213: -1742648329933809081
+    second: img_plane_boss_47_15
+  - first:
+      213: -6882044314501571500
+    second: img_plane_boss_47_16
+  - first:
+      213: -3391998820686507950
+    second: img_plane_boss_47_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_plane_boss_47_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474
+        width: 194
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc8c569b8355d6e0800000000000000
+      internalID: -1813451415958549305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_boss_47_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 179
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03881fcb6a5318450800000000000000
+      internalID: 6089207161432410160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_boss_47_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 386
+        width: 179
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0e69f8db3d8f1c0800000000000000
+      internalID: -4469589819053907780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_boss_47_3
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 404
+        width: 127
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d065179e5c8271d00800000000000000
+      internalID: 943267477447595533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_boss_47_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 179
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5eb45c23ed0dcd0800000000000000
+      internalID: -2535282280569772574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_boss_47_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 234
+        width: 166
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c13c7923846d9800800000000000000
+      internalID: 620762838146494912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_boss_47_6
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 260
+        width: 179
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77be424062bb02580800000000000000
+      internalID: -8853871095457715337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_boss_47_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 244
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fd54da1772101b0800000000000000
+      internalID: -5692225084827771097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_boss_47_8
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 226
+        width: 132
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1187731deb6c34c90800000000000000
+      internalID: -7186682057497020399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_boss_47_9
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 238
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9a125ae71c77660800000000000000
+      internalID: 7383582863777704361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_boss_47_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 232
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b72cfbedf04ba680800000000000000
+      internalID: -8742822792279611469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_boss_47_11
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 233
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69f47727068c6340800000000000000
+      internalID: 4858405463310793066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_boss_47_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 63
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0a558f144359410800000000000000
+      internalID: 1483149110232326334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_boss_47_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 176
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcffaf419cdbf1660800000000000000
+      internalID: 7358808987484749773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_boss_47_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 139
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3c0be19e8028540800000000000000
+      internalID: 5008575532924715998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_boss_47_15
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 118
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a1edda39ed0d7e0800000000000000
+      internalID: -1742648329933809081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_boss_47_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 47
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c13a998211e70a0800000000000000
+      internalID: -6882044314501571500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_boss_47_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 18
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250df6e4b033de0d0800000000000000
+      internalID: -3391998820686507950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_plane_boss_47_0: -1813451415958549305
+      img_plane_boss_47_1: 6089207161432410160
+      img_plane_boss_47_10: -8742822792279611469
+      img_plane_boss_47_11: 4858405463310793066
+      img_plane_boss_47_12: 1483149110232326334
+      img_plane_boss_47_13: 7358808987484749773
+      img_plane_boss_47_14: 5008575532924715998
+      img_plane_boss_47_15: -1742648329933809081
+      img_plane_boss_47_16: -6882044314501571500
+      img_plane_boss_47_17: -3391998820686507950
+      img_plane_boss_47_2: -4469589819053907780
+      img_plane_boss_47_3: 943267477447595533
+      img_plane_boss_47_4: -2535282280569772574
+      img_plane_boss_47_5: 620762838146494912
+      img_plane_boss_47_6: -8853871095457715337
+      img_plane_boss_47_7: -5692225084827771097
+      img_plane_boss_47_8: -7186682057497020399
+      img_plane_boss_47_9: 7383582863777704361
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

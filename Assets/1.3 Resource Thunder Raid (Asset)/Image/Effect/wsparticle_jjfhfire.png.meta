@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 5558ceeef78af15448467c5d1971584d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7681503122055225944
+    second: wsparticle_jjfhfire_0
+  - first:
+      213: 3503511551129100127
+    second: wsparticle_jjfhfire_1
+  - first:
+      213: -5572322775961101744
+    second: wsparticle_jjfhfire_2
+  - first:
+      213: -4661405179460303469
+    second: wsparticle_jjfhfire_3
+  - first:
+      213: 4390756993339774432
+    second: wsparticle_jjfhfire_4
+  - first:
+      213: -5293042524286901487
+    second: wsparticle_jjfhfire_5
+  - first:
+      213: 1100708739867566697
+    second: wsparticle_jjfhfire_6
+  - first:
+      213: -6046208218495276522
+    second: wsparticle_jjfhfire_7
+  - first:
+      213: 3879069827892294994
+    second: wsparticle_jjfhfire_8
+  - first:
+      213: -4194544631190988356
+    second: wsparticle_jjfhfire_9
+  - first:
+      213: -318095025692063473
+    second: wsparticle_jjfhfire_10
+  - first:
+      213: -8761377848988462224
+    second: wsparticle_jjfhfire_11
+  - first:
+      213: -3180411485447502333
+    second: wsparticle_jjfhfire_12
+  - first:
+      213: -1481087095363681621
+    second: wsparticle_jjfhfire_13
+  - first:
+      213: 7654920221223776102
+    second: wsparticle_jjfhfire_14
+  - first:
+      213: -2540902514823260626
+    second: wsparticle_jjfhfire_15
+  - first:
+      213: -1843047038489400255
+    second: wsparticle_jjfhfire_16
+  - first:
+      213: 969712244511802855
+    second: wsparticle_jjfhfire_17
+  - first:
+      213: -3102543596444364671
+    second: wsparticle_jjfhfire_18
+  - first:
+      213: 5988011582009527439
+    second: wsparticle_jjfhfire_19
+  - first:
+      213: 6258857190691243046
+    second: wsparticle_jjfhfire_20
+  - first:
+      213: 7450457118677442435
+    second: wsparticle_jjfhfire_21
+  - first:
+      213: 282047412393005793
+    second: wsparticle_jjfhfire_22
+  - first:
+      213: -7121350902365547690
+    second: wsparticle_jjfhfire_23
+  - first:
+      213: -6289799258500924643
+    second: wsparticle_jjfhfire_24
+  - first:
+      213: -8150725203302534947
+    second: wsparticle_jjfhfire_25
+  - first:
+      213: -999582893320881137
+    second: wsparticle_jjfhfire_26
+  - first:
+      213: -8088540306888230448
+    second: wsparticle_jjfhfire_27
+  - first:
+      213: -377587051031864739
+    second: wsparticle_jjfhfire_28
+  - first:
+      213: 2379577832219689843
+    second: wsparticle_jjfhfire_29
+  - first:
+      213: -2450857749928350245
+    second: wsparticle_jjfhfire_30
+  - first:
+      213: 6957534161888782209
+    second: wsparticle_jjfhfire_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 384
+        width: 166
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852e723246e2a9a60800000000000000
+      internalID: 7681503122055225944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 505
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f178f7139fe9030800000000000000
+      internalID: 3503511551129100127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 383
+        width: 171
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a150d65f12ba2b0800000000000000
+      internalID: -5572322775961101744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_3
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 499
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3954a1cbfac5f4fb0800000000000000
+      internalID: -4661405179460303469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_4
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 383
+        width: 159
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e55413e83a1fec30800000000000000
+      internalID: 4390756993339774432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113a7de2ed55b86b0800000000000000
+      internalID: -5293042524286901487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 174
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96269f064c0864f00800000000000000
+      internalID: 1100708739867566697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 375
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61aaa82d8ad871ca0800000000000000
+      internalID: -6046208218495276522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_8
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 361
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255b47ec47935d530800000000000000
+      internalID: 3879069827892294994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_9
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 286
+        width: 159
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9d65fa1ebf9c5c0800000000000000
+      internalID: -4194544631190988356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_10
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 266
+        width: 136
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f094ecc6246e59bf0800000000000000
+      internalID: -318095025692063473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_11
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 345
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07311102445596680800000000000000
+      internalID: -8761377848988462224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_12
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 353
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3064452ca98ecd3d0800000000000000
+      internalID: -3180411485447502333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 286
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2ce67422f127be0800000000000000
+      internalID: -1481087095363681621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_14
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 273
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f6ff9326dbb3a60800000000000000
+      internalID: 7654920221223776102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_15
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 262
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26101300a6ecbcd0800000000000000
+      internalID: -2540902514823260626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_16
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 267
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ce08ebb7e2c66e0800000000000000
+      internalID: -1843047038489400255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 258
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5097c062c157d00800000000000000
+      internalID: 969712244511802855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 119
+        width: 166
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18055c9790d81f4d0800000000000000
+      internalID: -3102543596444364671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_19
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 242
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c4a98dec0b91350800000000000000
+      internalID: 5988011582009527439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_20
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 111
+        width: 168
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6240d0f347debd650800000000000000
+      internalID: 6258857190691243046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 107
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f9c057647556760800000000000000
+      internalID: 7450457118677442435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 117
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2d08190a80ae300800000000000000
+      internalID: 282047412393005793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_23
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 28
+        width: 97
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6531897b511eb2d90800000000000000
+      internalID: -7121350902365547690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 92
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b798036e426b8a0800000000000000
+      internalID: -6289799258500924643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 100
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0345bac9ec2ee80800000000000000
+      internalID: -8150725203302534947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c3d0097a4c022f0800000000000000
+      internalID: -999582893320881137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d97f70227bbfbf80800000000000000
+      internalID: -8088540306888230448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_28
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 56
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a557fd39a82caf0800000000000000
+      internalID: -377587051031864739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_29
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 63
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37349dc4e65f50120800000000000000
+      internalID: 2379577832219689843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_30
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 44
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdde1849cddccfdd0800000000000000
+      internalID: -2450857749928350245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_jjfhfire_31
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 45
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187a60825702e8060800000000000000
+      internalID: 6957534161888782209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wsparticle_jjfhfire_0: 7681503122055225944
+      wsparticle_jjfhfire_1: 3503511551129100127
+      wsparticle_jjfhfire_10: -318095025692063473
+      wsparticle_jjfhfire_11: -8761377848988462224
+      wsparticle_jjfhfire_12: -3180411485447502333
+      wsparticle_jjfhfire_13: -1481087095363681621
+      wsparticle_jjfhfire_14: 7654920221223776102
+      wsparticle_jjfhfire_15: -2540902514823260626
+      wsparticle_jjfhfire_16: -1843047038489400255
+      wsparticle_jjfhfire_17: 969712244511802855
+      wsparticle_jjfhfire_18: -3102543596444364671
+      wsparticle_jjfhfire_19: 5988011582009527439
+      wsparticle_jjfhfire_2: -5572322775961101744
+      wsparticle_jjfhfire_20: 6258857190691243046
+      wsparticle_jjfhfire_21: 7450457118677442435
+      wsparticle_jjfhfire_22: 282047412393005793
+      wsparticle_jjfhfire_23: -7121350902365547690
+      wsparticle_jjfhfire_24: -6289799258500924643
+      wsparticle_jjfhfire_25: -8150725203302534947
+      wsparticle_jjfhfire_26: -999582893320881137
+      wsparticle_jjfhfire_27: -8088540306888230448
+      wsparticle_jjfhfire_28: -377587051031864739
+      wsparticle_jjfhfire_29: 2379577832219689843
+      wsparticle_jjfhfire_3: -4661405179460303469
+      wsparticle_jjfhfire_30: -2450857749928350245
+      wsparticle_jjfhfire_31: 6957534161888782209
+      wsparticle_jjfhfire_4: 4390756993339774432
+      wsparticle_jjfhfire_5: -5293042524286901487
+      wsparticle_jjfhfire_6: 1100708739867566697
+      wsparticle_jjfhfire_7: -6046208218495276522
+      wsparticle_jjfhfire_8: 3879069827892294994
+      wsparticle_jjfhfire_9: -4194544631190988356
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

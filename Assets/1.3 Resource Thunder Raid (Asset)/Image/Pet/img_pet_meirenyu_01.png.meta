@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: d688345c9c3e2a14f941aabcf7a8d200
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3469282259569754746
+    second: img_pet_meirenyu_01_0
+  - first:
+      213: 7239757737561537917
+    second: img_pet_meirenyu_01_1
+  - first:
+      213: 7387030107936941179
+    second: img_pet_meirenyu_01_2
+  - first:
+      213: 2798999107688312001
+    second: img_pet_meirenyu_01_3
+  - first:
+      213: 7072089619626940249
+    second: img_pet_meirenyu_01_4
+  - first:
+      213: 1668989852083922014
+    second: img_pet_meirenyu_01_5
+  - first:
+      213: -800307451272498948
+    second: img_pet_meirenyu_01_6
+  - first:
+      213: 5533499358166975915
+    second: img_pet_meirenyu_01_7
+  - first:
+      213: 1871294089394224804
+    second: img_pet_meirenyu_01_8
+  - first:
+      213: -4081915533816198401
+    second: img_pet_meirenyu_01_9
+  - first:
+      213: -2520540919511520116
+    second: img_pet_meirenyu_01_10
+  - first:
+      213: 7524830688265677299
+    second: img_pet_meirenyu_01_11
+  - first:
+      213: 4666905511699964414
+    second: img_pet_meirenyu_01_12
+  - first:
+      213: -4280177237925491949
+    second: img_pet_meirenyu_01_13
+  - first:
+      213: 3886309180813794809
+    second: img_pet_meirenyu_01_14
+  - first:
+      213: 6967714712037629442
+    second: img_pet_meirenyu_01_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_pet_meirenyu_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 53
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72483385dd552030800000000000000
+      internalID: 3469282259569754746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_meirenyu_01_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 174
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dbd3fed49c87460800000000000000
+      internalID: 7239757737561537917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_meirenyu_01_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 171
+        width: 53
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7462b8beb0048660800000000000000
+      internalID: 7387030107936941179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_meirenyu_01_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 175
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cca564dbda08d620800000000000000
+      internalID: 2798999107688312001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_meirenyu_01_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 171
+        width: 49
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957579d1a0c152260800000000000000
+      internalID: 7072089619626940249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_meirenyu_01_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 159
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54a1338d61792710800000000000000
+      internalID: 1668989852083922014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_meirenyu_01_6
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 161
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0fdcffc9cb4e4f0800000000000000
+      internalID: -800307451272498948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_meirenyu_01_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 83
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba505683950facc40800000000000000
+      internalID: 5533499358166975915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_meirenyu_01_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 167
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae71ac4f0c28f910800000000000000
+      internalID: 1871294089394224804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_meirenyu_01_9
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 165
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa8cbbe27f1a57c0800000000000000
+      internalID: -4081915533816198401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_meirenyu_01_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 165
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cedaa536d350dd0800000000000000
+      internalID: -2520540919511520116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_meirenyu_01_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 51
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9a80984a19d6860800000000000000
+      internalID: 7524830688265677299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_meirenyu_01_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 50
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1603926dd24c040800000000000000
+      internalID: 4666905511699964414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_meirenyu_01_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 78
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b0dbdba71c994c0800000000000000
+      internalID: -4280177237925491949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_meirenyu_01_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 78
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fddeb10c91fee530800000000000000
+      internalID: 3886309180813794809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_meirenyu_01_15
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 72
+        width: 48
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e14433d9b42b060800000000000000
+      internalID: 6967714712037629442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_pet_meirenyu_01_0: 3469282259569754746
+      img_pet_meirenyu_01_1: 7239757737561537917
+      img_pet_meirenyu_01_10: -2520540919511520116
+      img_pet_meirenyu_01_11: 7524830688265677299
+      img_pet_meirenyu_01_12: 4666905511699964414
+      img_pet_meirenyu_01_13: -4280177237925491949
+      img_pet_meirenyu_01_14: 3886309180813794809
+      img_pet_meirenyu_01_15: 6967714712037629442
+      img_pet_meirenyu_01_2: 7387030107936941179
+      img_pet_meirenyu_01_3: 2798999107688312001
+      img_pet_meirenyu_01_4: 7072089619626940249
+      img_pet_meirenyu_01_5: 1668989852083922014
+      img_pet_meirenyu_01_6: -800307451272498948
+      img_pet_meirenyu_01_7: 5533499358166975915
+      img_pet_meirenyu_01_8: 1871294089394224804
+      img_pet_meirenyu_01_9: -4081915533816198401
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

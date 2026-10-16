@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 97de42fe35b1f794d88cfe915f1b6736
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5547722155337294454
+    second: img_pet_zhiyanlong_01_0
+  - first:
+      213: -6251776946600387331
+    second: img_pet_zhiyanlong_01_1
+  - first:
+      213: -702134691500205825
+    second: img_pet_zhiyanlong_01_2
+  - first:
+      213: -4299541350625489444
+    second: img_pet_zhiyanlong_01_3
+  - first:
+      213: -8708885998229125413
+    second: img_pet_zhiyanlong_01_4
+  - first:
+      213: -4691674828002635574
+    second: img_pet_zhiyanlong_01_5
+  - first:
+      213: 8633889326924393769
+    second: img_pet_zhiyanlong_01_6
+  - first:
+      213: 7594784255229458069
+    second: img_pet_zhiyanlong_01_7
+  - first:
+      213: 6619364536419655570
+    second: img_pet_zhiyanlong_01_8
+  - first:
+      213: -3288613465305933498
+    second: img_pet_zhiyanlong_01_9
+  - first:
+      213: -9192754026518709654
+    second: img_pet_zhiyanlong_01_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_pet_zhiyanlong_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d5e82c7188203b0800000000000000
+      internalID: -5547722155337294454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_zhiyanlong_01_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc58ea8df93d39a0800000000000000
+      internalID: -6251776946600387331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_zhiyanlong_01_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 221
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8d6a8d7348146f0800000000000000
+      internalID: -702134691500205825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_zhiyanlong_01_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 67
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd4ddaebe5f454c0800000000000000
+      internalID: -4299541350625489444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_zhiyanlong_01_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 185
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd60e268352d32780800000000000000
+      internalID: -8708885998229125413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_zhiyanlong_01_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 150
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0d24bf992d3eeb0800000000000000
+      internalID: -4691674828002635574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_zhiyanlong_01_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d6d59399cb1d770800000000000000
+      internalID: 8633889326924393769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_zhiyanlong_01_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5967eae8a08166960800000000000000
+      internalID: 7594784255229458069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_zhiyanlong_01_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 118
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f9c1899f4bcdb50800000000000000
+      internalID: 6619364536419655570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_zhiyanlong_01_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 116
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6499fd42a7f7c52d0800000000000000
+      internalID: -3288613465305933498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_zhiyanlong_01_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 82
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a7fcd0be6cc6080800000000000000
+      internalID: -9192754026518709654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_pet_zhiyanlong_01_0: -5547722155337294454
+      img_pet_zhiyanlong_01_1: -6251776946600387331
+      img_pet_zhiyanlong_01_10: -9192754026518709654
+      img_pet_zhiyanlong_01_2: -702134691500205825
+      img_pet_zhiyanlong_01_3: -4299541350625489444
+      img_pet_zhiyanlong_01_4: -8708885998229125413
+      img_pet_zhiyanlong_01_5: -4691674828002635574
+      img_pet_zhiyanlong_01_6: 8633889326924393769
+      img_pet_zhiyanlong_01_7: 7594784255229458069
+      img_pet_zhiyanlong_01_8: 6619364536419655570
+      img_pet_zhiyanlong_01_9: -3288613465305933498
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

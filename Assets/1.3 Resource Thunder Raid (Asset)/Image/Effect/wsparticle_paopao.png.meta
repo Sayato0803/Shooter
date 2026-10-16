@@ -1,0 +1,2431 @@
+fileFormatVersion: 2
+guid: 9143d8ce040457b4b8868e5fb250e78a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8724969250625336176
+    second: wsparticle_paopao_0
+  - first:
+      213: -4081820515749975799
+    second: wsparticle_paopao_1
+  - first:
+      213: -7187887740062130734
+    second: wsparticle_paopao_2
+  - first:
+      213: 4200367935765221255
+    second: wsparticle_paopao_3
+  - first:
+      213: -1390610398584600113
+    second: wsparticle_paopao_4
+  - first:
+      213: -4279312669990446322
+    second: wsparticle_paopao_5
+  - first:
+      213: -6104098204219031513
+    second: wsparticle_paopao_6
+  - first:
+      213: -6994425919034544744
+    second: wsparticle_paopao_7
+  - first:
+      213: -2917233111386805704
+    second: wsparticle_paopao_8
+  - first:
+      213: 1436139559216993012
+    second: wsparticle_paopao_9
+  - first:
+      213: 7593232553407039299
+    second: wsparticle_paopao_10
+  - first:
+      213: -6025722586216619527
+    second: wsparticle_paopao_11
+  - first:
+      213: 1333721234648387683
+    second: wsparticle_paopao_12
+  - first:
+      213: 9064867756614939572
+    second: wsparticle_paopao_13
+  - first:
+      213: -3588150315635937495
+    second: wsparticle_paopao_14
+  - first:
+      213: 24650908003462437
+    second: wsparticle_paopao_15
+  - first:
+      213: 7529116953408045859
+    second: wsparticle_paopao_16
+  - first:
+      213: 8109655427269391954
+    second: wsparticle_paopao_17
+  - first:
+      213: 6560193519927608518
+    second: wsparticle_paopao_18
+  - first:
+      213: -1922860391904536036
+    second: wsparticle_paopao_19
+  - first:
+      213: -2769876463571814025
+    second: wsparticle_paopao_20
+  - first:
+      213: -4203405308740852587
+    second: wsparticle_paopao_21
+  - first:
+      213: 477498822775718464
+    second: wsparticle_paopao_22
+  - first:
+      213: 4956660213287362288
+    second: wsparticle_paopao_23
+  - first:
+      213: 1198356298420323233
+    second: wsparticle_paopao_24
+  - first:
+      213: 8922196330308743232
+    second: wsparticle_paopao_25
+  - first:
+      213: -8051735739013780436
+    second: wsparticle_paopao_26
+  - first:
+      213: 4804483770606242927
+    second: wsparticle_paopao_27
+  - first:
+      213: 8851574388385481124
+    second: wsparticle_paopao_28
+  - first:
+      213: 2903089503931589772
+    second: wsparticle_paopao_29
+  - first:
+      213: -2350717826878986121
+    second: wsparticle_paopao_30
+  - first:
+      213: 6228323062039663757
+    second: wsparticle_paopao_31
+  - first:
+      213: 3751662001566754178
+    second: wsparticle_paopao_32
+  - first:
+      213: 2148988719549265354
+    second: wsparticle_paopao_33
+  - first:
+      213: -7081572073458637418
+    second: wsparticle_paopao_34
+  - first:
+      213: -3625800734774057998
+    second: wsparticle_paopao_35
+  - first:
+      213: 9018596236151538517
+    second: wsparticle_paopao_36
+  - first:
+      213: -8815160205695658651
+    second: wsparticle_paopao_37
+  - first:
+      213: -6197729309542819283
+    second: wsparticle_paopao_38
+  - first:
+      213: 4150905751475895611
+    second: wsparticle_paopao_39
+  - first:
+      213: 4862194919411497867
+    second: wsparticle_paopao_40
+  - first:
+      213: -357569662004700303
+    second: wsparticle_paopao_41
+  - first:
+      213: 5380436710694916886
+    second: wsparticle_paopao_42
+  - first:
+      213: 3624364377226062327
+    second: wsparticle_paopao_43
+  - first:
+      213: -6707734136143170628
+    second: wsparticle_paopao_44
+  - first:
+      213: -5814184927236997889
+    second: wsparticle_paopao_45
+  - first:
+      213: -4614687173557464766
+    second: wsparticle_paopao_46
+  - first:
+      213: 1092408213928152601
+    second: wsparticle_paopao_47
+  - first:
+      213: 81628669510133445
+    second: wsparticle_paopao_48
+  - first:
+      213: 4052640039802057447
+    second: wsparticle_paopao_49
+  - first:
+      213: -6855580448587778991
+    second: wsparticle_paopao_50
+  - first:
+      213: -2158679188030526342
+    second: wsparticle_paopao_51
+  - first:
+      213: 7738564365971586499
+    second: wsparticle_paopao_52
+  - first:
+      213: -2827812712934471528
+    second: wsparticle_paopao_53
+  - first:
+      213: 8217080378560935085
+    second: wsparticle_paopao_54
+  - first:
+      213: 6037077979323066583
+    second: wsparticle_paopao_55
+  - first:
+      213: -8864737799770213294
+    second: wsparticle_paopao_56
+  - first:
+      213: -9032631727873927345
+    second: wsparticle_paopao_57
+  - first:
+      213: -3995884554964919478
+    second: wsparticle_paopao_58
+  - first:
+      213: -4663772532196081020
+    second: wsparticle_paopao_59
+  - first:
+      213: -5684255666928341455
+    second: wsparticle_paopao_60
+  - first:
+      213: 947884357790765585
+    second: wsparticle_paopao_61
+  - first:
+      213: 2604472315014551138
+    second: wsparticle_paopao_62
+  - first:
+      213: -8993903363556766558
+    second: wsparticle_paopao_63
+  - first:
+      213: 1420164672396468372
+    second: wsparticle_paopao_64
+  - first:
+      213: 5633826751195017413
+    second: wsparticle_paopao_65
+  - first:
+      213: -8933646381172505061
+    second: wsparticle_paopao_66
+  - first:
+      213: -5210520692083651721
+    second: wsparticle_paopao_67
+  - first:
+      213: 2826963531521578850
+    second: wsparticle_paopao_68
+  - first:
+      213: -3179997270837013600
+    second: wsparticle_paopao_69
+  - first:
+      213: -8539484912705377228
+    second: wsparticle_paopao_70
+  - first:
+      213: 3701994194171932442
+    second: wsparticle_paopao_71
+  - first:
+      213: 6636993422836445186
+    second: wsparticle_paopao_72
+  - first:
+      213: 7271836715924163674
+    second: wsparticle_paopao_73
+  - first:
+      213: 590935277142912040
+    second: wsparticle_paopao_74
+  - first:
+      213: -5826675331179475125
+    second: wsparticle_paopao_75
+  - first:
+      213: 5613814758458297954
+    second: wsparticle_paopao_76
+  - first:
+      213: -1048438826179711634
+    second: wsparticle_paopao_77
+  - first:
+      213: 7837636208769210076
+    second: wsparticle_paopao_78
+  - first:
+      213: 3161550904928616508
+    second: wsparticle_paopao_79
+  - first:
+      213: -5627384765749964912
+    second: wsparticle_paopao_80
+  - first:
+      213: 2249875464671832030
+    second: wsparticle_paopao_81
+  - first:
+      213: -9102202642786344551
+    second: wsparticle_paopao_82
+  - first:
+      213: 8421554444635651692
+    second: wsparticle_paopao_83
+  - first:
+      213: -4216619584093391863
+    second: wsparticle_paopao_84
+  - first:
+      213: 4924055203752348750
+    second: wsparticle_paopao_85
+  - first:
+      213: 8921297546268133620
+    second: wsparticle_paopao_86
+  - first:
+      213: -2008738195380238218
+    second: wsparticle_paopao_87
+  - first:
+      213: -2193751561328558732
+    second: wsparticle_paopao_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wsparticle_paopao_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 244
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c454481beaae680800000000000000
+      internalID: -8724969250625336176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 236
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90922d90ed57a57c0800000000000000
+      internalID: -4081820515749975799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 241
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd1638fe2e7f3c90800000000000000
+      internalID: -7187887740062130734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 244
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f0a311264ba4a30800000000000000
+      internalID: 4200367935765221255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 243
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc98663d53f83bce0800000000000000
+      internalID: -1390610398584600113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_5
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 242
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b1466acc3dc94c0800000000000000
+      internalID: -4279312669990446322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 235
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720cc6f2603e94ba0800000000000000
+      internalID: -6104098204219031513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 242
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d29284faeceee90800000000000000
+      internalID: -6994425919034544744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 225
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a28ccf0f7e387d0800000000000000
+      internalID: -2917233111386805704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_9
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 223
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2d303f1513ee310800000000000000
+      internalID: 1436139559216993012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_10
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 236
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34742c2d6c4906960800000000000000
+      internalID: 7593232553407039299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 223
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1a285cb35506ca0800000000000000
+      internalID: -6025722586216619527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 235
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360dc948564528210800000000000000
+      internalID: 1333721234648387683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3fce86231eccd70800000000000000
+      internalID: 9064867756614939572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 226
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f60db7c44543ec0800000000000000
+      internalID: -3588150315635937495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_15
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 217
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52defe6ced3975000800000000000000
+      internalID: 24650908003462437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_16
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 233
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32302486afbcc7860800000000000000
+      internalID: 7529116953408045859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 226
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256f531f4a84b8070800000000000000
+      internalID: 8109655427269391954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_18
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 219
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4ca1dbf3d7a0b50800000000000000
+      internalID: 6560193519927608518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 217
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a9cdb49a0a055e0800000000000000
+      internalID: -1922860391904536036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_20
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 228
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7793615280c6f89d0800000000000000
+      internalID: -2769876463571814025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_21
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 221
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594a28d64218aa5c0800000000000000
+      internalID: -4203405308740852587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_22
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 215
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042c63046aa60a600800000000000000
+      internalID: 477498822775718464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_23
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 214
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe1e45d33899c440800000000000000
+      internalID: 4956660213287362288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_24
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 202
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a302b944ba61a010800000000000000
+      internalID: 1198356298420323233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_25
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 150
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040b8546a4202db70800000000000000
+      internalID: 8922196330308743232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_26
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 188
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c24ca510d724090800000000000000
+      internalID: -8051735739013780436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_27
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 194
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c4d1cb884fca240800000000000000
+      internalID: 4804483770606242927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 194
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a189a2320c17da70800000000000000
+      internalID: 8851574388385481124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_29
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 197
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84e109c588d94820800000000000000
+      internalID: 2903089503931589772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_30
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 187
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77823b15792906fd0800000000000000
+      internalID: -2350717826878986121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_31
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 188
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d845f3b63d27f6650800000000000000
+      internalID: 6228323062039663757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 171
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285a7b896b4901430800000000000000
+      internalID: 3751662001566754178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 189
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac53e07caddb2dd10800000000000000
+      internalID: 2148988719549265354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_34
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 178
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695eb2e08b339bd90800000000000000
+      internalID: -7081572073458637418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 176
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3217921719eadc0800000000000000
+      internalID: -3625800734774057998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_36
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 168
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553cc748e7d782d70800000000000000
+      internalID: 9018596236151538517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_37
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 168
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565d9556f724aa580800000000000000
+      internalID: -8815160205695658651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_38
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 154
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a5caaa70e3df9a0800000000000000
+      internalID: -6197729309542819283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_39
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 156
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3db8dcd9cafa9930800000000000000
+      internalID: 4150905751475895611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_40
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 158
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b3b38a48cf97340800000000000000
+      internalID: 4862194919411497867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_41
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 164
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bd0c17948a90bf0800000000000000
+      internalID: -357569662004700303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_42
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 164
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613117d7ea62baa40800000000000000
+      internalID: 5380436710694916886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_43
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9a329c2345c4230800000000000000
+      internalID: 3624364377226062327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 157
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3bc6f975759e2a0800000000000000
+      internalID: -6707734136143170628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_45
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 161
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcbb911d9ddf4fa0800000000000000
+      internalID: -5814184927236997889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_46
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 139
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2415e8e177655ffb0800000000000000
+      internalID: -4614687173557464766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_47
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 142
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e08e49b73092f00800000000000000
+      internalID: 1092408213928152601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_48
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 146
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6a3a9a7d0022100800000000000000
+      internalID: 81628669510133445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_49
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 111
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e23de6f4aedd3830800000000000000
+      internalID: 4052640039802057447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_50
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 138
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154ffc887e51cd0a0800000000000000
+      internalID: -6855580448587778991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_51
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 132
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c696537b4da02e0800000000000000
+      internalID: -2158679188030526342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_52
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 140
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd7b394a47e46b60800000000000000
+      internalID: 7738564365971586499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_53
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 135
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898053ae15791c8d0800000000000000
+      internalID: -2827812712934471528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_54
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 137
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4f4fe711fe80270800000000000000
+      internalID: 8217080378560935085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_55
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 126
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d862e6bf6208c350800000000000000
+      internalID: 6037077979323066583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_56
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 127
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254f7b140ff1af480800000000000000
+      internalID: -8864737799770213294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_57
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 131
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47d629ec45a5a280800000000000000
+      internalID: -9032631727873927345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_58
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 115
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b98d91b24cb88c0800000000000000
+      internalID: -3995884554964919478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 100
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4828a397793f64fb0800000000000000
+      internalID: -4663772532196081020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_60
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 117
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e2c3066977d11b0800000000000000
+      internalID: -5684255666928341455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_61
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 127
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11294422dcf872d00800000000000000
+      internalID: 947884357790765585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_62
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 115
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26618cb75c1f42420800000000000000
+      internalID: 2604472315014551138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_63
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac0207ea8c3f2380800000000000000
+      internalID: -8993903363556766558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_64
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49020c4ce3075b310800000000000000
+      internalID: 1420164672396468372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_65
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 113
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c07217b49f5f2e40800000000000000
+      internalID: 5633826751195017413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_66
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 114
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b164245e2ff450480800000000000000
+      internalID: -8933646381172505061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_67
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 98
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b088d790380b7b0800000000000000
+      internalID: -5210520692083651721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_68
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 109
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267d351aa546b3720800000000000000
+      internalID: 2826963531521578850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_69
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 102
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a35c0d94516ed3d0800000000000000
+      internalID: -3179997270837013600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 13
+        width: 90
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c636d47b7ad7980800000000000000
+      internalID: -8539484912705377228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_71
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 31
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f2d280b10206330800000000000000
+      internalID: 3701994194171932442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_72
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 98
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20035c09a565b1c50800000000000000
+      internalID: 6636993422836445186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_73
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 89
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c8d4d17f0cae460800000000000000
+      internalID: 7271836715924163674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_74
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 98
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ca95fe08c633800800000000000000
+      internalID: 590935277142912040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_75
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 91
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f048748ad732fa0800000000000000
+      internalID: -5826675331179475125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_76
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 50
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e80c097c648ed40800000000000000
+      internalID: 5613814758458297954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_77
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 70
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6da4d441723371f0800000000000000
+      internalID: -1048438826179711634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_78
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 57
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd69d663b90e4cc60800000000000000
+      internalID: 7837636208769210076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_79
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 80
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30c5932cc510eb20800000000000000
+      internalID: 3161550904928616508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_80
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 53
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f4707ee5387e1b0800000000000000
+      internalID: -5627384765749964912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_81
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 63
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7a1a490d9293f10800000000000000
+      internalID: 2249875464671832030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_82
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 40
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99129130cea7ea180800000000000000
+      internalID: -9102202642786344551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_83
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 38
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ebe19e52f5fd470800000000000000
+      internalID: 8421554444635651692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_84
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 25
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904782134de8b75c0800000000000000
+      internalID: -4216619584093391863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_85
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 29
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c821a7e12c55440800000000000000
+      internalID: 4924055203752348750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_86
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 14
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f840ece9d0decb70800000000000000
+      internalID: 8921297546268133620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_87
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 19
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6780a9901478f14e0800000000000000
+      internalID: -2008738195380238218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_paopao_88
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 11
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d7d85f39a3e81e0800000000000000
+      internalID: -2193751561328558732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wsparticle_paopao_0: -8724969250625336176
+      wsparticle_paopao_1: -4081820515749975799
+      wsparticle_paopao_10: 7593232553407039299
+      wsparticle_paopao_11: -6025722586216619527
+      wsparticle_paopao_12: 1333721234648387683
+      wsparticle_paopao_13: 9064867756614939572
+      wsparticle_paopao_14: -3588150315635937495
+      wsparticle_paopao_15: 24650908003462437
+      wsparticle_paopao_16: 7529116953408045859
+      wsparticle_paopao_17: 8109655427269391954
+      wsparticle_paopao_18: 6560193519927608518
+      wsparticle_paopao_19: -1922860391904536036
+      wsparticle_paopao_2: -7187887740062130734
+      wsparticle_paopao_20: -2769876463571814025
+      wsparticle_paopao_21: -4203405308740852587
+      wsparticle_paopao_22: 477498822775718464
+      wsparticle_paopao_23: 4956660213287362288
+      wsparticle_paopao_24: 1198356298420323233
+      wsparticle_paopao_25: 8922196330308743232
+      wsparticle_paopao_26: -8051735739013780436
+      wsparticle_paopao_27: 4804483770606242927
+      wsparticle_paopao_28: 8851574388385481124
+      wsparticle_paopao_29: 2903089503931589772
+      wsparticle_paopao_3: 4200367935765221255
+      wsparticle_paopao_30: -2350717826878986121
+      wsparticle_paopao_31: 6228323062039663757
+      wsparticle_paopao_32: 3751662001566754178
+      wsparticle_paopao_33: 2148988719549265354
+      wsparticle_paopao_34: -7081572073458637418
+      wsparticle_paopao_35: -3625800734774057998
+      wsparticle_paopao_36: 9018596236151538517
+      wsparticle_paopao_37: -8815160205695658651
+      wsparticle_paopao_38: -6197729309542819283
+      wsparticle_paopao_39: 4150905751475895611
+      wsparticle_paopao_4: -1390610398584600113
+      wsparticle_paopao_40: 4862194919411497867
+      wsparticle_paopao_41: -357569662004700303
+      wsparticle_paopao_42: 5380436710694916886
+      wsparticle_paopao_43: 3624364377226062327
+      wsparticle_paopao_44: -6707734136143170628
+      wsparticle_paopao_45: -5814184927236997889
+      wsparticle_paopao_46: -4614687173557464766
+      wsparticle_paopao_47: 1092408213928152601
+      wsparticle_paopao_48: 81628669510133445
+      wsparticle_paopao_49: 4052640039802057447
+      wsparticle_paopao_5: -4279312669990446322
+      wsparticle_paopao_50: -6855580448587778991
+      wsparticle_paopao_51: -2158679188030526342
+      wsparticle_paopao_52: 7738564365971586499
+      wsparticle_paopao_53: -2827812712934471528
+      wsparticle_paopao_54: 8217080378560935085
+      wsparticle_paopao_55: 6037077979323066583
+      wsparticle_paopao_56: -8864737799770213294
+      wsparticle_paopao_57: -9032631727873927345
+      wsparticle_paopao_58: -3995884554964919478
+      wsparticle_paopao_59: -4663772532196081020
+      wsparticle_paopao_6: -6104098204219031513
+      wsparticle_paopao_60: -5684255666928341455
+      wsparticle_paopao_61: 947884357790765585
+      wsparticle_paopao_62: 2604472315014551138
+      wsparticle_paopao_63: -8993903363556766558
+      wsparticle_paopao_64: 1420164672396468372
+      wsparticle_paopao_65: 5633826751195017413
+      wsparticle_paopao_66: -8933646381172505061
+      wsparticle_paopao_67: -5210520692083651721
+      wsparticle_paopao_68: 2826963531521578850
+      wsparticle_paopao_69: -3179997270837013600
+      wsparticle_paopao_7: -6994425919034544744
+      wsparticle_paopao_70: -8539484912705377228
+      wsparticle_paopao_71: 3701994194171932442
+      wsparticle_paopao_72: 6636993422836445186
+      wsparticle_paopao_73: 7271836715924163674
+      wsparticle_paopao_74: 590935277142912040
+      wsparticle_paopao_75: -5826675331179475125
+      wsparticle_paopao_76: 5613814758458297954
+      wsparticle_paopao_77: -1048438826179711634
+      wsparticle_paopao_78: 7837636208769210076
+      wsparticle_paopao_79: 3161550904928616508
+      wsparticle_paopao_8: -2917233111386805704
+      wsparticle_paopao_80: -5627384765749964912
+      wsparticle_paopao_81: 2249875464671832030
+      wsparticle_paopao_82: -9102202642786344551
+      wsparticle_paopao_83: 8421554444635651692
+      wsparticle_paopao_84: -4216619584093391863
+      wsparticle_paopao_85: 4924055203752348750
+      wsparticle_paopao_86: 8921297546268133620
+      wsparticle_paopao_87: -2008738195380238218
+      wsparticle_paopao_88: -2193751561328558732
+      wsparticle_paopao_9: 1436139559216993012
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

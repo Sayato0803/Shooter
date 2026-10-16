@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: 51f15e89108e0ea4d808937fe22a7296
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5463834731784620167
+    second: boku_2_png_0
+  - first:
+      213: -2657789562316908998
+    second: boku_2_png_1
+  - first:
+      213: -3796713192227748031
+    second: boku_2_png_2
+  - first:
+      213: -5132163220077512503
+    second: boku_2_png_3
+  - first:
+      213: -5635881269630688452
+    second: boku_2_png_4
+  - first:
+      213: -1671142958277877234
+    second: boku_2_png_5
+  - first:
+      213: 8438642938328329108
+    second: boku_2_png_6
+  - first:
+      213: -8448098890423063104
+    second: boku_2_png_7
+  - first:
+      213: 5036711650870285751
+    second: boku_2_png_8
+  - first:
+      213: -6337847159547156484
+    second: boku_2_png_9
+  - first:
+      213: -1437855983040930999
+    second: boku_2_png_10
+  - first:
+      213: -6591124909282177757
+    second: boku_2_png_11
+  - first:
+      213: -7472732376199483232
+    second: boku_2_png_12
+  - first:
+      213: -1722806990288511665
+    second: boku_2_png_13
+  - first:
+      213: 1676529692343926218
+    second: boku_2_png_14
+  - first:
+      213: -2907362505534224395
+    second: boku_2_png_15
+  - first:
+      213: 5662902529294264389
+    second: boku_2_png_16
+  - first:
+      213: 3724605261850089598
+    second: boku_2_png_17
+  - first:
+      213: -656076918920671550
+    second: boku_2_png_18
+  - first:
+      213: 3108028955163601665
+    second: boku_2_png_19
+  - first:
+      213: -6739617825647960722
+    second: boku_2_png_20
+  - first:
+      213: 6500468084851333491
+    second: boku_2_png_21
+  - first:
+      213: -3456897669286445476
+    second: boku_2_png_22
+  - first:
+      213: -8330125477607055425
+    second: boku_2_png_23
+  - first:
+      213: 2386038940624219905
+    second: boku_2_png_24
+  - first:
+      213: 508646766489781982
+    second: boku_2_png_25
+  - first:
+      213: 2769602393744113633
+    second: boku_2_png_26
+  - first:
+      213: 4469322947019994048
+    second: boku_2_png_27
+  - first:
+      213: 7088298962418375399
+    second: boku_2_png_28
+  - first:
+      213: -262683397673489508
+    second: boku_2_png_29
+  - first:
+      213: -8746223666757616586
+    second: boku_2_png_30
+  - first:
+      213: 3507681710055897651
+    second: boku_2_png_31
+  - first:
+      213: 7946822401328375612
+    second: boku_2_png_32
+  - first:
+      213: 6353535767069790542
+    second: boku_2_png_33
+  - first:
+      213: 1416154156797595166
+    second: boku_2_png_34
+  - first:
+      213: 4927653425914562580
+    second: boku_2_png_35
+  - first:
+      213: 2501405486963980434
+    second: boku_2_png_36
+  - first:
+      213: 7437147287442623145
+    second: boku_2_png_37
+  - first:
+      213: 8524152955760957899
+    second: boku_2_png_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boku_2_png_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 220
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788c67b6db073db40800000000000000
+      internalID: 5463834731784620167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 228
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a361c528972ad1bd0800000000000000
+      internalID: -2657789562316908998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 228
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147c93fa77d5f4bc0800000000000000
+      internalID: -3796713192227748031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 220
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c874f12eb4e6c8b0800000000000000
+      internalID: -5132163220077512503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 228
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33a26f68d359c1b0800000000000000
+      internalID: -5635881269630688452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 228
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02a3f26558eec8e0800000000000000
+      internalID: -1671142958277877234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 220
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b2b65ea051c1570800000000000000
+      internalID: 8438642938328329108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 226
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd26f0b1d252ca80800000000000000
+      internalID: -8448098890423063104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5d1329f8ef5e540800000000000000
+      internalID: 5036711650870285751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 175
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7297676917b08a0800000000000000
+      internalID: -6337847159547156484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 185
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bdcacf995bb0ce0800000000000000
+      internalID: -1437855983040930999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_11
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 193
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32dc108f0de9784a0800000000000000
+      internalID: -6591124909282177757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_12
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 193
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0b11ffe758b4890800000000000000
+      internalID: -7472732376199483232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 185
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d1b4f8b2c5718e0800000000000000
+      internalID: -1722806990288511665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_14
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 192
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdfd8f5fda344710800000000000000
+      internalID: 1676529692343926218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_15
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 193
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7c7508439f6a7d0800000000000000
+      internalID: -2907362505534224395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 152
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548ee38d8dba69e40800000000000000
+      internalID: 5662902529294264389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 154
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78102970c470b330800000000000000
+      internalID: 3724605261850089598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_18
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 135
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce866ea48525e6f0800000000000000
+      internalID: -656076918920671550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_19
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 140
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ba7202edfe12b20800000000000000
+      internalID: 3108028955163601665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_20
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 141
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ddc5cab411872a0800000000000000
+      internalID: -6739617825647960722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_21
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 141
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379d35f384d463a50800000000000000
+      internalID: 6500468084851333491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e3e4d92e1a600d0800000000000000
+      internalID: -3456897669286445476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 133
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfdcc45303756c80800000000000000
+      internalID: -8330125477607055425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_24
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 90
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fe72456c9ec1120800000000000000
+      internalID: 2386038940624219905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_25
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 119
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed646c80a831f0700800000000000000
+      internalID: 508646766489781982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_26
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 118
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef703004ba9f6620800000000000000
+      internalID: 2769602393744113633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 112
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3f0a37a89360e30800000000000000
+      internalID: 4469322947019994048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_28
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 67
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea97b4d952be5260800000000000000
+      internalID: 7088298962418375399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_29
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 102
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b674177d2ca5cf0800000000000000
+      internalID: -262683397673489508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_30
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 102
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c3cc02aeb2f9680800000000000000
+      internalID: -8746223666757616586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_31
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 48
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a34094ee9cda030800000000000000
+      internalID: 3507681710055897651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_32
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 67
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c376b44bed8c84e60800000000000000
+      internalID: 7946822401328375612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_33
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e411fef1e1b4c2850800000000000000
+      internalID: 6353535767069790542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_34
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 72
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e0d17d3b037a310800000000000000
+      internalID: 1416154156797595166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_35
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 50
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418cfdbdeaa826440800000000000000
+      internalID: 4927653425914562580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 13
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29873b19907c6b220800000000000000
+      internalID: 2501405486963980434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_37
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 21
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa0742ed0e063760800000000000000
+      internalID: 7437147287442623145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boku_2_png_38
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 20
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc95a3b43ffdb4670800000000000000
+      internalID: 8524152955760957899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boku_2_png_0: 5463834731784620167
+      boku_2_png_1: -2657789562316908998
+      boku_2_png_10: -1437855983040930999
+      boku_2_png_11: -6591124909282177757
+      boku_2_png_12: -7472732376199483232
+      boku_2_png_13: -1722806990288511665
+      boku_2_png_14: 1676529692343926218
+      boku_2_png_15: -2907362505534224395
+      boku_2_png_16: 5662902529294264389
+      boku_2_png_17: 3724605261850089598
+      boku_2_png_18: -656076918920671550
+      boku_2_png_19: 3108028955163601665
+      boku_2_png_2: -3796713192227748031
+      boku_2_png_20: -6739617825647960722
+      boku_2_png_21: 6500468084851333491
+      boku_2_png_22: -3456897669286445476
+      boku_2_png_23: -8330125477607055425
+      boku_2_png_24: 2386038940624219905
+      boku_2_png_25: 508646766489781982
+      boku_2_png_26: 2769602393744113633
+      boku_2_png_27: 4469322947019994048
+      boku_2_png_28: 7088298962418375399
+      boku_2_png_29: -262683397673489508
+      boku_2_png_3: -5132163220077512503
+      boku_2_png_30: -8746223666757616586
+      boku_2_png_31: 3507681710055897651
+      boku_2_png_32: 7946822401328375612
+      boku_2_png_33: 6353535767069790542
+      boku_2_png_34: 1416154156797595166
+      boku_2_png_35: 4927653425914562580
+      boku_2_png_36: 2501405486963980434
+      boku_2_png_37: 7437147287442623145
+      boku_2_png_38: 8524152955760957899
+      boku_2_png_4: -5635881269630688452
+      boku_2_png_5: -1671142958277877234
+      boku_2_png_6: 8438642938328329108
+      boku_2_png_7: -8448098890423063104
+      boku_2_png_8: 5036711650870285751
+      boku_2_png_9: -6337847159547156484
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

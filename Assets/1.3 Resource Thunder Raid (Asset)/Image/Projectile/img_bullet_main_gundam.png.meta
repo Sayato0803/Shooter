@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 12d9fb8649c3af8438b53036c91bcbc8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8285688167012745400
+    second: img_bullet_main_gundam_0
+  - first:
+      213: -3158885266507035926
+    second: img_bullet_main_gundam_1
+  - first:
+      213: 1111039833273563787
+    second: img_bullet_main_gundam_2
+  - first:
+      213: 9069963920369224888
+    second: img_bullet_main_gundam_3
+  - first:
+      213: -8020283306940413952
+    second: img_bullet_main_gundam_4
+  - first:
+      213: -6829590120573196386
+    second: img_bullet_main_gundam_5
+  - first:
+      213: 3833158425069527065
+    second: img_bullet_main_gundam_6
+  - first:
+      213: 8311018021575582854
+    second: img_bullet_main_gundam_7
+  - first:
+      213: -8227730290827321399
+    second: img_bullet_main_gundam_8
+  - first:
+      213: -7437104623530090058
+    second: img_bullet_main_gundam_9
+  - first:
+      213: 7316620816328630056
+    second: img_bullet_main_gundam_10
+  - first:
+      213: -3876587916243429409
+    second: img_bullet_main_gundam_11
+  - first:
+      213: -25408567627876307
+    second: img_bullet_main_gundam_12
+  - first:
+      213: -9104015075108038729
+    second: img_bullet_main_gundam_13
+  - first:
+      213: 8711074706274826128
+    second: img_bullet_main_gundam_14
+  - first:
+      213: 8360558185952837003
+    second: img_bullet_main_gundam_15
+  - first:
+      213: -6617128348624516333
+    second: img_bullet_main_gundam_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_bullet_main_gundam_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 70
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f3c85f282530d80800000000000000
+      internalID: -8285688167012745400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gundam_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 214
+        width: 71
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea02ab26926924d0800000000000000
+      internalID: -3158885266507035926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gundam_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 214
+        width: 71
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a749187d43b6f00800000000000000
+      internalID: 1111039833273563787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gundam_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 214
+        width: 71
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc873f712cfedd70800000000000000
+      internalID: 9069963920369224888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gundam_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 271
+        width: 66
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00842db53da32b090800000000000000
+      internalID: -8020283306940413952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gundam_5
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 271
+        width: 66
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97a7b558fb6831a0800000000000000
+      internalID: -6829590120573196386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gundam_6
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 341
+        width: 31
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910a016574d123530800000000000000
+      internalID: 3833158425069527065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gundam_7
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 341
+        width: 31
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684e1e16bdaa65370800000000000000
+      internalID: 8311018021575582854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gundam_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 55
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf148394ea31dd80800000000000000
+      internalID: -8227730290827321399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gundam_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 4
+        width: 56
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1e2159fb81ac890800000000000000
+      internalID: -7437104623530090058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gundam_10
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 4
+        width: 56
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f1f790edbd98560800000000000000
+      internalID: 7316620816328630056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gundam_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 4
+        width: 56
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd71db744d7933ac0800000000000000
+      internalID: -3876587916243429409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gundam_12
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 43
+        width: 31
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28f948da0bb5aff0800000000000000
+      internalID: -25408567627876307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gundam_13
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7526a368a08a180800000000000000
+      internalID: -9104015075108038729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gundam_14
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 43
+        width: 31
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097b667ca44f3e870800000000000000
+      internalID: 8711074706274826128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gundam_15
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 30
+        width: 66
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8df3bdbf5ba60470800000000000000
+      internalID: 8360558185952837003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_gundam_16
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 30
+        width: 66
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b811373dc3b24a0800000000000000
+      internalID: -6617128348624516333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_bullet_main_gundam_0: -8285688167012745400
+      img_bullet_main_gundam_1: -3158885266507035926
+      img_bullet_main_gundam_10: 7316620816328630056
+      img_bullet_main_gundam_11: -3876587916243429409
+      img_bullet_main_gundam_12: -25408567627876307
+      img_bullet_main_gundam_13: -9104015075108038729
+      img_bullet_main_gundam_14: 8711074706274826128
+      img_bullet_main_gundam_15: 8360558185952837003
+      img_bullet_main_gundam_16: -6617128348624516333
+      img_bullet_main_gundam_2: 1111039833273563787
+      img_bullet_main_gundam_3: 9069963920369224888
+      img_bullet_main_gundam_4: -8020283306940413952
+      img_bullet_main_gundam_5: -6829590120573196386
+      img_bullet_main_gundam_6: 3833158425069527065
+      img_bullet_main_gundam_7: 8311018021575582854
+      img_bullet_main_gundam_8: -8227730290827321399
+      img_bullet_main_gundam_9: -7437104623530090058
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 6fa7ffdbca2e6d149970c2f556eb521e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5771210989617249856
+    second: wsparticle_youlingmotuo1_0
+  - first:
+      213: -4192982717494327729
+    second: wsparticle_youlingmotuo1_1
+  - first:
+      213: 159630198959988737
+    second: wsparticle_youlingmotuo1_2
+  - first:
+      213: -8434792939860191047
+    second: wsparticle_youlingmotuo1_3
+  - first:
+      213: 6688816981225905542
+    second: wsparticle_youlingmotuo1_4
+  - first:
+      213: 3895908891975333456
+    second: wsparticle_youlingmotuo1_5
+  - first:
+      213: -8500760316372816595
+    second: wsparticle_youlingmotuo1_6
+  - first:
+      213: -1391465029605979694
+    second: wsparticle_youlingmotuo1_7
+  - first:
+      213: 5824953067216434450
+    second: wsparticle_youlingmotuo1_8
+  - first:
+      213: -2397902222700366659
+    second: wsparticle_youlingmotuo1_9
+  - first:
+      213: -4406717712706107749
+    second: wsparticle_youlingmotuo1_10
+  - first:
+      213: 8185957335674622468
+    second: wsparticle_youlingmotuo1_11
+  - first:
+      213: -3195920132162089765
+    second: wsparticle_youlingmotuo1_12
+  - first:
+      213: -6026432039707426309
+    second: wsparticle_youlingmotuo1_13
+  - first:
+      213: -1437015525243450887
+    second: wsparticle_youlingmotuo1_14
+  - first:
+      213: -8980224167290700821
+    second: wsparticle_youlingmotuo1_15
+  - first:
+      213: -5848343390293252678
+    second: wsparticle_youlingmotuo1_16
+  - first:
+      213: -2574100295703548438
+    second: wsparticle_youlingmotuo1_17
+  - first:
+      213: -5241129503063360742
+    second: wsparticle_youlingmotuo1_18
+  - first:
+      213: -7098407247052816406
+    second: wsparticle_youlingmotuo1_19
+  - first:
+      213: 7894374412170171205
+    second: wsparticle_youlingmotuo1_20
+  - first:
+      213: 2656761598288559654
+    second: wsparticle_youlingmotuo1_21
+  - first:
+      213: -3545030676997385413
+    second: wsparticle_youlingmotuo1_22
+  - first:
+      213: 3340496124548941129
+    second: wsparticle_youlingmotuo1_23
+  - first:
+      213: 748419918614025308
+    second: wsparticle_youlingmotuo1_24
+  - first:
+      213: -5247086294684191069
+    second: wsparticle_youlingmotuo1_25
+  - first:
+      213: -2253018242261950923
+    second: wsparticle_youlingmotuo1_26
+  - first:
+      213: -4903530186241778551
+    second: wsparticle_youlingmotuo1_27
+  - first:
+      213: 3922720683772700543
+    second: wsparticle_youlingmotuo1_28
+  - first:
+      213: -1282020825638257621
+    second: wsparticle_youlingmotuo1_29
+  - first:
+      213: -1356983298041544894
+    second: wsparticle_youlingmotuo1_30
+  - first:
+      213: -4934109453706835502
+    second: wsparticle_youlingmotuo1_31
+  - first:
+      213: 3105882948402511533
+    second: wsparticle_youlingmotuo1_32
+  - first:
+      213: -7588128512053024942
+    second: wsparticle_youlingmotuo1_33
+  - first:
+      213: 2212207401155380866
+    second: wsparticle_youlingmotuo1_34
+  - first:
+      213: 4540358868082030542
+    second: wsparticle_youlingmotuo1_35
+  - first:
+      213: 4859641778355033611
+    second: wsparticle_youlingmotuo1_36
+  - first:
+      213: -373075790614581403
+    second: wsparticle_youlingmotuo1_37
+  - first:
+      213: 8143616535203831151
+    second: wsparticle_youlingmotuo1_38
+  - first:
+      213: -4893778729717483190
+    second: wsparticle_youlingmotuo1_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 213
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e77ff51d5771050800000000000000
+      internalID: 5771210989617249856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 165
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46066e0f688fc5c0800000000000000
+      internalID: -4192982717494327729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 211
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1006f68f1de173200800000000000000
+      internalID: 159630198959988737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 209
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b819a9b28891fa80800000000000000
+      internalID: -8434792939860191047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 209
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d12950b9373dc50800000000000000
+      internalID: 6688816981225905542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_5
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 209
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056b97fee7c011630800000000000000
+      internalID: 3895908891975333456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 209
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d6cddf78b370a80800000000000000
+      internalID: -8500760316372816595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 209
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d905f88de580bce0800000000000000
+      internalID: -1391465029605979694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_8
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 209
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215f1c4e3f366d050800000000000000
+      internalID: 5824953067216434450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 117
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db433d112a0f8bed0800000000000000
+      internalID: -2397902222700366659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 165
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b960bbc869138d2c0800000000000000
+      internalID: -4406717712706107749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 163
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402936363dc5a9170800000000000000
+      internalID: 8185957335674622468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 163
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc85ff829fc5a3d0800000000000000
+      internalID: -3195920132162089765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 161
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1c4324dffcd5ca0800000000000000
+      internalID: -6026432039707426309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_14
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 161
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f984215ef1be0ce0800000000000000
+      internalID: -1437015525243450887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_15
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 161
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb7249f2b5df5380800000000000000
+      internalID: -8980224167290700821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_16
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 161
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab521112ca286dea0800000000000000
+      internalID: -5848343390293252678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedac525b65f64cd0800000000000000
+      internalID: -2574100295703548438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 115
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bb6145c74c347b0800000000000000
+      internalID: -5241129503063360742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_19
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 115
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefbb50c7346d7d90800000000000000
+      internalID: -7098407247052816406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_20
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 65
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5431651a3b37e8d60800000000000000
+      internalID: 7894374412170171205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 115
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e73e6f896bed420800000000000000
+      internalID: 2656761598288559654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_22
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 113
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3355b3b1658dcec0800000000000000
+      internalID: -3545030676997385413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 113
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9450f4dc683db5e20800000000000000
+      internalID: 3340496124548941129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 113
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54d0df53fbe26a00800000000000000
+      internalID: 748419918614025308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 113
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a63783b0da9e27b0800000000000000
+      internalID: -5247086294684191069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_26
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 65
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e508d78dbabb0e0800000000000000
+      internalID: -2253018242261950923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_27
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 11
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c57af864923fbb0800000000000000
+      internalID: -4903530186241778551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_28
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 65
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77695dadad407630800000000000000
+      internalID: 3922720683772700543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_29
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 11
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cbd2df9d8553ee0800000000000000
+      internalID: -1282020825638257621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_30
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 61
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f781a41e60b2de0800000000000000
+      internalID: -1356983298041544894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_31
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 61
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d948e80895868bb0800000000000000
+      internalID: -4934109453706835502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_32
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 61
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae797df5105a1b20800000000000000
+      internalID: 3105882948402511533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_33
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 61
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257e019625d81b690800000000000000
+      internalID: -7588128512053024942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_34
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 59
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2864b5b19e653be10800000000000000
+      internalID: 2212207401155380866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 11
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7f2dca558920f30800000000000000
+      internalID: 4540358868082030542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_36
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 7
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06df7e237ae07340800000000000000
+      internalID: 4859641778355033611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_37
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 7
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fae1a8b8192daf0800000000000000
+      internalID: -373075790614581403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_38
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 5
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d52df8710f30170800000000000000
+      internalID: 8143616535203831151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_youlingmotuo1_39
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 5
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49b3d57c2ec51cb0800000000000000
+      internalID: -4893778729717483190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wsparticle_youlingmotuo1_0: 5771210989617249856
+      wsparticle_youlingmotuo1_1: -4192982717494327729
+      wsparticle_youlingmotuo1_10: -4406717712706107749
+      wsparticle_youlingmotuo1_11: 8185957335674622468
+      wsparticle_youlingmotuo1_12: -3195920132162089765
+      wsparticle_youlingmotuo1_13: -6026432039707426309
+      wsparticle_youlingmotuo1_14: -1437015525243450887
+      wsparticle_youlingmotuo1_15: -8980224167290700821
+      wsparticle_youlingmotuo1_16: -5848343390293252678
+      wsparticle_youlingmotuo1_17: -2574100295703548438
+      wsparticle_youlingmotuo1_18: -5241129503063360742
+      wsparticle_youlingmotuo1_19: -7098407247052816406
+      wsparticle_youlingmotuo1_2: 159630198959988737
+      wsparticle_youlingmotuo1_20: 7894374412170171205
+      wsparticle_youlingmotuo1_21: 2656761598288559654
+      wsparticle_youlingmotuo1_22: -3545030676997385413
+      wsparticle_youlingmotuo1_23: 3340496124548941129
+      wsparticle_youlingmotuo1_24: 748419918614025308
+      wsparticle_youlingmotuo1_25: -5247086294684191069
+      wsparticle_youlingmotuo1_26: -2253018242261950923
+      wsparticle_youlingmotuo1_27: -4903530186241778551
+      wsparticle_youlingmotuo1_28: 3922720683772700543
+      wsparticle_youlingmotuo1_29: -1282020825638257621
+      wsparticle_youlingmotuo1_3: -8434792939860191047
+      wsparticle_youlingmotuo1_30: -1356983298041544894
+      wsparticle_youlingmotuo1_31: -4934109453706835502
+      wsparticle_youlingmotuo1_32: 3105882948402511533
+      wsparticle_youlingmotuo1_33: -7588128512053024942
+      wsparticle_youlingmotuo1_34: 2212207401155380866
+      wsparticle_youlingmotuo1_35: 4540358868082030542
+      wsparticle_youlingmotuo1_36: 4859641778355033611
+      wsparticle_youlingmotuo1_37: -373075790614581403
+      wsparticle_youlingmotuo1_38: 8143616535203831151
+      wsparticle_youlingmotuo1_39: -4893778729717483190
+      wsparticle_youlingmotuo1_4: 6688816981225905542
+      wsparticle_youlingmotuo1_5: 3895908891975333456
+      wsparticle_youlingmotuo1_6: -8500760316372816595
+      wsparticle_youlingmotuo1_7: -1391465029605979694
+      wsparticle_youlingmotuo1_8: 5824953067216434450
+      wsparticle_youlingmotuo1_9: -2397902222700366659
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

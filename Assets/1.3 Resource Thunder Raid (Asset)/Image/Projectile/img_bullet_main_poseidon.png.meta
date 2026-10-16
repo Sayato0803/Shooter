@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 3066f1a837fa54f48ad58272979dfc9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5062079636716111916
+    second: img_bullet_main_poseidon_0
+  - first:
+      213: 6886896978671477206
+    second: img_bullet_main_poseidon_1
+  - first:
+      213: 7569873841712740374
+    second: img_bullet_main_poseidon_2
+  - first:
+      213: 3351257192587131141
+    second: img_bullet_main_poseidon_3
+  - first:
+      213: -4504476116497857572
+    second: img_bullet_main_poseidon_4
+  - first:
+      213: 1415625306142284820
+    second: img_bullet_main_poseidon_5
+  - first:
+      213: -2341183864852592237
+    second: img_bullet_main_poseidon_6
+  - first:
+      213: 3275771341722667783
+    second: img_bullet_main_poseidon_7
+  - first:
+      213: 8796186848473974268
+    second: img_bullet_main_poseidon_8
+  - first:
+      213: 4312081743405033030
+    second: img_bullet_main_poseidon_9
+  - first:
+      213: 8104920267133180075
+    second: img_bullet_main_poseidon_10
+  - first:
+      213: 3508656190068365174
+    second: img_bullet_main_poseidon_11
+  - first:
+      213: -6197924428027682884
+    second: img_bullet_main_poseidon_12
+  - first:
+      213: -4973369330351552573
+    second: img_bullet_main_poseidon_13
+  - first:
+      213: 7034423469477105346
+    second: img_bullet_main_poseidon_14
+  - first:
+      213: 7247991678876290064
+    second: img_bullet_main_poseidon_15
+  - first:
+      213: -611575026356458082
+    second: img_bullet_main_poseidon_16
+  - first:
+      213: 5365846148255555612
+    second: img_bullet_main_poseidon_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_bullet_main_poseidon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 657
+        width: 149
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28c33b0c9e104640800000000000000
+      internalID: 5062079636716111916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_poseidon_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 656
+        width: 150
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1ac62505c239f50800000000000000
+      internalID: 6886896978671477206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_poseidon_2
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 729
+        width: 120
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6183fc1f6289d0960800000000000000
+      internalID: 7569873841712740374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_poseidon_3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 954
+        width: 84
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509f02339ae028e20800000000000000
+      internalID: 3351257192587131141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_poseidon_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 714
+        width: 81
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd30ae876d2ec71c0800000000000000
+      internalID: -4504476116497857572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_poseidon_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 400
+        width: 64
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c1aa337bf45a310800000000000000
+      internalID: 1415625306142284820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_poseidon_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 400
+        width: 63
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399c595dda1728fd0800000000000000
+      internalID: -2341183864852592237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_poseidon_7
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 400
+        width: 61
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bc8c4fda0e57d20800000000000000
+      internalID: 3275771341722667783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_poseidon_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 433
+        width: 121
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf50141a555521a70800000000000000
+      internalID: 8796186848473974268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_poseidon_9
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 473
+        width: 81
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646aa1ecf7797db30800000000000000
+      internalID: 4312081743405033030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_poseidon_10
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 217
+        width: 66
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8565f8a067a7070800000000000000
+      internalID: 8104920267133180075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_poseidon_11
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 413
+        width: 19
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6771008173041b030800000000000000
+      internalID: 3508656190068365174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_poseidon_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 58
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf91ba129c8cf9a0800000000000000
+      internalID: -6197924428027682884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_poseidon_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 143
+        width: 60
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7c29fa1fa0bfab0800000000000000
+      internalID: -4973369330351552573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_poseidon_14
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 143
+        width: 58
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce8ad120ea4f9160800000000000000
+      internalID: 7034423469477105346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_poseidon_15
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 177
+        width: 61
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c886ac70a069460800000000000000
+      internalID: 7247991678876290064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_poseidon_16
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 177
+        width: 59
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9de588f0cf3387f0800000000000000
+      internalID: -611575026356458082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_poseidon_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 58
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10ab2274a0577a40800000000000000
+      internalID: 5365846148255555612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_bullet_main_poseidon_0: 5062079636716111916
+      img_bullet_main_poseidon_1: 6886896978671477206
+      img_bullet_main_poseidon_10: 8104920267133180075
+      img_bullet_main_poseidon_11: 3508656190068365174
+      img_bullet_main_poseidon_12: -6197924428027682884
+      img_bullet_main_poseidon_13: -4973369330351552573
+      img_bullet_main_poseidon_14: 7034423469477105346
+      img_bullet_main_poseidon_15: 7247991678876290064
+      img_bullet_main_poseidon_16: -611575026356458082
+      img_bullet_main_poseidon_17: 5365846148255555612
+      img_bullet_main_poseidon_2: 7569873841712740374
+      img_bullet_main_poseidon_3: 3351257192587131141
+      img_bullet_main_poseidon_4: -4504476116497857572
+      img_bullet_main_poseidon_5: 1415625306142284820
+      img_bullet_main_poseidon_6: -2341183864852592237
+      img_bullet_main_poseidon_7: 3275771341722667783
+      img_bullet_main_poseidon_8: 8796186848473974268
+      img_bullet_main_poseidon_9: 4312081743405033030
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

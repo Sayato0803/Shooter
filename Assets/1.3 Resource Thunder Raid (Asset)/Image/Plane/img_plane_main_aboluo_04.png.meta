@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 5f32008ffd6fada459971d4ba2a6d121
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4674124448428593854
+    second: img_plane_main_aboluo_04_0
+  - first:
+      213: -838904116008144108
+    second: img_plane_main_aboluo_04_1
+  - first:
+      213: -5310455808390865349
+    second: img_plane_main_aboluo_04_2
+  - first:
+      213: 1048042711800243067
+    second: img_plane_main_aboluo_04_3
+  - first:
+      213: 6405987262199367931
+    second: img_plane_main_aboluo_04_4
+  - first:
+      213: 3375878255017879194
+    second: img_plane_main_aboluo_04_5
+  - first:
+      213: 1660678923922008621
+    second: img_plane_main_aboluo_04_6
+  - first:
+      213: 2646075969015978803
+    second: img_plane_main_aboluo_04_7
+  - first:
+      213: 8784966872688993053
+    second: img_plane_main_aboluo_04_8
+  - first:
+      213: -6131216611205999296
+    second: img_plane_main_aboluo_04_9
+  - first:
+      213: 1017009503429052976
+    second: img_plane_main_aboluo_04_10
+  - first:
+      213: -2392951904595007502
+    second: img_plane_main_aboluo_04_11
+  - first:
+      213: 944068303451689606
+    second: img_plane_main_aboluo_04_12
+  - first:
+      213: 2992036564203644396
+    second: img_plane_main_aboluo_04_13
+  - first:
+      213: -2059219771232722374
+    second: img_plane_main_aboluo_04_14
+  - first:
+      213: 9092087627264948742
+    second: img_plane_main_aboluo_04_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_plane_main_aboluo_04_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 805
+        width: 128
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb21e88db63ddd040800000000000000
+      internalID: 4674124448428593854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_aboluo_04_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 807
+        width: 129
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413b8b4b62d9b54f0800000000000000
+      internalID: -838904116008144108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_aboluo_04_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 811
+        width: 128
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ed37904987d46b0800000000000000
+      internalID: -5310455808390865349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_aboluo_04_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 838
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b736a4a2b456b8e00800000000000000
+      internalID: 1048042711800243067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_aboluo_04_4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 805
+        width: 119
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8021f7973a6e850800000000000000
+      internalID: 6405987262199367931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_aboluo_04_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 829
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a966e43036789de20800000000000000
+      internalID: 3375878255017879194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_aboluo_04_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 829
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a6952ceaaeb0710800000000000000
+      internalID: 1660678923922008621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_aboluo_04_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 126
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b15e50310c8b420800000000000000
+      internalID: 2646075969015978803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_aboluo_04_8
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 590
+        width: 127
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13a33273d87ae970800000000000000
+      internalID: 8784966872688993053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_aboluo_04_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 634
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04597180afa89eaa0800000000000000
+      internalID: -6131216611205999296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_aboluo_04_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 594
+        width: 122
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ac51941c42d1e00800000000000000
+      internalID: 1017009503429052976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_aboluo_04_11
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 586
+        width: 125
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f72502dbe68aced0800000000000000
+      internalID: -2392951904595007502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_aboluo_04_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 379
+        width: 114
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68291febe110a1d00800000000000000
+      internalID: 944068303451689606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_aboluo_04_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 590
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5a6541769d58920800000000000000
+      internalID: 2992036564203644396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_aboluo_04_14
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 377
+        width: 123
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32663d378e2c63e0800000000000000
+      internalID: -2059219771232722374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_aboluo_04_15
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 375
+        width: 119
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60af9d966859d2e70800000000000000
+      internalID: 9092087627264948742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_plane_main_aboluo_04_0: 4674124448428593854
+      img_plane_main_aboluo_04_1: -838904116008144108
+      img_plane_main_aboluo_04_10: 1017009503429052976
+      img_plane_main_aboluo_04_11: -2392951904595007502
+      img_plane_main_aboluo_04_12: 944068303451689606
+      img_plane_main_aboluo_04_13: 2992036564203644396
+      img_plane_main_aboluo_04_14: -2059219771232722374
+      img_plane_main_aboluo_04_15: 9092087627264948742
+      img_plane_main_aboluo_04_2: -5310455808390865349
+      img_plane_main_aboluo_04_3: 1048042711800243067
+      img_plane_main_aboluo_04_4: 6405987262199367931
+      img_plane_main_aboluo_04_5: 3375878255017879194
+      img_plane_main_aboluo_04_6: 1660678923922008621
+      img_plane_main_aboluo_04_7: 2646075969015978803
+      img_plane_main_aboluo_04_8: 8784966872688993053
+      img_plane_main_aboluo_04_9: -6131216611205999296
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

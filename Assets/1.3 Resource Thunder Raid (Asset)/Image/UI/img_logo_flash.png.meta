@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: e5abcb3b5b7380c40a0b3831fbe96ae3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8366671407075161181
+    second: img_logo_flash_0
+  - first:
+      213: 637381585995024105
+    second: img_logo_flash_1
+  - first:
+      213: -6014184569519024173
+    second: img_logo_flash_2
+  - first:
+      213: 607283534747167106
+    second: img_logo_flash_3
+  - first:
+      213: 4169352470866462033
+    second: img_logo_flash_4
+  - first:
+      213: 3438496735793936293
+    second: img_logo_flash_5
+  - first:
+      213: 336318800335514224
+    second: img_logo_flash_6
+  - first:
+      213: -7782210632513651129
+    second: img_logo_flash_7
+  - first:
+      213: 2460318593436838675
+    second: img_logo_flash_8
+  - first:
+      213: 5297962449736180332
+    second: img_logo_flash_9
+  - first:
+      213: 1538806539522834271
+    second: img_logo_flash_10
+  - first:
+      213: 7108679275012235610
+    second: img_logo_flash_11
+  - first:
+      213: 3127287404880130862
+    second: img_logo_flash_12
+  - first:
+      213: 5390864109418695342
+    second: img_logo_flash_13
+  - first:
+      213: -6708691570958109320
+    second: img_logo_flash_14
+  - first:
+      213: -8066416698897532457
+    second: img_logo_flash_15
+  - first:
+      213: -5840280758230983611
+    second: img_logo_flash_16
+  - first:
+      213: -410174947621929576
+    second: img_logo_flash_17
+  - first:
+      213: 4669723905490867572
+    second: img_logo_flash_18
+  - first:
+      213: -6022456132043160970
+    second: img_logo_flash_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_logo_flash_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 763
+        width: 144
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab0edc0fac93eb80800000000000000
+      internalID: -8366671407075161181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_flash_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 879
+        width: 260
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6cb9bec2f68d800800000000000000
+      internalID: 637381585995024105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_flash_2
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 879
+        width: 260
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7de20aff2598ca0800000000000000
+      internalID: -6014184569519024173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_flash_3
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 879
+        width: 260
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2896c8648218d6800800000000000000
+      internalID: 607283534747167106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_flash_4
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 955
+        width: 87
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15584696bf38cd930800000000000000
+      internalID: 4169352470866462033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_flash_5
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 909
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a77652309ef7bf20800000000000000
+      internalID: 3438496735793936293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_flash_6
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 929
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07aa841ca28daa400800000000000000
+      internalID: 336318800335514224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_flash_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 503
+        width: 144
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e71c169a8000490800000000000000
+      internalID: -7782210632513651129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_flash_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 619
+        width: 144
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b6714b9bec42220800000000000000
+      internalID: 2460318593436838675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_flash_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 735
+        width: 260
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6222e937c4268940800000000000000
+      internalID: 5297962449736180332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_flash_10
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 475
+        width: 144
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f7e4e0560fa5510800000000000000
+      internalID: 1538806539522834271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_flash_11
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 735
+        width: 260
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a512941232a17a260800000000000000
+      internalID: 7108679275012235610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_flash_12
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 735
+        width: 213
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23fe6e535b566b20800000000000000
+      internalID: 3127287404880130862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_flash_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 243
+        width: 144
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaacd42785230da40800000000000000
+      internalID: 5390864109418695342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_flash_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 359
+        width: 144
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87572657f80f5e2a0800000000000000
+      internalID: -6708691570958109320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_flash_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 99
+        width: 144
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9fee300c45e0090800000000000000
+      internalID: -8066416698897532457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_flash_16
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 289
+        width: 144
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cd711f79723fea0800000000000000
+      internalID: -5840280758230983611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_flash_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 144
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dfa3fee04ce4af0800000000000000
+      internalID: -410174947621929576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_flash_18
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 131
+        width: 128
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475dee996213ec040800000000000000
+      internalID: 4669723905490867572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_flash_19
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 5
+        width: 107
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672c1366e00fb6ca0800000000000000
+      internalID: -6022456132043160970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_logo_flash_0: -8366671407075161181
+      img_logo_flash_1: 637381585995024105
+      img_logo_flash_10: 1538806539522834271
+      img_logo_flash_11: 7108679275012235610
+      img_logo_flash_12: 3127287404880130862
+      img_logo_flash_13: 5390864109418695342
+      img_logo_flash_14: -6708691570958109320
+      img_logo_flash_15: -8066416698897532457
+      img_logo_flash_16: -5840280758230983611
+      img_logo_flash_17: -410174947621929576
+      img_logo_flash_18: 4669723905490867572
+      img_logo_flash_19: -6022456132043160970
+      img_logo_flash_2: -6014184569519024173
+      img_logo_flash_3: 607283534747167106
+      img_logo_flash_4: 4169352470866462033
+      img_logo_flash_5: 3438496735793936293
+      img_logo_flash_6: 336318800335514224
+      img_logo_flash_7: -7782210632513651129
+      img_logo_flash_8: 2460318593436838675
+      img_logo_flash_9: 5297962449736180332
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

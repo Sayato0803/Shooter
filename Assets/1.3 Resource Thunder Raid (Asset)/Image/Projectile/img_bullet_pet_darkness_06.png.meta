@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: b3eb6f58357420e4abd5049bf557a9e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -812638576669554347
+    second: img_bullet_pet_darkness_06_0
+  - first:
+      213: 209436560760352652
+    second: img_bullet_pet_darkness_06_1
+  - first:
+      213: 3651008991523630906
+    second: img_bullet_pet_darkness_06_2
+  - first:
+      213: 1428157744364020970
+    second: img_bullet_pet_darkness_06_3
+  - first:
+      213: -7836519414811143762
+    second: img_bullet_pet_darkness_06_4
+  - first:
+      213: -8955015483487382424
+    second: img_bullet_pet_darkness_06_5
+  - first:
+      213: 583167325569935944
+    second: img_bullet_pet_darkness_06_6
+  - first:
+      213: -4983922450747616867
+    second: img_bullet_pet_darkness_06_7
+  - first:
+      213: -2253094310424653853
+    second: img_bullet_pet_darkness_06_8
+  - first:
+      213: 2874650859436236046
+    second: img_bullet_pet_darkness_06_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_bullet_pet_darkness_06_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55905d2258de8b4f0800000000000000
+      internalID: -812638576669554347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_darkness_06_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 181
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fa91f317118e200800000000000000
+      internalID: 209436560760352652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_darkness_06_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 181
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fe58b755dfaa230800000000000000
+      internalID: 3651008991523630906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_darkness_06_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 179
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae46a0cd6e5d1d310800000000000000
+      internalID: 1428157744364020970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_darkness_06_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1dab4ac171f3390800000000000000
+      internalID: -7836519414811143762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_darkness_06_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 104
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8649c9c0dd469b380800000000000000
+      internalID: -8955015483487382424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_darkness_06_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 102
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ae535c793d71800800000000000000
+      internalID: 583167325569935944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_darkness_06_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 36
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91181fdfec85dab0800000000000000
+      internalID: -4983922450747616867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_darkness_06_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 102
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef4fad79a66bb0e0800000000000000
+      internalID: -2253094310424653853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_darkness_06_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 27
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dd7f1e9bfc4e720800000000000000
+      internalID: 2874650859436236046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_bullet_pet_darkness_06_0: -812638576669554347
+      img_bullet_pet_darkness_06_1: 209436560760352652
+      img_bullet_pet_darkness_06_2: 3651008991523630906
+      img_bullet_pet_darkness_06_3: 1428157744364020970
+      img_bullet_pet_darkness_06_4: -7836519414811143762
+      img_bullet_pet_darkness_06_5: -8955015483487382424
+      img_bullet_pet_darkness_06_6: 583167325569935944
+      img_bullet_pet_darkness_06_7: -4983922450747616867
+      img_bullet_pet_darkness_06_8: -2253094310424653853
+      img_bullet_pet_darkness_06_9: 2874650859436236046
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

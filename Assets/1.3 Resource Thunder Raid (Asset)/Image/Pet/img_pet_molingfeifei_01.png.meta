@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: bc83944ee42210742894b2296449b571
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3784874840143063775
+    second: img_pet_molingfeifei_01_0
+  - first:
+      213: 6529757770564241282
+    second: img_pet_molingfeifei_01_1
+  - first:
+      213: 5551946907771305134
+    second: img_pet_molingfeifei_01_2
+  - first:
+      213: 5425773816023386360
+    second: img_pet_molingfeifei_01_3
+  - first:
+      213: 8691487117665368567
+    second: img_pet_molingfeifei_01_4
+  - first:
+      213: -6749175451175809849
+    second: img_pet_molingfeifei_01_5
+  - first:
+      213: 2431802966262003204
+    second: img_pet_molingfeifei_01_6
+  - first:
+      213: 7978417807056585344
+    second: img_pet_molingfeifei_01_7
+  - first:
+      213: -2177688247337132419
+    second: img_pet_molingfeifei_01_8
+  - first:
+      213: -4059128961322921649
+    second: img_pet_molingfeifei_01_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_pet_molingfeifei_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12595f1d26c697bc0800000000000000
+      internalID: -3784874840143063775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_molingfeifei_01_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 217
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28704df981c5e9a50800000000000000
+      internalID: 6529757770564241282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_molingfeifei_01_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 178
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac79811c4a7c0d40800000000000000
+      internalID: 5551946907771305134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_molingfeifei_01_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f880b7e9883c4b40800000000000000
+      internalID: 5425773816023386360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_molingfeifei_01_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9f35aeb7d5e9870800000000000000
+      internalID: 8691487117665368567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_molingfeifei_01_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 131
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc01e19fac1652a0800000000000000
+      internalID: -6749175451175809849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_molingfeifei_01_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406b9cfd9ef7fb120800000000000000
+      internalID: 2431802966262003204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_molingfeifei_01_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082424b59b809be60800000000000000
+      internalID: 7978417807056585344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_molingfeifei_01_8
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 41
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e5de1b31c47c1e0800000000000000
+      internalID: -2177688247337132419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_molingfeifei_01_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 86
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41d8d247b31ba7c0800000000000000
+      internalID: -4059128961322921649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_pet_molingfeifei_01_0: -3784874840143063775
+      img_pet_molingfeifei_01_1: 6529757770564241282
+      img_pet_molingfeifei_01_2: 5551946907771305134
+      img_pet_molingfeifei_01_3: 5425773816023386360
+      img_pet_molingfeifei_01_4: 8691487117665368567
+      img_pet_molingfeifei_01_5: -6749175451175809849
+      img_pet_molingfeifei_01_6: 2431802966262003204
+      img_pet_molingfeifei_01_7: 7978417807056585344
+      img_pet_molingfeifei_01_8: -2177688247337132419
+      img_pet_molingfeifei_01_9: -4059128961322921649
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

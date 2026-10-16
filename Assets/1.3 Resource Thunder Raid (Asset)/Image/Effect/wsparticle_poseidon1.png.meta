@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: c0fe00801a822b5469f8c466a357f602
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 857807229359047193
+    second: wsparticle_poseidon1_0
+  - first:
+      213: -7139534372917632675
+    second: wsparticle_poseidon1_1
+  - first:
+      213: -5601286407353401306
+    second: wsparticle_poseidon1_2
+  - first:
+      213: -3963178696742228164
+    second: wsparticle_poseidon1_3
+  - first:
+      213: 6103281865408844558
+    second: wsparticle_poseidon1_4
+  - first:
+      213: 3705064241342283302
+    second: wsparticle_poseidon1_5
+  - first:
+      213: 4298043038887821923
+    second: wsparticle_poseidon1_6
+  - first:
+      213: -2266161082014094162
+    second: wsparticle_poseidon1_7
+  - first:
+      213: 953145947373259469
+    second: wsparticle_poseidon1_8
+  - first:
+      213: -8138687948266390176
+    second: wsparticle_poseidon1_9
+  - first:
+      213: -5047265815398616950
+    second: wsparticle_poseidon1_10
+  - first:
+      213: -5929397838022390667
+    second: wsparticle_poseidon1_11
+  - first:
+      213: 5523904590349762955
+    second: wsparticle_poseidon1_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wsparticle_poseidon1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 679
+        width: 103
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91245b7512b87eb00800000000000000
+      internalID: 857807229359047193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_poseidon1_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 685
+        width: 334
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51ad8090574bec90800000000000000
+      internalID: -7139534372917632675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_poseidon1_2
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 685
+        width: 334
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6200a7c70bb3442b0800000000000000
+      internalID: -5601286407353401306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_poseidon1_3
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 691
+        width: 95
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fa84f19f5fff8c0800000000000000
+      internalID: -3963178696742228164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_poseidon1_4
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 843
+        width: 91
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0317cf158633b450800000000000000
+      internalID: 6103281865408844558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_poseidon1_5
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 833
+        width: 58
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e75371c480b6330800000000000000
+      internalID: 3705064241342283302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_poseidon1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 335
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362cf323f57b5ab30800000000000000
+      internalID: 4298043038887821923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_poseidon1_7
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 346
+        width: 336
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac2cb6a08afc80e0800000000000000
+      internalID: -2266161082014094162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_poseidon1_8
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 352
+        width: 102
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca494c60314a3d00800000000000000
+      internalID: 953145947373259469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_poseidon1_9
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 360
+        width: 102
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d34d18e629d0f80800000000000000
+      internalID: -8138687948266390176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_poseidon1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 333
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8071328b7284f9b0800000000000000
+      internalID: -5047265815398616950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_poseidon1_11
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1
+        width: 334
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cc4b4e41c86bda0800000000000000
+      internalID: -5929397838022390667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_poseidon1_12
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 13
+        width: 134
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8182f045f9d8ac40800000000000000
+      internalID: 5523904590349762955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wsparticle_poseidon1_0: 857807229359047193
+      wsparticle_poseidon1_1: -7139534372917632675
+      wsparticle_poseidon1_10: -5047265815398616950
+      wsparticle_poseidon1_11: -5929397838022390667
+      wsparticle_poseidon1_12: 5523904590349762955
+      wsparticle_poseidon1_2: -5601286407353401306
+      wsparticle_poseidon1_3: -3963178696742228164
+      wsparticle_poseidon1_4: 6103281865408844558
+      wsparticle_poseidon1_5: 3705064241342283302
+      wsparticle_poseidon1_6: 4298043038887821923
+      wsparticle_poseidon1_7: -2266161082014094162
+      wsparticle_poseidon1_8: 953145947373259469
+      wsparticle_poseidon1_9: -8138687948266390176
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 69ff12778548c104697040278b78aa26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5585082486651440086
+    second: img_logo_ball_0
+  - first:
+      213: 2066514941541189810
+    second: img_logo_ball_1
+  - first:
+      213: 7199501483829331291
+    second: img_logo_ball_2
+  - first:
+      213: -4418375086162008145
+    second: img_logo_ball_3
+  - first:
+      213: -2535257144857385712
+    second: img_logo_ball_4
+  - first:
+      213: -5117950828474188128
+    second: img_logo_ball_5
+  - first:
+      213: -963041185581774173
+    second: img_logo_ball_6
+  - first:
+      213: 8383347031185578819
+    second: img_logo_ball_7
+  - first:
+      213: -935800628229637120
+    second: img_logo_ball_8
+  - first:
+      213: -5430130745297182723
+    second: img_logo_ball_9
+  - first:
+      213: -1606630963119601523
+    second: img_logo_ball_10
+  - first:
+      213: -4340439847387390928
+    second: img_logo_ball_11
+  - first:
+      213: -1684277760724927441
+    second: img_logo_ball_12
+  - first:
+      213: 7128998854150108136
+    second: img_logo_ball_13
+  - first:
+      213: 2839525420515766483
+    second: img_logo_ball_14
+  - first:
+      213: -7229419538815674533
+    second: img_logo_ball_15
+  - first:
+      213: 9095706481438874500
+    second: img_logo_ball_16
+  - first:
+      213: -4538196046208441440
+    second: img_logo_ball_17
+  - first:
+      213: 1037081517092845983
+    second: img_logo_ball_18
+  - first:
+      213: 1822514508056559640
+    second: img_logo_ball_19
+  - first:
+      213: 3302214403134702971
+    second: img_logo_ball_20
+  - first:
+      213: 4113209017658504731
+    second: img_logo_ball_21
+  - first:
+      213: 5531640705362123147
+    second: img_logo_ball_22
+  - first:
+      213: 634376266908120850
+    second: img_logo_ball_23
+  - first:
+      213: 5199225046331882140
+    second: img_logo_ball_24
+  - first:
+      213: 6487786949785855430
+    second: img_logo_ball_25
+  - first:
+      213: 8081411566155123589
+    second: img_logo_ball_26
+  - first:
+      213: -5299041084148867916
+    second: img_logo_ball_27
+  - first:
+      213: -4513018249631011187
+    second: img_logo_ball_28
+  - first:
+      213: -508997918767989328
+    second: img_logo_ball_29
+  - first:
+      213: -7747773147692446551
+    second: img_logo_ball_30
+  - first:
+      213: -6863646477763723063
+    second: img_logo_ball_31
+  - first:
+      213: -8937767553338453158
+    second: img_logo_ball_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_logo_ball_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 125
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db4d1a3ee2328d40800000000000000
+      internalID: 5585082486651440086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 127
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b88995f36cbdac10800000000000000
+      internalID: 2066514941541189810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 109
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b558b877474c9e360800000000000000
+      internalID: 7199501483829331291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 123
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7a0e8c447cea2c0800000000000000
+      internalID: -4418375086162008145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 121
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01521822f05f0dcd0800000000000000
+      internalID: -2535257144857385712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 119
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae31ea66d269f8b0800000000000000
+      internalID: -5117950828474188128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 107
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aac355e42792a2f0800000000000000
+      internalID: -963041185581774173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 87
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b54ae35b1a75470800000000000000
+      internalID: 8383347031185578819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 101
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00cf8c5694e5303f0800000000000000
+      internalID: -935800628229637120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 99
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff52a27bdc44a4b0800000000000000
+      internalID: -5430130745297182723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 97
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88cc1eb6a914b9e0800000000000000
+      internalID: -1606630963119601523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 85
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c168794f8a3c3c0800000000000000
+      internalID: -4340439847387390928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 65
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c76e0ec4e30a8e0800000000000000
+      internalID: -1684277760724927441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 79
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3b8c1dfaa4fe260800000000000000
+      internalID: 7128998854150108136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 79
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0b8845355086720800000000000000
+      internalID: 2839525420515766483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 75
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b579f988b31fbab90800000000000000
+      internalID: -7229419538815674533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bd16f8ad07a3e70800000000000000
+      internalID: 9095706481438874500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_17
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 43
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3e9a88db61501c0800000000000000
+      internalID: -4538196046208441440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 57
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9931752524746e00800000000000000
+      internalID: 1037081517092845983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 57
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81005baf94fda4910800000000000000
+      internalID: 1822514508056559640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_20
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 53
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75c507f082d3dd20800000000000000
+      internalID: 3302214403134702971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_21
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 53
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16f7701fcd051930800000000000000
+      internalID: 4113209017658504731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 43
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b895334e9e554cc40800000000000000
+      internalID: 5531640705362123147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 21
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2173ffa8ad1cdc800800000000000000
+      internalID: 634376266908120850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 21
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9afce902ab572840800000000000000
+      internalID: 5199225046331882140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_25
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 35
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5a6686bdf390a50800000000000000
+      internalID: 6487786949785855430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_26
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 35
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bc8649001f62070800000000000000
+      internalID: 8081411566155123589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_27
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 31
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc1b11a5360676b0800000000000000
+      internalID: -5299041084148867916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e63ed10d98e51c0800000000000000
+      internalID: -4513018249631011187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_29
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdbb64f61dafe8f0800000000000000
+      internalID: -508997918767989328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_30
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 13
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac4b732f516a7490800000000000000
+      internalID: -7747773147692446551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_31
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 13
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c04805c4ed6fb0a0800000000000000
+      internalID: -6863646477763723063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_logo_ball_32
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 9
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53df3ab3cba6f380800000000000000
+      internalID: -8937767553338453158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_logo_ball_0: 5585082486651440086
+      img_logo_ball_1: 2066514941541189810
+      img_logo_ball_10: -1606630963119601523
+      img_logo_ball_11: -4340439847387390928
+      img_logo_ball_12: -1684277760724927441
+      img_logo_ball_13: 7128998854150108136
+      img_logo_ball_14: 2839525420515766483
+      img_logo_ball_15: -7229419538815674533
+      img_logo_ball_16: 9095706481438874500
+      img_logo_ball_17: -4538196046208441440
+      img_logo_ball_18: 1037081517092845983
+      img_logo_ball_19: 1822514508056559640
+      img_logo_ball_2: 7199501483829331291
+      img_logo_ball_20: 3302214403134702971
+      img_logo_ball_21: 4113209017658504731
+      img_logo_ball_22: 5531640705362123147
+      img_logo_ball_23: 634376266908120850
+      img_logo_ball_24: 5199225046331882140
+      img_logo_ball_25: 6487786949785855430
+      img_logo_ball_26: 8081411566155123589
+      img_logo_ball_27: -5299041084148867916
+      img_logo_ball_28: -4513018249631011187
+      img_logo_ball_29: -508997918767989328
+      img_logo_ball_3: -4418375086162008145
+      img_logo_ball_30: -7747773147692446551
+      img_logo_ball_31: -6863646477763723063
+      img_logo_ball_32: -8937767553338453158
+      img_logo_ball_4: -2535257144857385712
+      img_logo_ball_5: -5117950828474188128
+      img_logo_ball_6: -963041185581774173
+      img_logo_ball_7: 8383347031185578819
+      img_logo_ball_8: -935800628229637120
+      img_logo_ball_9: -5430130745297182723
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

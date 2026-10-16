@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 1e0c3a78e7032b64c9f4132f98a09ca2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4722812637642056142
+    second: img_plane_main_advphenix_02_0
+  - first:
+      213: -2167924208929929739
+    second: img_plane_main_advphenix_02_1
+  - first:
+      213: -752096225248881369
+    second: img_plane_main_advphenix_02_2
+  - first:
+      213: -1386324624125100258
+    second: img_plane_main_advphenix_02_3
+  - first:
+      213: 1027611702618269651
+    second: img_plane_main_advphenix_02_4
+  - first:
+      213: 3123571511677703870
+    second: img_plane_main_advphenix_02_5
+  - first:
+      213: 4847123758683980994
+    second: img_plane_main_advphenix_02_6
+  - first:
+      213: 9048648727660750813
+    second: img_plane_main_advphenix_02_7
+  - first:
+      213: 5712706468029900061
+    second: img_plane_main_advphenix_02_8
+  - first:
+      213: -3499232271766860333
+    second: img_plane_main_advphenix_02_9
+  - first:
+      213: -7918307259990478307
+    second: img_plane_main_advphenix_02_10
+  - first:
+      213: 5210373339719223122
+    second: img_plane_main_advphenix_02_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_plane_main_advphenix_02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 846
+        width: 239
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec16167421dca8140800000000000000
+      internalID: 4722812637642056142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advphenix_02_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 845
+        width: 219
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f503ca0b6cf9e1e0800000000000000
+      internalID: -2167924208929929739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advphenix_02_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 656
+        width: 205
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725d029c7740095f0800000000000000
+      internalID: -752096225248881369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advphenix_02_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 662
+        width: 201
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f75a37919c2cce0800000000000000
+      internalID: -1386324624125100258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advphenix_02_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 656
+        width: 95
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7a895266fc24e00800000000000000
+      internalID: 1027611702618269651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advphenix_02_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 477
+        width: 179
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb654109db7295b20800000000000000
+      internalID: 3123571511677703870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advphenix_02_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 479
+        width: 186
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c407ba9061744340800000000000000
+      internalID: 4847123758683980994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advphenix_02_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 472
+        width: 95
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd762857312439d70800000000000000
+      internalID: 9048648727660750813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advphenix_02_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 295
+        width: 114
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15aff4f34c974f40800000000000000
+      internalID: 5712706468029900061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advphenix_02_9
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 296
+        width: 153
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddc0ced9ca307fc0800000000000000
+      internalID: -3499232271766860333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advphenix_02_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 294
+        width: 137
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12fed100858c1290800000000000000
+      internalID: -7918307259990478307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advphenix_02_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 115
+        width: 82
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257412d52f6fe4840800000000000000
+      internalID: 5210373339719223122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_plane_main_advphenix_02_0: 4722812637642056142
+      img_plane_main_advphenix_02_1: -2167924208929929739
+      img_plane_main_advphenix_02_10: -7918307259990478307
+      img_plane_main_advphenix_02_11: 5210373339719223122
+      img_plane_main_advphenix_02_2: -752096225248881369
+      img_plane_main_advphenix_02_3: -1386324624125100258
+      img_plane_main_advphenix_02_4: 1027611702618269651
+      img_plane_main_advphenix_02_5: 3123571511677703870
+      img_plane_main_advphenix_02_6: 4847123758683980994
+      img_plane_main_advphenix_02_7: 9048648727660750813
+      img_plane_main_advphenix_02_8: 5712706468029900061
+      img_plane_main_advphenix_02_9: -3499232271766860333
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

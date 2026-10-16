@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 8fc77c581748e014fbde0a7e25b54825
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6885380464903063725
+    second: img_bullet_pet_jixiexiyi_0
+  - first:
+      213: 4393658901249453199
+    second: img_bullet_pet_jixiexiyi_1
+  - first:
+      213: -2732924927961359771
+    second: img_bullet_pet_jixiexiyi_2
+  - first:
+      213: -1629640526582732722
+    second: img_bullet_pet_jixiexiyi_3
+  - first:
+      213: -3780128589614738797
+    second: img_bullet_pet_jixiexiyi_4
+  - first:
+      213: 2618221759590012529
+    second: img_bullet_pet_jixiexiyi_5
+  - first:
+      213: -8005686454285782907
+    second: img_bullet_pet_jixiexiyi_6
+  - first:
+      213: -626408501991016656
+    second: img_bullet_pet_jixiexiyi_7
+  - first:
+      213: 387768060253014457
+    second: img_bullet_pet_jixiexiyi_8
+  - first:
+      213: 2980589397599025756
+    second: img_bullet_pet_jixiexiyi_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_bullet_pet_jixiexiyi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 389
+        width: 119
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357f90e82f63270a0800000000000000
+      internalID: -6885380464903063725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_jixiexiyi_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 391
+        width: 117
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ce439fd7969fc30800000000000000
+      internalID: 4393658901249453199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_jixiexiyi_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 282
+        width: 115
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a9d07f143b21ad0800000000000000
+      internalID: -2732924927961359771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_jixiexiyi_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 109
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48a475439a5269e0800000000000000
+      internalID: -1629640526582732722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_jixiexiyi_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 53
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39217b263194a8bc0800000000000000
+      internalID: -3780128589614738797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_jixiexiyi_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 93
+        width: 54
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1769f8381dac55420800000000000000
+      internalID: 2618221759590012529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_jixiexiyi_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 151
+        width: 42
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580b325f59616e090800000000000000
+      internalID: -8005686454285782907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_jixiexiyi_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 179
+        width: 25
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0377a8a49cc8e47f0800000000000000
+      internalID: -626408501991016656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_jixiexiyi_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 20
+        width: 43
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b98f9e0ff0a16500800000000000000
+      internalID: 387768060253014457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_jixiexiyi_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 48
+        width: 25
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a7f29e34e2d5920800000000000000
+      internalID: 2980589397599025756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_bullet_pet_jixiexiyi_0: -6885380464903063725
+      img_bullet_pet_jixiexiyi_1: 4393658901249453199
+      img_bullet_pet_jixiexiyi_2: -2732924927961359771
+      img_bullet_pet_jixiexiyi_3: -1629640526582732722
+      img_bullet_pet_jixiexiyi_4: -3780128589614738797
+      img_bullet_pet_jixiexiyi_5: 2618221759590012529
+      img_bullet_pet_jixiexiyi_6: -8005686454285782907
+      img_bullet_pet_jixiexiyi_7: -626408501991016656
+      img_bullet_pet_jixiexiyi_8: 387768060253014457
+      img_bullet_pet_jixiexiyi_9: 2980589397599025756
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

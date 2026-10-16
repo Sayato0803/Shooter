@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: cdbb3d044dd6a0b4cba7a650eb095946
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3819207404364946794
+    second: wsparticle_sunblast_0
+  - first:
+      213: -4734076517103566497
+    second: wsparticle_sunblast_1
+  - first:
+      213: -1851135607687579590
+    second: wsparticle_sunblast_2
+  - first:
+      213: 7347797852570452020
+    second: wsparticle_sunblast_3
+  - first:
+      213: 5887923856319745768
+    second: wsparticle_sunblast_4
+  - first:
+      213: -6758915472888075720
+    second: wsparticle_sunblast_5
+  - first:
+      213: 1224567777440616160
+    second: wsparticle_sunblast_6
+  - first:
+      213: 3211875437129234449
+    second: wsparticle_sunblast_7
+  - first:
+      213: 5094025483638570074
+    second: wsparticle_sunblast_8
+  - first:
+      213: 6507559475142021265
+    second: wsparticle_sunblast_9
+  - first:
+      213: 516960701937373090
+    second: wsparticle_sunblast_10
+  - first:
+      213: 4204602201976626016
+    second: wsparticle_sunblast_11
+  - first:
+      213: 1232710630920948829
+    second: wsparticle_sunblast_12
+  - first:
+      213: 8538486766625388837
+    second: wsparticle_sunblast_13
+  - first:
+      213: -2718089099684913645
+    second: wsparticle_sunblast_14
+  - first:
+      213: 4660507362535508216
+    second: wsparticle_sunblast_15
+  - first:
+      213: -5723303484452319837
+    second: wsparticle_sunblast_16
+  - first:
+      213: 3557957919487884794
+    second: wsparticle_sunblast_17
+  - first:
+      213: 1059608987700163697
+    second: wsparticle_sunblast_18
+  - first:
+      213: -6621979912721816768
+    second: wsparticle_sunblast_19
+  - first:
+      213: 1409628798070666614
+    second: wsparticle_sunblast_20
+  - first:
+      213: 6666735397102777148
+    second: wsparticle_sunblast_21
+  - first:
+      213: 4452154599719726224
+    second: wsparticle_sunblast_22
+  - first:
+      213: -272836924503344016
+    second: wsparticle_sunblast_23
+  - first:
+      213: -5297253117609675210
+    second: wsparticle_sunblast_24
+  - first:
+      213: -1323883141954046598
+    second: wsparticle_sunblast_25
+  - first:
+      213: 6281383204788688539
+    second: wsparticle_sunblast_26
+  - first:
+      213: 587411758538002881
+    second: wsparticle_sunblast_27
+  - first:
+      213: 5626293911227470944
+    second: wsparticle_sunblast_28
+  - first:
+      213: 8851492529101559298
+    second: wsparticle_sunblast_29
+  - first:
+      213: 2513766420264753070
+    second: wsparticle_sunblast_30
+  - first:
+      213: -1745722072466486831
+    second: wsparticle_sunblast_31
+  - first:
+      213: -6632672608001025250
+    second: wsparticle_sunblast_32
+  - first:
+      213: -7827207577928351801
+    second: wsparticle_sunblast_33
+  - first:
+      213: 3587586643491103349
+    second: wsparticle_sunblast_34
+  - first:
+      213: -6558738763253095104
+    second: wsparticle_sunblast_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wsparticle_sunblast_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 218
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6dd6b436ec800530800000000000000
+      internalID: 3819207404364946794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 233
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51068a6d7e2d4eb0800000000000000
+      internalID: -4734076517103566497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 242
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3874b8f8f17f46e0800000000000000
+      internalID: -1851135607687579590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 222
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43007d3773f98f560800000000000000
+      internalID: 7347797852570452020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 139
+        width: 125
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee8c704d8b16b150800000000000000
+      internalID: 5887923856319745768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 213
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a6d9b00328332a0800000000000000
+      internalID: -6758915472888075720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_6
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 224
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eeccb1d7e98ef010800000000000000
+      internalID: 1224567777440616160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 151
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118f3ec51bfd29c20800000000000000
+      internalID: 3211875437129234449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 226
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c7015203d91b640800000000000000
+      internalID: 5094025483638570074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 206
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19051963dde7f4a50800000000000000
+      internalID: 6507559475142021265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_10
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 222
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af40d9f40d9c2700800000000000000
+      internalID: 516960701937373090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 221
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b54aefc6fb95a30800000000000000
+      internalID: 4204602201976626016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 200
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c04e2a9c77b1110800000000000000
+      internalID: 1232710630920948829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 214
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5297414b97cce7670800000000000000
+      internalID: 8538486766625388837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_14
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 192
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e5b696d58674ad0800000000000000
+      internalID: -2718089099684913645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f88509f0c27da040800000000000000
+      internalID: 4660507362535508216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_16
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 167
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adc673edcdb290b0800000000000000
+      internalID: -5723303484452319837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_17
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 168
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdfcdc70e7606130800000000000000
+      internalID: 3557957919487884794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_18
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 167
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174fda0a2cc74be00800000000000000
+      internalID: 1059608987700163697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_19
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 186
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043a178aa500a14a0800000000000000
+      internalID: -6621979912721816768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_20
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 148
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675b92e5ce1009310800000000000000
+      internalID: 1409628798070666614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_21
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 162
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3375d39580058c50800000000000000
+      internalID: 6666735397102777148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 152
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c6a69150b39cd30800000000000000
+      internalID: 4452154599719726224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_23
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 81
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c3e514340b63cf0800000000000000
+      internalID: -272836924503344016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_24
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 86
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6367b870b506c76b0800000000000000
+      internalID: -5297253117609675210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 137
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7573bfeb4f90ade0800000000000000
+      internalID: -1323883141954046598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_26
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 20
+        width: 121
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96d88b9eb4fb2750800000000000000
+      internalID: 6281383204788688539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_27
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 22
+        width: 115
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c19b84d1e7e62800800000000000000
+      internalID: 587411758538002881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_28
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 68
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06418acb08c941e40800000000000000
+      internalID: 5626293911227470944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 77
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2065f19de81d6da70800000000000000
+      internalID: 8851492529101559298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_30
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea79f20ad31b2e220800000000000000
+      internalID: 2513766420264753070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_31
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 80
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9831a3603f5c7e0800000000000000
+      internalID: -1745722072466486831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 45
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b92a8876304f3a0800000000000000
+      internalID: -6632672608001025250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfb55e9d2c206390800000000000000
+      internalID: -7827207577928351801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_34
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 58
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572293e5b0ba9c130800000000000000
+      internalID: 3587586643491103349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_sunblast_35
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 39
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045e6b138ddaaf4a0800000000000000
+      internalID: -6558738763253095104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wsparticle_sunblast_0: 3819207404364946794
+      wsparticle_sunblast_1: -4734076517103566497
+      wsparticle_sunblast_10: 516960701937373090
+      wsparticle_sunblast_11: 4204602201976626016
+      wsparticle_sunblast_12: 1232710630920948829
+      wsparticle_sunblast_13: 8538486766625388837
+      wsparticle_sunblast_14: -2718089099684913645
+      wsparticle_sunblast_15: 4660507362535508216
+      wsparticle_sunblast_16: -5723303484452319837
+      wsparticle_sunblast_17: 3557957919487884794
+      wsparticle_sunblast_18: 1059608987700163697
+      wsparticle_sunblast_19: -6621979912721816768
+      wsparticle_sunblast_2: -1851135607687579590
+      wsparticle_sunblast_20: 1409628798070666614
+      wsparticle_sunblast_21: 6666735397102777148
+      wsparticle_sunblast_22: 4452154599719726224
+      wsparticle_sunblast_23: -272836924503344016
+      wsparticle_sunblast_24: -5297253117609675210
+      wsparticle_sunblast_25: -1323883141954046598
+      wsparticle_sunblast_26: 6281383204788688539
+      wsparticle_sunblast_27: 587411758538002881
+      wsparticle_sunblast_28: 5626293911227470944
+      wsparticle_sunblast_29: 8851492529101559298
+      wsparticle_sunblast_3: 7347797852570452020
+      wsparticle_sunblast_30: 2513766420264753070
+      wsparticle_sunblast_31: -1745722072466486831
+      wsparticle_sunblast_32: -6632672608001025250
+      wsparticle_sunblast_33: -7827207577928351801
+      wsparticle_sunblast_34: 3587586643491103349
+      wsparticle_sunblast_35: -6558738763253095104
+      wsparticle_sunblast_4: 5887923856319745768
+      wsparticle_sunblast_5: -6758915472888075720
+      wsparticle_sunblast_6: 1224567777440616160
+      wsparticle_sunblast_7: 3211875437129234449
+      wsparticle_sunblast_8: 5094025483638570074
+      wsparticle_sunblast_9: 6507559475142021265
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

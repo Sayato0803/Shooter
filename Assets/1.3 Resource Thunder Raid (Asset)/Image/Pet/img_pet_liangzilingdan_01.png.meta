@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: b92e58e342d715c4abe73e5742db75c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8434598151969524162
+    second: img_pet_liangzilingdan_01_0
+  - first:
+      213: -3235913871965600912
+    second: img_pet_liangzilingdan_01_1
+  - first:
+      213: 3903829477274864353
+    second: img_pet_liangzilingdan_01_2
+  - first:
+      213: 2325457805726710869
+    second: img_pet_liangzilingdan_01_3
+  - first:
+      213: -5305120543179471600
+    second: img_pet_liangzilingdan_01_4
+  - first:
+      213: -1072051925015264494
+    second: img_pet_liangzilingdan_01_5
+  - first:
+      213: 3132097225656722536
+    second: img_pet_liangzilingdan_01_6
+  - first:
+      213: 4564370851725768573
+    second: img_pet_liangzilingdan_01_7
+  - first:
+      213: -1801150165306119578
+    second: img_pet_liangzilingdan_01_8
+  - first:
+      213: -7839075686225622424
+    second: img_pet_liangzilingdan_01_9
+  - first:
+      213: -2106689000812502960
+    second: img_pet_liangzilingdan_01_10
+  - first:
+      213: -8062945981235726917
+    second: img_pet_liangzilingdan_01_11
+  - first:
+      213: -5649562377167609933
+    second: img_pet_liangzilingdan_01_12
+  - first:
+      213: 543783702529012847
+    second: img_pet_liangzilingdan_01_13
+  - first:
+      213: 4745735149914522232
+    second: img_pet_liangzilingdan_01_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_pet_liangzilingdan_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417
+        width: 59
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c94f4fa456bd0570800000000000000
+      internalID: 8434598151969524162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_liangzilingdan_01_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 418
+        width: 59
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0734bb16a79b713d0800000000000000
+      internalID: -3235913871965600912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_liangzilingdan_01_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 417
+        width: 59
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eacaa8e9303d2630800000000000000
+      internalID: 3903829477274864353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_liangzilingdan_01_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 324
+        width: 58
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cff72bd8fa54020800000000000000
+      internalID: 2325457805726710869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_liangzilingdan_01_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 419
+        width: 59
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015092549fc6066b0800000000000000
+      internalID: -5305120543179471600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_liangzilingdan_01_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323
+        width: 57
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21301b4447e4f11f0800000000000000
+      internalID: -1072051925015264494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_liangzilingdan_01_6
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 324
+        width: 57
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864614905d1777b20800000000000000
+      internalID: 3132097225656722536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_liangzilingdan_01_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 231
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77f2484b17e75f30800000000000000
+      internalID: 4564370851725768573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_liangzilingdan_01_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 324
+        width: 58
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66aeac1b7770107e0800000000000000
+      internalID: -1801150165306119578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_liangzilingdan_01_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 231
+        width: 57
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ace135232063390800000000000000
+      internalID: -7839075686225622424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_liangzilingdan_01_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 233
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0502956f38983c2e0800000000000000
+      internalID: -2106689000812502960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_liangzilingdan_01_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 229
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5f7417959aa1090800000000000000
+      internalID: -8062945981235726917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_liangzilingdan_01_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 142
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf538c53f8b891b0800000000000000
+      internalID: -5649562377167609933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_liangzilingdan_01_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6473e77568eb8700800000000000000
+      internalID: 543783702529012847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_liangzilingdan_01_14
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 51
+        width: 57
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8728db099fc3cd140800000000000000
+      internalID: 4745735149914522232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_pet_liangzilingdan_01_0: 8434598151969524162
+      img_pet_liangzilingdan_01_1: -3235913871965600912
+      img_pet_liangzilingdan_01_10: -2106689000812502960
+      img_pet_liangzilingdan_01_11: -8062945981235726917
+      img_pet_liangzilingdan_01_12: -5649562377167609933
+      img_pet_liangzilingdan_01_13: 543783702529012847
+      img_pet_liangzilingdan_01_14: 4745735149914522232
+      img_pet_liangzilingdan_01_2: 3903829477274864353
+      img_pet_liangzilingdan_01_3: 2325457805726710869
+      img_pet_liangzilingdan_01_4: -5305120543179471600
+      img_pet_liangzilingdan_01_5: -1072051925015264494
+      img_pet_liangzilingdan_01_6: 3132097225656722536
+      img_pet_liangzilingdan_01_7: 4564370851725768573
+      img_pet_liangzilingdan_01_8: -1801150165306119578
+      img_pet_liangzilingdan_01_9: -7839075686225622424
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

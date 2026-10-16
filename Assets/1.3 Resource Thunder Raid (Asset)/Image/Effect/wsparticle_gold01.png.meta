@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: c7ac846a3672f4340b31eba5cc0ccd37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4719948401824991378
+    second: wsparticle_gold01_0
+  - first:
+      213: -7515641410376207105
+    second: wsparticle_gold01_1
+  - first:
+      213: 1228099050442192176
+    second: wsparticle_gold01_2
+  - first:
+      213: -5885943570802461500
+    second: wsparticle_gold01_3
+  - first:
+      213: 1006124577687242473
+    second: wsparticle_gold01_4
+  - first:
+      213: -5580164409152970320
+    second: wsparticle_gold01_5
+  - first:
+      213: -3705613655542413128
+    second: wsparticle_gold01_6
+  - first:
+      213: 5677587112976545189
+    second: wsparticle_gold01_7
+  - first:
+      213: 535997772719571501
+    second: wsparticle_gold01_8
+  - first:
+      213: -714060873630113073
+    second: wsparticle_gold01_9
+  - first:
+      213: 5933013910069983247
+    second: wsparticle_gold01_10
+  - first:
+      213: 2091020503344242211
+    second: wsparticle_gold01_11
+  - first:
+      213: 3469757585521088466
+    second: wsparticle_gold01_12
+  - first:
+      213: -92547214025828629
+    second: wsparticle_gold01_13
+  - first:
+      213: -3738923619624256212
+    second: wsparticle_gold01_14
+  - first:
+      213: 7341998536378358569
+    second: wsparticle_gold01_15
+  - first:
+      213: 582099694331792523
+    second: wsparticle_gold01_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wsparticle_gold01_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 188
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29883f86010a08140800000000000000
+      internalID: 4719948401824991378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_gold01_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 235
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff47f43f4f313b790800000000000000
+      internalID: -7515641410376207105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_gold01_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 231
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035f99264951b0110800000000000000
+      internalID: 1228099050442192176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_gold01_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 199
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c43356e18de05ea0800000000000000
+      internalID: -5885943570802461500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_gold01_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 154
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e686d409f876fd00800000000000000
+      internalID: 1006124577687242473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_gold01_5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 168
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1e82ce8064f82b0800000000000000
+      internalID: -5580164409152970320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_gold01_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 103
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8ce827304039cc0800000000000000
+      internalID: -3705613655542413128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_gold01_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 120
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a57d4ae567dace40800000000000000
+      internalID: 5677587112976545189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_gold01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22c95b622f307700800000000000000
+      internalID: 535997772719571501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_gold01_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 59
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2a54f2b652716f0800000000000000
+      internalID: -714060873630113073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_gold01_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 80
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f083c2d77bc465250800000000000000
+      internalID: 5933013910069983247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_gold01_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e54efa11cc40d10800000000000000
+      internalID: 2091020503344242211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_gold01_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 38
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d793b5f32e072030800000000000000
+      internalID: 3469757585521088466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_gold01_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 27
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6d9079cc437bef0800000000000000
+      internalID: -92547214025828629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_gold01_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d7af117ccac1cc0800000000000000
+      internalID: -3738923619624256212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_gold01_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b154ee4c404e560800000000000000
+      internalID: 7341998536378358569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_gold01_16
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 3
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c82808698041800800000000000000
+      internalID: 582099694331792523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wsparticle_gold01_0: 4719948401824991378
+      wsparticle_gold01_1: -7515641410376207105
+      wsparticle_gold01_10: 5933013910069983247
+      wsparticle_gold01_11: 2091020503344242211
+      wsparticle_gold01_12: 3469757585521088466
+      wsparticle_gold01_13: -92547214025828629
+      wsparticle_gold01_14: -3738923619624256212
+      wsparticle_gold01_15: 7341998536378358569
+      wsparticle_gold01_16: 582099694331792523
+      wsparticle_gold01_2: 1228099050442192176
+      wsparticle_gold01_3: -5885943570802461500
+      wsparticle_gold01_4: 1006124577687242473
+      wsparticle_gold01_5: -5580164409152970320
+      wsparticle_gold01_6: -3705613655542413128
+      wsparticle_gold01_7: 5677587112976545189
+      wsparticle_gold01_8: 535997772719571501
+      wsparticle_gold01_9: -714060873630113073
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

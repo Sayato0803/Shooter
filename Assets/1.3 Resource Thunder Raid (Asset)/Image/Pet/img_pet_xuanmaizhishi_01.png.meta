@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: a310a746f56ba4a4aa68f231b5e71d41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7900716450720428682
+    second: img_pet_xuanmaizhishi_01_0
+  - first:
+      213: 5633425996830761149
+    second: img_pet_xuanmaizhishi_01_1
+  - first:
+      213: 1756299497657320637
+    second: img_pet_xuanmaizhishi_01_2
+  - first:
+      213: 7107590819416845498
+    second: img_pet_xuanmaizhishi_01_3
+  - first:
+      213: 6085640407113516920
+    second: img_pet_xuanmaizhishi_01_4
+  - first:
+      213: -6306739951563237655
+    second: img_pet_xuanmaizhishi_01_5
+  - first:
+      213: 6015845965157370080
+    second: img_pet_xuanmaizhishi_01_6
+  - first:
+      213: 1506110422300492439
+    second: img_pet_xuanmaizhishi_01_7
+  - first:
+      213: -416160472935791436
+    second: img_pet_xuanmaizhishi_01_8
+  - first:
+      213: -1623010887654452281
+    second: img_pet_xuanmaizhishi_01_9
+  - first:
+      213: -3891961775257336468
+    second: img_pet_xuanmaizhishi_01_10
+  - first:
+      213: 5509095105362833209
+    second: img_pet_xuanmaizhishi_01_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_pet_xuanmaizhishi_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 403
+        width: 59
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82b64c80cbf4ad60800000000000000
+      internalID: 7900716450720428682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_xuanmaizhishi_01_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 59
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db06c81d813fd2e40800000000000000
+      internalID: 5633425996830761149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_xuanmaizhishi_01_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 294
+        width: 59
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4cf0d7611af5810800000000000000
+      internalID: 1756299497657320637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_xuanmaizhishi_01_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 403
+        width: 59
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc2b20513c33a260800000000000000
+      internalID: 7107590819416845498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_xuanmaizhishi_01_4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 294
+        width: 59
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877c3c805b9847450800000000000000
+      internalID: 6085640407113516920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_xuanmaizhishi_01_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 403
+        width: 59
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e61f48bd65f978a0800000000000000
+      internalID: -6306739951563237655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_xuanmaizhishi_01_6
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 294
+        width: 57
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e80ca038049c7350800000000000000
+      internalID: 6015845965157370080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_xuanmaizhishi_01_7
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 403
+        width: 59
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7920cb90377c6e410800000000000000
+      internalID: 1506110422300492439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_xuanmaizhishi_01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 57
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b48a193140893af0800000000000000
+      internalID: -416160472935791436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_xuanmaizhishi_01_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 57
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3d3ce5238e979e0800000000000000
+      internalID: -1623010887654452281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_xuanmaizhishi_01_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 185
+        width: 58
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65436ac269fcf9c0800000000000000
+      internalID: -3891961775257336468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_xuanmaizhishi_01_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 76
+        width: 58
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93faef45fcc347c40800000000000000
+      internalID: 5509095105362833209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_pet_xuanmaizhishi_01_0: 7900716450720428682
+      img_pet_xuanmaizhishi_01_1: 5633425996830761149
+      img_pet_xuanmaizhishi_01_10: -3891961775257336468
+      img_pet_xuanmaizhishi_01_11: 5509095105362833209
+      img_pet_xuanmaizhishi_01_2: 1756299497657320637
+      img_pet_xuanmaizhishi_01_3: 7107590819416845498
+      img_pet_xuanmaizhishi_01_4: 6085640407113516920
+      img_pet_xuanmaizhishi_01_5: -6306739951563237655
+      img_pet_xuanmaizhishi_01_6: 6015845965157370080
+      img_pet_xuanmaizhishi_01_7: 1506110422300492439
+      img_pet_xuanmaizhishi_01_8: -416160472935791436
+      img_pet_xuanmaizhishi_01_9: -1623010887654452281
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

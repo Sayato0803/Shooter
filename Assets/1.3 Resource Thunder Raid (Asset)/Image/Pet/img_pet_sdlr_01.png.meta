@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 5739255d6cdb0d341bc677d78c206e7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7130540454569740859
+    second: img_pet_sdlr_01_0
+  - first:
+      213: 4972802214790577003
+    second: img_pet_sdlr_01_1
+  - first:
+      213: -4928343745223859151
+    second: img_pet_sdlr_01_2
+  - first:
+      213: 7831594511814947840
+    second: img_pet_sdlr_01_3
+  - first:
+      213: -6295790306055259493
+    second: img_pet_sdlr_01_4
+  - first:
+      213: 7559158416744390753
+    second: img_pet_sdlr_01_5
+  - first:
+      213: -9140376016214112170
+    second: img_pet_sdlr_01_6
+  - first:
+      213: -4185780453420436121
+    second: img_pet_sdlr_01_7
+  - first:
+      213: 167338188577818456
+    second: img_pet_sdlr_01_8
+  - first:
+      213: 5912573794295775760
+    second: img_pet_sdlr_01_9
+  - first:
+      213: 2259446998181887607
+    second: img_pet_sdlr_01_10
+  - first:
+      213: 2695698929101996078
+    second: img_pet_sdlr_01_11
+  - first:
+      213: -3975469084236359893
+    second: img_pet_sdlr_01_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_pet_sdlr_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 101
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c571dc5c3b3b0d90800000000000000
+      internalID: -7130540454569740859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_sdlr_01_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 81
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b3ede6441f20540800000000000000
+      internalID: 4972802214790577003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_sdlr_01_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 142
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134e9e6a9710b9bb0800000000000000
+      internalID: -4928343745223859151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_sdlr_01_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 201
+        width: 86
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004f0a507b96fac60800000000000000
+      internalID: 7831594511814947840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_sdlr_01_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 193
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a7a3bb21cd0a8a0800000000000000
+      internalID: -6295790306055259493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_sdlr_01_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 79
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16024f6a78687e860800000000000000
+      internalID: 7559158416744390753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_sdlr_01_6
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 87
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658ce08e07cd62180800000000000000
+      internalID: -9140376016214112170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_sdlr_01_7
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 81
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765f916dade19e5c0800000000000000
+      internalID: -4185780453420436121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_sdlr_01_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 136
+        width: 76
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857c9872231825200800000000000000
+      internalID: 167338188577818456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_sdlr_01_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012884d2a8ead0250800000000000000
+      internalID: 5912573794295775760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_sdlr_01_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 22
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e3473e21b2b5f10800000000000000
+      internalID: 2259446998181887607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_sdlr_01_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 16
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e208682c4eb096520800000000000000
+      internalID: 2695698929101996078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_pet_sdlr_01_12
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 16
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b275b8a4eeb44d8c0800000000000000
+      internalID: -3975469084236359893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_pet_sdlr_01_0: -7130540454569740859
+      img_pet_sdlr_01_1: 4972802214790577003
+      img_pet_sdlr_01_10: 2259446998181887607
+      img_pet_sdlr_01_11: 2695698929101996078
+      img_pet_sdlr_01_12: -3975469084236359893
+      img_pet_sdlr_01_2: -4928343745223859151
+      img_pet_sdlr_01_3: 7831594511814947840
+      img_pet_sdlr_01_4: -6295790306055259493
+      img_pet_sdlr_01_5: 7559158416744390753
+      img_pet_sdlr_01_6: -9140376016214112170
+      img_pet_sdlr_01_7: -4185780453420436121
+      img_pet_sdlr_01_8: 167338188577818456
+      img_pet_sdlr_01_9: 5912573794295775760
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

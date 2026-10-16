@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: cc932a73bc2bd4046920af325debc869
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7334230767236505826
+    second: img_plane_boss_dragon_body_0
+  - first:
+      213: -1908056186373237361
+    second: img_plane_boss_dragon_body_1
+  - first:
+      213: -707334139830053537
+    second: img_plane_boss_dragon_body_2
+  - first:
+      213: 7097785787511275879
+    second: img_plane_boss_dragon_body_3
+  - first:
+      213: -1497494080393761737
+    second: img_plane_boss_dragon_body_4
+  - first:
+      213: -4099118270263790887
+    second: img_plane_boss_dragon_body_5
+  - first:
+      213: 8128516768162195762
+    second: img_plane_boss_dragon_body_6
+  - first:
+      213: 5973840967862508014
+    second: img_plane_boss_dragon_body_7
+  - first:
+      213: -3797466394610424870
+    second: img_plane_boss_dragon_body_8
+  - first:
+      213: 8219681636913106142
+    second: img_plane_boss_dragon_body_9
+  - first:
+      213: -8008984236927360745
+    second: img_plane_boss_dragon_body_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_plane_boss_dragon_body_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 743
+        width: 196
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e06fdd360c68c560800000000000000
+      internalID: 7334230767236505826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_boss_dragon_body_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 751
+        width: 191
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f859cbff1093585e0800000000000000
+      internalID: -1908056186373237361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_boss_dragon_body_2
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 759
+        width: 190
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f555ce1f85b0f26f0800000000000000
+      internalID: -707334139830053537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_boss_dragon_body_3
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 763
+        width: 189
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7610d6c6196608260800000000000000
+      internalID: 7097785787511275879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_boss_dragon_body_4
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 769
+        width: 187
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c21e46115d73be0800000000000000
+      internalID: -1497494080393761737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_boss_dragon_body_5
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 517
+        width: 184
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2fc98b6a10d17c0800000000000000
+      internalID: -4099118270263790887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_boss_dragon_body_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 194
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2392d151fea4ec070800000000000000
+      internalID: 8128516768162195762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_boss_dragon_body_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 480
+        width: 191
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9de12a5b857e250800000000000000
+      internalID: 5973840967862508014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_boss_dragon_body_8
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 512
+        width: 183
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad323c61f60bc4bc0800000000000000
+      internalID: -3797466394610424870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_boss_dragon_body_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 193
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcc10726ec221270800000000000000
+      internalID: 8219681636913106142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_boss_dragon_body_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 185
+        width: 195
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711ed3a154f5ad090800000000000000
+      internalID: -8008984236927360745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_plane_boss_dragon_body_0: 7334230767236505826
+      img_plane_boss_dragon_body_1: -1908056186373237361
+      img_plane_boss_dragon_body_10: -8008984236927360745
+      img_plane_boss_dragon_body_2: -707334139830053537
+      img_plane_boss_dragon_body_3: 7097785787511275879
+      img_plane_boss_dragon_body_4: -1497494080393761737
+      img_plane_boss_dragon_body_5: -4099118270263790887
+      img_plane_boss_dragon_body_6: 8128516768162195762
+      img_plane_boss_dragon_body_7: 5973840967862508014
+      img_plane_boss_dragon_body_8: -3797466394610424870
+      img_plane_boss_dragon_body_9: 8219681636913106142
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

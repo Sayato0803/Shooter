@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: e8421be52cab7b64d9710617c48bc617
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8961675444252107432
+    second: img_plane_main_gundam_0
+  - first:
+      213: 8147998204716876774
+    second: img_plane_main_gundam_1
+  - first:
+      213: -384822181800019390
+    second: img_plane_main_gundam_2
+  - first:
+      213: 9163663041131018310
+    second: img_plane_main_gundam_3
+  - first:
+      213: 7684872181114034975
+    second: img_plane_main_gundam_4
+  - first:
+      213: 7093517651170652939
+    second: img_plane_main_gundam_5
+  - first:
+      213: -1876280477973930177
+    second: img_plane_main_gundam_6
+  - first:
+      213: -8170875290807648485
+    second: img_plane_main_gundam_7
+  - first:
+      213: 7829440575243065521
+    second: img_plane_main_gundam_8
+  - first:
+      213: -2858808008719849528
+    second: img_plane_main_gundam_9
+  - first:
+      213: -5873572665043051631
+    second: img_plane_main_gundam_10
+  - first:
+      213: 811978177248015709
+    second: img_plane_main_gundam_11
+  - first:
+      213: -5917059017579295753
+    second: img_plane_main_gundam_12
+  - first:
+      213: 7682250719064244629
+    second: img_plane_main_gundam_13
+  - first:
+      213: 5233682557139368936
+    second: img_plane_main_gundam_14
+  - first:
+      213: -3342031631783484890
+    second: img_plane_main_gundam_15
+  - first:
+      213: -2050061104020402376
+    second: img_plane_main_gundam_16
+  - first:
+      213: -7082991436027414891
+    second: img_plane_main_gundam_17
+  - first:
+      213: 6190313555760801310
+    second: img_plane_main_gundam_18
+  - first:
+      213: -2093252278253127803
+    second: img_plane_main_gundam_19
+  - first:
+      213: -355884583101830827
+    second: img_plane_main_gundam_20
+  - first:
+      213: -6968573157088855668
+    second: img_plane_main_gundam_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_plane_main_gundam_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 413
+        width: 181
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2ecf6e5544e5c70800000000000000
+      internalID: 8961675444252107432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_gundam_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 393
+        width: 41
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e38bae7231831170800000000000000
+      internalID: 8147998204716876774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_gundam_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 481
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a7e18b346d8aaf0800000000000000
+      internalID: -384822181800019390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_gundam_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 420
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6487df71cfedb2f70800000000000000
+      internalID: 9163663041131018310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_gundam_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 180
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b5593588626aa60800000000000000
+      internalID: 7684872181114034975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_gundam_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 305
+        width: 39
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b037dfd78bc317260800000000000000
+      internalID: 7093517651170652939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_gundam_6
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 298
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f1d53a8dc16f5e0800000000000000
+      internalID: -1876280477973930177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_gundam_7
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 359
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fb463d6383b9e80800000000000000
+      internalID: -8170875290807648485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_gundam_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 180
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8946598b2c7ac60800000000000000
+      internalID: 7829440575243065521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_gundam_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 220
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7263f33497358d0800000000000000
+      internalID: -2858808008719849528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_gundam_10
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 277
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b1aa9d7c0ec7ea0800000000000000
+      internalID: -5873572665043051631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_gundam_11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 239
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55bc34a9d9b44b00800000000000000
+      internalID: 811978177248015709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_gundam_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb0a266c2262eda0800000000000000
+      internalID: -5917059017579295753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_gundam_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5914051a356dc9a60800000000000000
+      internalID: 7682250719064244629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_gundam_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 208
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb33757e86c1a840800000000000000
+      internalID: 5233682557139368936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_gundam_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 208
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6222d6f00f7be91d0800000000000000
+      internalID: -3342031631783484890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_gundam_16
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 208
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fc40f9948bc83e0800000000000000
+      internalID: -2050061104020402376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_gundam_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 222
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596b374f0d824bd90800000000000000
+      internalID: -7082991436027414891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_gundam_18
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 223
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16686b916968e550800000000000000
+      internalID: 6190313555760801310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_gundam_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 222
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587f179b42643f2e0800000000000000
+      internalID: -2093252278253127803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_gundam_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 211
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5596d237bd4af0bf0800000000000000
+      internalID: -355884583101830827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_gundam_21
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 197
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89756c72a7aa4f90800000000000000
+      internalID: -6968573157088855668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_plane_main_gundam_0: 8961675444252107432
+      img_plane_main_gundam_1: 8147998204716876774
+      img_plane_main_gundam_10: -5873572665043051631
+      img_plane_main_gundam_11: 811978177248015709
+      img_plane_main_gundam_12: -5917059017579295753
+      img_plane_main_gundam_13: 7682250719064244629
+      img_plane_main_gundam_14: 5233682557139368936
+      img_plane_main_gundam_15: -3342031631783484890
+      img_plane_main_gundam_16: -2050061104020402376
+      img_plane_main_gundam_17: -7082991436027414891
+      img_plane_main_gundam_18: 6190313555760801310
+      img_plane_main_gundam_19: -2093252278253127803
+      img_plane_main_gundam_2: -384822181800019390
+      img_plane_main_gundam_20: -355884583101830827
+      img_plane_main_gundam_21: -6968573157088855668
+      img_plane_main_gundam_3: 9163663041131018310
+      img_plane_main_gundam_4: 7684872181114034975
+      img_plane_main_gundam_5: 7093517651170652939
+      img_plane_main_gundam_6: -1876280477973930177
+      img_plane_main_gundam_7: -8170875290807648485
+      img_plane_main_gundam_8: 7829440575243065521
+      img_plane_main_gundam_9: -2858808008719849528
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

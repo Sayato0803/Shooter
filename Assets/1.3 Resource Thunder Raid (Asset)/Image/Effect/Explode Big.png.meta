@@ -1,0 +1,2405 @@
+fileFormatVersion: 2
+guid: c1f817872e495e449b47829999b65738
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4126371101981219777
+    second: Explode Big_0
+  - first:
+      213: -7990704851481425620
+    second: Explode Big_1
+  - first:
+      213: -3185499222653935586
+    second: Explode Big_2
+  - first:
+      213: -2224529686090349582
+    second: Explode Big_3
+  - first:
+      213: -8781029159719479765
+    second: Explode Big_4
+  - first:
+      213: 6780721195928862992
+    second: Explode Big_5
+  - first:
+      213: -4588017964420619295
+    second: Explode Big_6
+  - first:
+      213: 2714273387549666160
+    second: Explode Big_7
+  - first:
+      213: 5305859184625545647
+    second: Explode Big_8
+  - first:
+      213: 3142185654158891939
+    second: Explode Big_9
+  - first:
+      213: 7147190662973834286
+    second: Explode Big_10
+  - first:
+      213: -7030991944024643962
+    second: Explode Big_11
+  - first:
+      213: 6801869391492025297
+    second: Explode Big_12
+  - first:
+      213: -5624561919508586938
+    second: Explode Big_13
+  - first:
+      213: 4481827939321601482
+    second: Explode Big_14
+  - first:
+      213: 9122911948973157038
+    second: Explode Big_15
+  - first:
+      213: -327803230322140370
+    second: Explode Big_16
+  - first:
+      213: 2577170986306758979
+    second: Explode Big_17
+  - first:
+      213: 8070196686539100547
+    second: Explode Big_18
+  - first:
+      213: -8279269667402039944
+    second: Explode Big_19
+  - first:
+      213: -9016194868521364319
+    second: Explode Big_20
+  - first:
+      213: -5173898678027139694
+    second: Explode Big_21
+  - first:
+      213: 2585251339562093278
+    second: Explode Big_22
+  - first:
+      213: 680920724320747055
+    second: Explode Big_23
+  - first:
+      213: 399013492967719729
+    second: Explode Big_24
+  - first:
+      213: 8651670470157971768
+    second: Explode Big_25
+  - first:
+      213: -7792864388275206148
+    second: Explode Big_26
+  - first:
+      213: -6266423783258551596
+    second: Explode Big_27
+  - first:
+      213: -171564548943360655
+    second: Explode Big_28
+  - first:
+      213: -4525768415859004233
+    second: Explode Big_29
+  - first:
+      213: 2150306551789680668
+    second: Explode Big_30
+  - first:
+      213: -196155141507304719
+    second: Explode Big_31
+  - first:
+      213: -2041322733684034809
+    second: Explode Big_32
+  - first:
+      213: -2890603840474757259
+    second: Explode Big_33
+  - first:
+      213: 1821703961791687257
+    second: Explode Big_34
+  - first:
+      213: 6466684043456927590
+    second: Explode Big_35
+  - first:
+      213: 8561978577579184617
+    second: Explode Big_36
+  - first:
+      213: 1817143623001754767
+    second: Explode Big_37
+  - first:
+      213: 3121915666550165681
+    second: Explode Big_38
+  - first:
+      213: 8240937473494755664
+    second: Explode Big_39
+  - first:
+      213: -1189563302741758592
+    second: Explode Big_40
+  - first:
+      213: 6546999532798330720
+    second: Explode Big_41
+  - first:
+      213: 6366240521608716668
+    second: Explode Big_42
+  - first:
+      213: -2349123131917922780
+    second: Explode Big_43
+  - first:
+      213: -5058455020510570477
+    second: Explode Big_44
+  - first:
+      213: -7582917918204985421
+    second: Explode Big_45
+  - first:
+      213: -4861174168778404791
+    second: Explode Big_46
+  - first:
+      213: -863295479569608024
+    second: Explode Big_47
+  - first:
+      213: -213660979476449595
+    second: Explode Big_48
+  - first:
+      213: -3733607152038479065
+    second: Explode Big_49
+  - first:
+      213: 2919094641601476892
+    second: Explode Big_50
+  - first:
+      213: -5077873633600631064
+    second: Explode Big_51
+  - first:
+      213: -6719803517780090208
+    second: Explode Big_52
+  - first:
+      213: -3851813706756550636
+    second: Explode Big_53
+  - first:
+      213: -4371106603642525907
+    second: Explode Big_54
+  - first:
+      213: 3699620179440619541
+    second: Explode Big_55
+  - first:
+      213: 2749002820311745428
+    second: Explode Big_56
+  - first:
+      213: 2748774804501193193
+    second: Explode Big_57
+  - first:
+      213: -3538301405849752509
+    second: Explode Big_58
+  - first:
+      213: -5666836799020018008
+    second: Explode Big_59
+  - first:
+      213: 1559999428298659815
+    second: Explode Big_60
+  - first:
+      213: -2946529508616937970
+    second: Explode Big_61
+  - first:
+      213: -3877906886138559581
+    second: Explode Big_62
+  - first:
+      213: -1377090027386225550
+    second: Explode Big_63
+  - first:
+      213: -8623875538634892144
+    second: Explode Big_64
+  - first:
+      213: 4600286704600931084
+    second: Explode Big_65
+  - first:
+      213: -8590204786703053668
+    second: Explode Big_66
+  - first:
+      213: 2043853306401314432
+    second: Explode Big_67
+  - first:
+      213: -8568788027598438368
+    second: Explode Big_68
+  - first:
+      213: -6935750671883777954
+    second: Explode Big_69
+  - first:
+      213: -1140834337586230597
+    second: Explode Big_70
+  - first:
+      213: -5644024436712446003
+    second: Explode Big_71
+  - first:
+      213: 2157949347495064253
+    second: Explode Big_72
+  - first:
+      213: -6646803528169601982
+    second: Explode Big_73
+  - first:
+      213: -7265580182009455059
+    second: Explode Big_74
+  - first:
+      213: -1553173224491812448
+    second: Explode Big_75
+  - first:
+      213: -5976066242727153105
+    second: Explode Big_76
+  - first:
+      213: 8802489732019927292
+    second: Explode Big_77
+  - first:
+      213: 1705266189519222690
+    second: Explode Big_78
+  - first:
+      213: -4730314551565330339
+    second: Explode Big_79
+  - first:
+      213: 4809015612385265103
+    second: Explode Big_80
+  - first:
+      213: 7705276985468538855
+    second: Explode Big_81
+  - first:
+      213: -4139515865845874909
+    second: Explode Big_82
+  - first:
+      213: 7395565201040806619
+    second: Explode Big_83
+  - first:
+      213: -2986873000625920392
+    second: Explode Big_84
+  - first:
+      213: -7523779087591108063
+    second: Explode Big_85
+  - first:
+      213: 5845501345206952607
+    second: Explode Big_86
+  - first:
+      213: 4013471125069820567
+    second: Explode Big_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explode Big_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 828
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb1701a7a0d34930800000000000000
+      internalID: 4126371101981219777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 824
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29857e26405b1190800000000000000
+      internalID: -7990704851481425620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 820
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10ed61a555dac3d0800000000000000
+      internalID: -3185499222653935586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 817
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3064c5902e021e0800000000000000
+      internalID: -2224529686090349582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 814
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26d29cc084832680800000000000000
+      internalID: -8781029159719479765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_5
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 811
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0114d4c7006f91e50800000000000000
+      internalID: 6780721195928862992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_6
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 809
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3299f38f51450c0800000000000000
+      internalID: -4588017964420619295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_7
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 807
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ba130e3490ba520800000000000000
+      internalID: 2714273387549666160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_8
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 806
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa179d711d232a940800000000000000
+      internalID: 5305859184625545647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 704
+        width: 86
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab187654394b9b20800000000000000
+      internalID: 3142185654158891939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_10
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 703
+        width: 89
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e244b806a0cef2360800000000000000
+      internalID: 7147190662973834286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 702
+        width: 91
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68627c52416ec6e90800000000000000
+      internalID: -7030991944024643962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 701
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db0c787c28156e50800000000000000
+      internalID: 6801869391492025297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 701
+        width: 93
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e50820cba81f1b0800000000000000
+      internalID: -5624561919508586938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_14
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 700
+        width: 95
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd5fabd3c6a23e30800000000000000
+      internalID: 4481827939321601482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_15
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 700
+        width: 95
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa26b315181b9e70800000000000000
+      internalID: 9122911948973157038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_16
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 699
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b5c64e2b8637bf0800000000000000
+      internalID: -327803230322140370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_17
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 699
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349e14c8b53f3c320800000000000000
+      internalID: 2577170986306758979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 497
+        width: 99
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38192b0f0291fff60800000000000000
+      internalID: 8070196686539100547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 599
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87db5da5a102a1d80800000000000000
+      internalID: -8279269667402039944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_20
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 497
+        width: 100
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a49514798a00e280800000000000000
+      internalID: -9016194868521364319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 599
+        width: 98
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2954458909e9238b0800000000000000
+      internalID: -5173898678027139694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_22
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 497
+        width: 100
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda83b56568a0e320800000000000000
+      internalID: 2585251339562093278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 599
+        width: 99
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ef6558acd137900800000000000000
+      internalID: 680920724320747055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_24
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 497
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133cde468a4998500800000000000000
+      internalID: 399013492967719729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 596
+        width: 99
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831b08f3478e01870800000000000000
+      internalID: 8651670470157971768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 595
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf78012902f2ad390800000000000000
+      internalID: -7792864388275206148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 497
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da80d225c03909a0800000000000000
+      internalID: -6266423783258551596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 596
+        width: 99
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d4e24a3fa7e9df0800000000000000
+      internalID: -171564548943360655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_29
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 497
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcaa05ba9d3131c0800000000000000
+      internalID: -4525768415859004233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_30
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 596
+        width: 99
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c187e918a6c67dd10800000000000000
+      internalID: 2150306551789680668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_31
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 597
+        width: 100
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2379520fd174df0800000000000000
+      internalID: -196155141507304719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_32
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 497
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70375d20ac3cba3e0800000000000000
+      internalID: -2041322733684034809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_33
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 597
+        width: 100
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5774f164f1382e7d0800000000000000
+      internalID: -2890603840474757259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_34
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 597
+        width: 100
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ae388f91ef74910800000000000000
+      internalID: 1821703961791687257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_35
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 497
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667dfe420e64eb950800000000000000
+      internalID: 6466684043456927590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_36
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 501
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e19c1b272242d670800000000000000
+      internalID: 8561978577579184617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cc2ea5f7ac73910800000000000000
+      internalID: 1817143623001754767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_38
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 401
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0137312c5435b20800000000000000
+      internalID: 3121915666550165681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_39
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 401
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0592cd348f0bd5270800000000000000
+      internalID: 8240937473494755664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_40
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 401
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08dac3e8a72dd7fe0800000000000000
+      internalID: -1189563302741758592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_41
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 401
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067c719336d9bda50800000000000000
+      internalID: 6546999532798330720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_42
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 401
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c716f2d460e695850800000000000000
+      internalID: 6366240521608716668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_43
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 401
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e016c25fc366fd0800000000000000
+      internalID: -2349123131917922780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_44
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 401
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3181d2ea5f1ccc9b0800000000000000
+      internalID: -5058455020510570477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_45
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 411
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf7274545014c690800000000000000
+      internalID: -7582917918204985421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_46
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 312
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c88ae59d3a98cb0800000000000000
+      internalID: -4861174168778404791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_47
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 312
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a29d04d555f404f0800000000000000
+      internalID: -863295479569608024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_48
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 313
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6b1ff987ce80df0800000000000000
+      internalID: -213660979476449595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_49
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 313
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b73e3a3109f2cc0800000000000000
+      internalID: -3733607152038479065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_50
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 314
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19f66a4c15b28820800000000000000
+      internalID: 2919094641601476892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_51
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 314
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee89ee75d4c789b0800000000000000
+      internalID: -5077873633600631064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_52
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 315
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a22c4abd467eb2a0800000000000000
+      internalID: -6719803517780090208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_53
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 317
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4109bcb67db9b8ac0800000000000000
+      internalID: -3851813706756550636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_54
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 318
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27e58ef3b5b653c0800000000000000
+      internalID: -4371106603642525907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_55
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 219
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510dc67a3f0b75330800000000000000
+      internalID: 3699620179440619541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_56
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 220
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4938a3f008b662620800000000000000
+      internalID: 2749002820311745428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_57
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 222
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e166ddfe1c952620800000000000000
+      internalID: 2748774804501193193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_58
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 222
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c6f0c3e9d65eec0800000000000000
+      internalID: -3538301405849752509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_59
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 224
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6dc4a94f95b51b0800000000000000
+      internalID: -5666836799020018008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_60
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 225
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7dd8df63b36a510800000000000000
+      internalID: 1559999428298659815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_61
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 231
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e5ea6f503db17d0800000000000000
+      internalID: -2946529508616937970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_62
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 226
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a38babab38ee2ac0800000000000000
+      internalID: -3877906886138559581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_63
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 232
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c39ed8ae793ece0800000000000000
+      internalID: -1377090027386225550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_64
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 227
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c9c7c83e6d15880800000000000000
+      internalID: -8623875538634892144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_65
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 232
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bd0bc626087df30800000000000000
+      internalID: 4600286704600931084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_66
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 228
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c44b4624679c880800000000000000
+      internalID: -8590204786703053668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_67
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 133
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086de0dd0c93d5c10800000000000000
+      internalID: 2043853306401314432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_68
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 133
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020006330bc851980800000000000000
+      internalID: -8568788027598438368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_69
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 129
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58c0b7d2834fbf90800000000000000
+      internalID: -6935750671883777954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 134
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbaca90e631fa20f0800000000000000
+      internalID: -1140834337586230597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_71
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 133
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7612a9da56ca1b0800000000000000
+      internalID: -5644024436712446003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_72
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 130
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2babc8f7392fd10800000000000000
+      internalID: 2157949347495064253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_73
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 136
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24443ab486fc1c3a0800000000000000
+      internalID: -6646803528169601982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_74
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 133
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e5534b1597b2b90800000000000000
+      internalID: -7265580182009455059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_75
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 132
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9748f6e25027ae0800000000000000
+      internalID: -1553173224491812448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_76
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 133
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f227b003a6fb01da0800000000000000
+      internalID: -5976066242727153105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_77
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 134
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8321016c9b82a70800000000000000
+      internalID: 8802489732019927292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_78
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 133
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7f6c180925aa710800000000000000
+      internalID: 1705266189519222690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_79
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 137
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5856164afb8a5eb0800000000000000
+      internalID: -4730314551565330339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_80
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 133
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5088f583e0db240800000000000000
+      internalID: 4809015612385265103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_81
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 139
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef48de0894aeea60800000000000000
+      internalID: 7705276985468538855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_82
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 134
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fb92a804c7d86c0800000000000000
+      internalID: -4139515865845874909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_83
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 140
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd21741fd5352a660800000000000000
+      internalID: 7395565201040806619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_84
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 134
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876ac70c4de7c86d0800000000000000
+      internalID: -2986873000625920392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_85
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 135
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1229e9358ca269790800000000000000
+      internalID: -7523779087591108063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_86
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 35
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92e02fa0846f1150800000000000000
+      internalID: 5845501345206952607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode Big_87
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 38
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792f21659b6b2b730800000000000000
+      internalID: 4013471125069820567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Explode Big_0: 4126371101981219777
+      Explode Big_1: -7990704851481425620
+      Explode Big_10: 7147190662973834286
+      Explode Big_11: -7030991944024643962
+      Explode Big_12: 6801869391492025297
+      Explode Big_13: -5624561919508586938
+      Explode Big_14: 4481827939321601482
+      Explode Big_15: 9122911948973157038
+      Explode Big_16: -327803230322140370
+      Explode Big_17: 2577170986306758979
+      Explode Big_18: 8070196686539100547
+      Explode Big_19: -8279269667402039944
+      Explode Big_2: -3185499222653935586
+      Explode Big_20: -9016194868521364319
+      Explode Big_21: -5173898678027139694
+      Explode Big_22: 2585251339562093278
+      Explode Big_23: 680920724320747055
+      Explode Big_24: 399013492967719729
+      Explode Big_25: 8651670470157971768
+      Explode Big_26: -7792864388275206148
+      Explode Big_27: -6266423783258551596
+      Explode Big_28: -171564548943360655
+      Explode Big_29: -4525768415859004233
+      Explode Big_3: -2224529686090349582
+      Explode Big_30: 2150306551789680668
+      Explode Big_31: -196155141507304719
+      Explode Big_32: -2041322733684034809
+      Explode Big_33: -2890603840474757259
+      Explode Big_34: 1821703961791687257
+      Explode Big_35: 6466684043456927590
+      Explode Big_36: 8561978577579184617
+      Explode Big_37: 1817143623001754767
+      Explode Big_38: 3121915666550165681
+      Explode Big_39: 8240937473494755664
+      Explode Big_4: -8781029159719479765
+      Explode Big_40: -1189563302741758592
+      Explode Big_41: 6546999532798330720
+      Explode Big_42: 6366240521608716668
+      Explode Big_43: -2349123131917922780
+      Explode Big_44: -5058455020510570477
+      Explode Big_45: -7582917918204985421
+      Explode Big_46: -4861174168778404791
+      Explode Big_47: -863295479569608024
+      Explode Big_48: -213660979476449595
+      Explode Big_49: -3733607152038479065
+      Explode Big_5: 6780721195928862992
+      Explode Big_50: 2919094641601476892
+      Explode Big_51: -5077873633600631064
+      Explode Big_52: -6719803517780090208
+      Explode Big_53: -3851813706756550636
+      Explode Big_54: -4371106603642525907
+      Explode Big_55: 3699620179440619541
+      Explode Big_56: 2749002820311745428
+      Explode Big_57: 2748774804501193193
+      Explode Big_58: -3538301405849752509
+      Explode Big_59: -5666836799020018008
+      Explode Big_6: -4588017964420619295
+      Explode Big_60: 1559999428298659815
+      Explode Big_61: -2946529508616937970
+      Explode Big_62: -3877906886138559581
+      Explode Big_63: -1377090027386225550
+      Explode Big_64: -8623875538634892144
+      Explode Big_65: 4600286704600931084
+      Explode Big_66: -8590204786703053668
+      Explode Big_67: 2043853306401314432
+      Explode Big_68: -8568788027598438368
+      Explode Big_69: -6935750671883777954
+      Explode Big_7: 2714273387549666160
+      Explode Big_70: -1140834337586230597
+      Explode Big_71: -5644024436712446003
+      Explode Big_72: 2157949347495064253
+      Explode Big_73: -6646803528169601982
+      Explode Big_74: -7265580182009455059
+      Explode Big_75: -1553173224491812448
+      Explode Big_76: -5976066242727153105
+      Explode Big_77: 8802489732019927292
+      Explode Big_78: 1705266189519222690
+      Explode Big_79: -4730314551565330339
+      Explode Big_8: 5305859184625545647
+      Explode Big_80: 4809015612385265103
+      Explode Big_81: 7705276985468538855
+      Explode Big_82: -4139515865845874909
+      Explode Big_83: 7395565201040806619
+      Explode Big_84: -2986873000625920392
+      Explode Big_85: -7523779087591108063
+      Explode Big_86: 5845501345206952607
+      Explode Big_87: 4013471125069820567
+      Explode Big_9: 3142185654158891939
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: a0860eaa493aa7b42a690c7b3ff1c0bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8431239531334159280
+    second: img_bullet_pet_xiaohuangya_0
+  - first:
+      213: -119558484655824249
+    second: img_bullet_pet_xiaohuangya_1
+  - first:
+      213: 8283517771431019708
+    second: img_bullet_pet_xiaohuangya_2
+  - first:
+      213: 2256849570921211476
+    second: img_bullet_pet_xiaohuangya_3
+  - first:
+      213: -4781662924623795528
+    second: img_bullet_pet_xiaohuangya_4
+  - first:
+      213: -6090706292524371641
+    second: img_bullet_pet_xiaohuangya_5
+  - first:
+      213: -5605639199251134445
+    second: img_bullet_pet_xiaohuangya_6
+  - first:
+      213: 8369976462502104887
+    second: img_bullet_pet_xiaohuangya_7
+  - first:
+      213: -2955495355132188426
+    second: img_bullet_pet_xiaohuangya_8
+  - first:
+      213: 8836927415389441646
+    second: img_bullet_pet_xiaohuangya_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_bullet_pet_xiaohuangya_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054b89e11583efa80800000000000000
+      internalID: -8431239531334159280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_xiaohuangya_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 325
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782a430113e375ef0800000000000000
+      internalID: -119558484655824249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_xiaohuangya_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 419
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb408c07687f4f270800000000000000
+      internalID: 8283517771431019708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_xiaohuangya_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 326
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456604a3ab0f15f10800000000000000
+      internalID: 2256849570921211476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_xiaohuangya_4
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 329
+        width: 54
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8baa42687ee14adb0800000000000000
+      internalID: -4781662924623795528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_xiaohuangya_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74139da95e6797ba0800000000000000
+      internalID: -6090706292524371641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_xiaohuangya_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 41
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31881a529d4c432b0800000000000000
+      internalID: -5605639199251134445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_xiaohuangya_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 32
+        width: 33
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f81d12f31282470800000000000000
+      internalID: 8369976462502104887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_xiaohuangya_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 32
+        width: 33
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8670622a8fbf6d0800000000000000
+      internalID: -2955495355132188426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_xiaohuangya_9
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 145
+        width: 54
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ec23c0aa213aa70800000000000000
+      internalID: 8836927415389441646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_bullet_pet_xiaohuangya_0: -8431239531334159280
+      img_bullet_pet_xiaohuangya_1: -119558484655824249
+      img_bullet_pet_xiaohuangya_2: 8283517771431019708
+      img_bullet_pet_xiaohuangya_3: 2256849570921211476
+      img_bullet_pet_xiaohuangya_4: -4781662924623795528
+      img_bullet_pet_xiaohuangya_5: -6090706292524371641
+      img_bullet_pet_xiaohuangya_6: -5605639199251134445
+      img_bullet_pet_xiaohuangya_7: 8369976462502104887
+      img_bullet_pet_xiaohuangya_8: -2955495355132188426
+      img_bullet_pet_xiaohuangya_9: 8836927415389441646
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 1a4d9e25bac54b241b8ccf26d261688a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7635392284148397493
+    second: wsparticle_img_monster_sma_22_0
+  - first:
+      213: -5376368630993781397
+    second: wsparticle_img_monster_sma_22_1
+  - first:
+      213: 7569789015864955850
+    second: wsparticle_img_monster_sma_22_2
+  - first:
+      213: -3014007865639412358
+    second: wsparticle_img_monster_sma_22_3
+  - first:
+      213: 2000642356112246554
+    second: wsparticle_img_monster_sma_22_4
+  - first:
+      213: -3254660263876563866
+    second: wsparticle_img_monster_sma_22_5
+  - first:
+      213: -5361636923560624175
+    second: wsparticle_img_monster_sma_22_6
+  - first:
+      213: -6197725511516602887
+    second: wsparticle_img_monster_sma_22_7
+  - first:
+      213: -3563621297669483934
+    second: wsparticle_img_monster_sma_22_8
+  - first:
+      213: 6349182796843521476
+    second: wsparticle_img_monster_sma_22_9
+  - first:
+      213: 5627610827519731757
+    second: wsparticle_img_monster_sma_22_10
+  - first:
+      213: 1849311029352296325
+    second: wsparticle_img_monster_sma_22_11
+  - first:
+      213: -8918996129159883987
+    second: wsparticle_img_monster_sma_22_12
+  - first:
+      213: 1183485592307690394
+    second: wsparticle_img_monster_sma_22_13
+  - first:
+      213: -4915636715966678135
+    second: wsparticle_img_monster_sma_22_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wsparticle_img_monster_sma_22_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 441
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a839eeb23a90690800000000000000
+      internalID: -7635392284148397493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_img_monster_sma_22_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 441
+        width: 103
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dff00273d4365b0800000000000000
+      internalID: -5376368630993781397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_img_monster_sma_22_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 463
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3d843e00b4d0960800000000000000
+      internalID: 7569789015864955850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_img_monster_sma_22_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 371
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d545aa0d71c26d0800000000000000
+      internalID: -3014007865639412358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_img_monster_sma_22_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 301
+        width: 99
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17cbae7f95b3cb10800000000000000
+      internalID: 2000642356112246554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_img_monster_sma_22_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 371
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cee03ebbf15d2d0800000000000000
+      internalID: -3254660263876563866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_img_monster_sma_22_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 232
+        width: 94
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dffc8c00a3a795b0800000000000000
+      internalID: -5361636923560624175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_img_monster_sma_22_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 301
+        width: 98
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd3da6fb714df9a0800000000000000
+      internalID: -6197725511516602887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_img_monster_sma_22_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 233
+        width: 97
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262d4668f497b8ec0800000000000000
+      internalID: -3563621297669483934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_img_monster_sma_22_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 167
+        width: 90
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c511e34d14dc1850800000000000000
+      internalID: 6349182796843521476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_img_monster_sma_22_10
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 171
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28a4743b3a491e40800000000000000
+      internalID: 5627610827519731757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_img_monster_sma_22_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 107
+        width: 84
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f61c745921aa910800000000000000
+      internalID: 1849311029352296325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_img_monster_sma_22_12
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 148
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d235750864c593480800000000000000
+      internalID: -8918996129159883987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_img_monster_sma_22_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 153
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bea4630e59c6010800000000000000
+      internalID: 1183485592307690394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wsparticle_img_monster_sma_22_14
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 107
+        width: 73
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b30f3737628cbb0800000000000000
+      internalID: -4915636715966678135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wsparticle_img_monster_sma_22_0: -7635392284148397493
+      wsparticle_img_monster_sma_22_1: -5376368630993781397
+      wsparticle_img_monster_sma_22_10: 5627610827519731757
+      wsparticle_img_monster_sma_22_11: 1849311029352296325
+      wsparticle_img_monster_sma_22_12: -8918996129159883987
+      wsparticle_img_monster_sma_22_13: 1183485592307690394
+      wsparticle_img_monster_sma_22_14: -4915636715966678135
+      wsparticle_img_monster_sma_22_2: 7569789015864955850
+      wsparticle_img_monster_sma_22_3: -3014007865639412358
+      wsparticle_img_monster_sma_22_4: 2000642356112246554
+      wsparticle_img_monster_sma_22_5: -3254660263876563866
+      wsparticle_img_monster_sma_22_6: -5361636923560624175
+      wsparticle_img_monster_sma_22_7: -6197725511516602887
+      wsparticle_img_monster_sma_22_8: -3563621297669483934
+      wsparticle_img_monster_sma_22_9: 6349182796843521476
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

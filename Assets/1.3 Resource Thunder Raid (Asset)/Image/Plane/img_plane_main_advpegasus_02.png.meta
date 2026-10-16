@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: e2df3d9e94c18214da498ed8c5b4ef46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5627677322389520833
+    second: img_plane_main_advpegasus_02_0
+  - first:
+      213: -7445526540200595843
+    second: img_plane_main_advpegasus_02_1
+  - first:
+      213: -6890277748876363447
+    second: img_plane_main_advpegasus_02_2
+  - first:
+      213: 1965415717523063713
+    second: img_plane_main_advpegasus_02_3
+  - first:
+      213: 6007761392352589305
+    second: img_plane_main_advpegasus_02_4
+  - first:
+      213: -9064740477848972762
+    second: img_plane_main_advpegasus_02_5
+  - first:
+      213: 8556564058388410191
+    second: img_plane_main_advpegasus_02_6
+  - first:
+      213: 5234071268607201309
+    second: img_plane_main_advpegasus_02_7
+  - first:
+      213: 6860767153327686259
+    second: img_plane_main_advpegasus_02_8
+  - first:
+      213: -1298592751315961515
+    second: img_plane_main_advpegasus_02_9
+  - first:
+      213: 8524920008862494374
+    second: img_plane_main_advpegasus_02_10
+  - first:
+      213: 4711595669375960114
+    second: img_plane_main_advpegasus_02_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_plane_main_advpegasus_02_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 848
+        width: 224
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c18c8f35b6891e40800000000000000
+      internalID: 5627677322389520833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advpegasus_02_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 854
+        width: 223
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ea99d4f0d2ca890800000000000000
+      internalID: -7445526540200595843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advpegasus_02_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 671
+        width: 221
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9493276c4e0d060a0800000000000000
+      internalID: -6890277748876363447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advpegasus_02_3
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 675
+        width: 224
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a38eee8e2f864b10800000000000000
+      internalID: 1965415717523063713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advpegasus_02_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 496
+        width: 223
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f57b76e72bdf5350800000000000000
+      internalID: 6007761392352589305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advpegasus_02_5
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 510
+        width: 222
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62215bcff82933280800000000000000
+      internalID: -9064740477848972762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advpegasus_02_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 330
+        width: 223
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fad1e2da50fb670800000000000000
+      internalID: 8556564058388410191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advpegasus_02_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 330
+        width: 219
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d101966661823a840800000000000000
+      internalID: 5234071268607201309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advpegasus_02_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 164
+        width: 222
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372c3c44067563f50800000000000000
+      internalID: 6860767153327686259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advpegasus_02_9
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 165
+        width: 219
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5593aedd5c87afde0800000000000000
+      internalID: -1298592751315961515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advpegasus_02_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 220
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae6ed2c4999e4670800000000000000
+      internalID: 8524920008862494374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_advpegasus_02_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 3
+        width: 219
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2344c665c43f26140800000000000000
+      internalID: 4711595669375960114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_plane_main_advpegasus_02_0: 5627677322389520833
+      img_plane_main_advpegasus_02_1: -7445526540200595843
+      img_plane_main_advpegasus_02_10: 8524920008862494374
+      img_plane_main_advpegasus_02_11: 4711595669375960114
+      img_plane_main_advpegasus_02_2: -6890277748876363447
+      img_plane_main_advpegasus_02_3: 1965415717523063713
+      img_plane_main_advpegasus_02_4: 6007761392352589305
+      img_plane_main_advpegasus_02_5: -9064740477848972762
+      img_plane_main_advpegasus_02_6: 8556564058388410191
+      img_plane_main_advpegasus_02_7: 5234071268607201309
+      img_plane_main_advpegasus_02_8: 6860767153327686259
+      img_plane_main_advpegasus_02_9: -1298592751315961515
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

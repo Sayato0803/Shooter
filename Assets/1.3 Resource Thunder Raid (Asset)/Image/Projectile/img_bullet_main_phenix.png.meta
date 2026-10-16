@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: db2af6c1dfdd9a44cb38a23506db7a60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7653309826299542960
+    second: img_bullet_main_phenix_0
+  - first:
+      213: 2225653075099859764
+    second: img_bullet_main_phenix_1
+  - first:
+      213: 3598389995994354064
+    second: img_bullet_main_phenix_2
+  - first:
+      213: 216673985669209632
+    second: img_bullet_main_phenix_3
+  - first:
+      213: -7328675549765168342
+    second: img_bullet_main_phenix_4
+  - first:
+      213: 4346649145885693824
+    second: img_bullet_main_phenix_5
+  - first:
+      213: 6707276955592257739
+    second: img_bullet_main_phenix_6
+  - first:
+      213: -1872817672446081008
+    second: img_bullet_main_phenix_7
+  - first:
+      213: -4043577859413006384
+    second: img_bullet_main_phenix_8
+  - first:
+      213: 7278562409825930528
+    second: img_bullet_main_phenix_9
+  - first:
+      213: 8203236741732239095
+    second: img_bullet_main_phenix_10
+  - first:
+      213: -345242225015955797
+    second: img_bullet_main_phenix_11
+  - first:
+      213: -2007248061917361965
+    second: img_bullet_main_phenix_12
+  - first:
+      213: 6932945447665281390
+    second: img_bullet_main_phenix_13
+  - first:
+      213: -7758933794032020370
+    second: img_bullet_main_phenix_14
+  - first:
+      213: 848322157086906672
+    second: img_bullet_main_phenix_15
+  - first:
+      213: 4491965199233014603
+    second: img_bullet_main_phenix_16
+  - first:
+      213: 3587894187784477292
+    second: img_bullet_main_phenix_17
+  - first:
+      213: -6640719762377892586
+    second: img_bullet_main_phenix_18
+  - first:
+      213: -3725270675734880233
+    second: img_bullet_main_phenix_19
+  - first:
+      213: 682020232910596133
+    second: img_bullet_main_phenix_20
+  - first:
+      213: -2698375849952389156
+    second: img_bullet_main_phenix_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_bullet_main_phenix_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 91
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052c86f034bf9c590800000000000000
+      internalID: -7653309826299542960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_phenix_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 423
+        width: 36
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b35960eab13ee10800000000000000
+      internalID: 2225653075099859764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_phenix_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 427
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0911092e2ac00f130800000000000000
+      internalID: 3598389995994354064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_phenix_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 430
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e91eb87d7c10300800000000000000
+      internalID: 216673985669209632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_phenix_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 91
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23182e9a605b4a90800000000000000
+      internalID: -7328675549765168342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_phenix_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 338
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08795cf5e56625c30800000000000000
+      internalID: 4346649145885693824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_phenix_6
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 345
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc07d3cbad8051d50800000000000000
+      internalID: 6707276955592257739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_phenix_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 250
+        width: 66
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01807c0ef3a6206e0800000000000000
+      internalID: -1872817672446081008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_phenix_8
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 251
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7ad045c5352e7c0800000000000000
+      internalID: -4043577859413006384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_phenix_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 250
+        width: 58
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d8f21c2f5a20560800000000000000
+      internalID: 7278562409825930528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_phenix_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 261
+        width: 26
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6026f9a50c7d170800000000000000
+      internalID: 8203236741732239095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_phenix_11
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 187
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae55788604753bf0800000000000000
+      internalID: -345242225015955797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_phenix_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 146
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d80355c582d424e0800000000000000
+      internalID: -2007248061917361965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_phenix_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 165
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69204ff625c63060800000000000000
+      internalID: 6932945447665281390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_phenix_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 164
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6492faa2dab25490800000000000000
+      internalID: -7758933794032020370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_phenix_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 168
+        width: 26
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039124cd188d5cb00800000000000000
+      internalID: 848322157086906672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_phenix_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 111
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b53bb9c8aa65e30800000000000000
+      internalID: 4491965199233014603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_phenix_17
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 19
+        width: 36
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a159a11c2cac130800000000000000
+      internalID: 3587894187784477292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_phenix_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 82
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d9c866f8c67d3a0800000000000000
+      internalID: -6640719762377892586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_phenix_19
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 81
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710a4a8ce0e2d4cc0800000000000000
+      internalID: -3725270675734880233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_phenix_20
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528e340d9c5077900800000000000000
+      internalID: 682020232910596133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_main_phenix_21
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 6
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7581906717d8ad0800000000000000
+      internalID: -2698375849952389156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_bullet_main_phenix_0: -7653309826299542960
+      img_bullet_main_phenix_1: 2225653075099859764
+      img_bullet_main_phenix_10: 8203236741732239095
+      img_bullet_main_phenix_11: -345242225015955797
+      img_bullet_main_phenix_12: -2007248061917361965
+      img_bullet_main_phenix_13: 6932945447665281390
+      img_bullet_main_phenix_14: -7758933794032020370
+      img_bullet_main_phenix_15: 848322157086906672
+      img_bullet_main_phenix_16: 4491965199233014603
+      img_bullet_main_phenix_17: 3587894187784477292
+      img_bullet_main_phenix_18: -6640719762377892586
+      img_bullet_main_phenix_19: -3725270675734880233
+      img_bullet_main_phenix_2: 3598389995994354064
+      img_bullet_main_phenix_20: 682020232910596133
+      img_bullet_main_phenix_21: -2698375849952389156
+      img_bullet_main_phenix_3: 216673985669209632
+      img_bullet_main_phenix_4: -7328675549765168342
+      img_bullet_main_phenix_5: 4346649145885693824
+      img_bullet_main_phenix_6: 6707276955592257739
+      img_bullet_main_phenix_7: -1872817672446081008
+      img_bullet_main_phenix_8: -4043577859413006384
+      img_bullet_main_phenix_9: 7278562409825930528
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 67030c2513d83bb49a635f6a4cefa596
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7371238507249316110
+    second: img_plane_main_lucifer_04_0
+  - first:
+      213: 8728262823011508551
+    second: img_plane_main_lucifer_04_1
+  - first:
+      213: 2374323279850017928
+    second: img_plane_main_lucifer_04_2
+  - first:
+      213: 1072181395055019658
+    second: img_plane_main_lucifer_04_3
+  - first:
+      213: -7135751564089026214
+    second: img_plane_main_lucifer_04_4
+  - first:
+      213: -7687496330285789858
+    second: img_plane_main_lucifer_04_5
+  - first:
+      213: -1808889049712676961
+    second: img_plane_main_lucifer_04_6
+  - first:
+      213: -2296013144426425756
+    second: img_plane_main_lucifer_04_7
+  - first:
+      213: -2975025123110416961
+    second: img_plane_main_lucifer_04_8
+  - first:
+      213: -631971874258852064
+    second: img_plane_main_lucifer_04_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_plane_main_lucifer_04_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 195
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01b64b2e56eb4660800000000000000
+      internalID: 7371238507249316110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_lucifer_04_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 367
+        width: 196
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74169df0bc4012970800000000000000
+      internalID: 8728262823011508551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_lucifer_04_2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 216
+        width: 160
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884966d717a43f020800000000000000
+      internalID: 2374323279850017928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_lucifer_04_3
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 361
+        width: 115
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8689035c4721ee00800000000000000
+      internalID: 1072181395055019658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_lucifer_04_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 141
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59190162c7b8fc90800000000000000
+      internalID: -7135751564089026214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_lucifer_04_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 105
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d423551d6805590800000000000000
+      internalID: -7687496330285789858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_lucifer_04_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 43
+        width: 132
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f28c14ef885e6e0800000000000000
+      internalID: -1808889049712676961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_lucifer_04_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 65
+        width: 109
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462d5deb53ce220e0800000000000000
+      internalID: -2296013144426425756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_lucifer_04_8
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 55
+        width: 130
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd0423b96696b6d0800000000000000
+      internalID: -2975025123110416961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_lucifer_04_9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 208
+        width: 157
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02763cebde8ca37f0800000000000000
+      internalID: -631971874258852064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_plane_main_lucifer_04_0: 7371238507249316110
+      img_plane_main_lucifer_04_1: 8728262823011508551
+      img_plane_main_lucifer_04_2: 2374323279850017928
+      img_plane_main_lucifer_04_3: 1072181395055019658
+      img_plane_main_lucifer_04_4: -7135751564089026214
+      img_plane_main_lucifer_04_5: -7687496330285789858
+      img_plane_main_lucifer_04_6: -1808889049712676961
+      img_plane_main_lucifer_04_7: -2296013144426425756
+      img_plane_main_lucifer_04_8: -2975025123110416961
+      img_plane_main_lucifer_04_9: -631971874258852064
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: bded24926caec204aa025673552077a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4961309011600302294
+    second: img_plane_main_poseidon_02_0
+  - first:
+      213: 3508738329113130835
+    second: img_plane_main_poseidon_02_1
+  - first:
+      213: -8817374342665393971
+    second: img_plane_main_poseidon_02_2
+  - first:
+      213: -6544913002408356582
+    second: img_plane_main_poseidon_02_3
+  - first:
+      213: -1817342651436569796
+    second: img_plane_main_poseidon_02_4
+  - first:
+      213: -995475700686694568
+    second: img_plane_main_poseidon_02_5
+  - first:
+      213: 459267456244570241
+    second: img_plane_main_poseidon_02_6
+  - first:
+      213: -6186445260191944968
+    second: img_plane_main_poseidon_02_7
+  - first:
+      213: -629331591304192637
+    second: img_plane_main_poseidon_02_8
+  - first:
+      213: 3446182315287697529
+    second: img_plane_main_poseidon_02_9
+  - first:
+      213: 6037699757690762989
+    second: img_plane_main_poseidon_02_10
+  - first:
+      213: 875251319202146954
+    second: img_plane_main_poseidon_02_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_plane_main_poseidon_02_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 868
+        width: 159
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f9e967db3e52bb0800000000000000
+      internalID: -4961309011600302294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_poseidon_02_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 868
+        width: 157
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357f5949bea81b030800000000000000
+      internalID: 3508738329113130835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_poseidon_02_2
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 868
+        width: 160
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc829c570c462a580800000000000000
+      internalID: -8817374342665393971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_poseidon_02_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 711
+        width: 159
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a155d9dfc4ccb25a0800000000000000
+      internalID: -6544913002408356582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_poseidon_02_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 714
+        width: 159
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3be4f9bc7087c6e0800000000000000
+      internalID: -1817342651436569796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_poseidon_02_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 711
+        width: 159
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857590edf1c5f22f0800000000000000
+      internalID: -995475700686694568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_poseidon_02_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 554
+        width: 155
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188da527155af5600800000000000000
+      internalID: 459267456244570241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_poseidon_02_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 558
+        width: 158
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe2cd320d4552aa0800000000000000
+      internalID: -6186445260191944968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_poseidon_02_8
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 557
+        width: 156
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dd166804a2447f0800000000000000
+      internalID: -629331591304192637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_poseidon_02_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 397
+        width: 154
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978d4fd9e8c43df20800000000000000
+      internalID: 3446182315287697529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_poseidon_02_10
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 402
+        width: 153
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6be95c0f73ac350800000000000000
+      internalID: 6037699757690762989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_plane_main_poseidon_02_11
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 402
+        width: 155
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a6c320074852c00800000000000000
+      internalID: 875251319202146954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      img_plane_main_poseidon_02_0: -4961309011600302294
+      img_plane_main_poseidon_02_1: 3508738329113130835
+      img_plane_main_poseidon_02_10: 6037699757690762989
+      img_plane_main_poseidon_02_11: 875251319202146954
+      img_plane_main_poseidon_02_2: -8817374342665393971
+      img_plane_main_poseidon_02_3: -6544913002408356582
+      img_plane_main_poseidon_02_4: -1817342651436569796
+      img_plane_main_poseidon_02_5: -995475700686694568
+      img_plane_main_poseidon_02_6: 459267456244570241
+      img_plane_main_poseidon_02_7: -6186445260191944968
+      img_plane_main_poseidon_02_8: -629331591304192637
+      img_plane_main_poseidon_02_9: 3446182315287697529
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
